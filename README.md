@@ -15,7 +15,7 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 ### Repo Structure
 
 ```
-/SEI-CC-4
+/SEI-CC-7
     /computer-science
     /projects
     /resources
@@ -215,7 +215,6 @@ For your convenience, recordings of the lessons will be available to review at
 |Local Instructor - Austin | Ben Manley| @Ben Manley |  ben.manley@generalassemb.ly |
 |Local Instructor - Dallas | Daniel Scott | @Daniel Scott | daniel.scott@generalassemb.ly |
 |Local Instructor - Santa Monica (LA) | Alex Rowland |  @Alexander Rowland  | alexander.rowland@generalassemb.ly |
-|Local Instructor - San Fransisco | Brock Whitbread | Brock Whitbread-Cole | brock.whitbread@generalassemb.ly |
 |Local Instructor - Denver | Micah Wierenga | @Micah Wierenga  | Micah.Wierenga@generalassemb.ly |
 |Local Instructor - San Diego | Morgan Pierson | @Morgan Pierson  | Morgan.Pierson@generalassemb.ly |
 
