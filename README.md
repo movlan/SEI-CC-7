@@ -230,7 +230,7 @@ General Assembly's courses are pass/fail programs. We have certain requirements 
 
 - No more than 3 days absent from class over the duration of the course (3 tardies equals 1 absence)
 - Successful completion of four assigned projects
-- Successful completion of 3 of 4 project assessment challenges
+- Successful completion of each of the four project's assessment
 - Participating in GA’s mid-course and end-of-course feedback surveys
 - Complete 80% of assigned "deliverables"
 
