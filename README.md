@@ -6,30 +6,26 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 
 ### Contents
 
+- Course Dates and Holidays
+- Course Curriculum
+- Instructional Team / Contact Info
+- Link to Recorded Lessons
+- Link to Deliverable Schedule
 - Class Repository Structure
-- SEI GitHub Workflow
-- Contact Information
-- Course Information and Dates
+- Becoming Familiar With the SEI GitHub Workflow
+- Daily JavaScript Code Challenges
+- Additional Coding Practice Resources
 - Immersive Graduation Requirements
 
-### Repo Structure
+### Course Dates and Holidays
 
-```
-/SEI-CC-7
-    /computer-science
-    /projects
-    /resources
-    /work
-      /w01
-          /d1
-            /01-topic
-            /02-topic
-            /03-topic
-            /04-topic
-            /hw-topic
-```
+- Course duration: Monday, January 27th, 2020 - Monday, April 20th, 2020  (60 days - not including holidays)
+- Holiday:
+	- Feb 17th, 2020 (Presidents Day)
 
 ### Course Curriculum
+
+> The following is an overall schedule and is subject to change.
 
 <table>
   <thead>
@@ -94,6 +90,52 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
     </tr>
   </tbody>
 </table>
+
+### Instructional Team Contact Information
+
+|Role        | Name            | Slack       | Email |
+|:--         | :--             | :--         | :-- |
+|Global Instructor  | Jim Clark       | @Jim Clark  | jim.clark@generalassemb.ly |
+|Global Instructor  | Jim Haff       | @Jim Haff | james.haff@generalassemb.ly |
+|Local Instructor - Austin | Ben Manley| @Ben Manley |  ben.manley@generalassemb.ly |
+|Local Instructor - Dallas | Daniel Scott | @Daniel Scott | daniel.scott@generalassemb.ly |
+|Local Instructor - Santa Monica (LA) | Alex Rowland |  @Alexander Rowland  | alexander.rowland@generalassemb.ly |
+|Local Instructor - Denver | Micah Wierenga | @Micah Wierenga  | Micah.Wierenga@generalassemb.ly |
+|Local Instructor - San Diego | Morgan Pierson | @Morgan Pierson  | Morgan.Pierson@generalassemb.ly |
+
+### Link to Recorded Lessons
+
+For your convenience, recordings of the lessons will be available to review at 
+ [this YouTube channel](https://www.youtube.com/playlist?list=PLt-s1HdZuBB24FsO3_zxZgNPNQ9ZmuLhO).
+ 
+### Link to Deliverable Schedule
+
+A Deliverable is an assignment that is required to be submitted as instructed to your instructors.
+
+Unless otherwise stated, no deliverable will be accepted past its due date, which is typically 1 week from when the deliverable was assigned.
+
+Graduation requires that 80% of deliverables be completed (working) and delivered on time.
+
+[Link to the Deliverable Schedule in the `/resources` directory](./resources/deliverable-schedule.md)
+
+[COMING SOON - Link to submit Deliverables]()
+
+### Class Repo Structure
+
+```
+/SEI-CC-7
+    /computer-science
+    /projects
+    /resources
+    /work
+      /w01
+          /d1
+            /01-topic
+            /02-topic
+            /03-topic
+            /04-topic
+            /hw-topic
+```
 
 ### Becoming Familiar With the SEI GitHub Workflow
 
@@ -173,7 +215,7 @@ The above Git/GitHub workflow is summarized by this diagram:
 
 <img src="https://i.imgur.com/w871ATo.png">
 
-#### Handling Merge Conflicts
+#### Git Merge Conflicts
 
 A **merge conflict** occurs when git merges two commits that have modified the same region of code and can't figure out whose code to use. Thus, fixing merge conflicts requires that a developer manually update the code to what it should be and re-commit it to resolve the conflict, which will also finish git's merge process.
 
@@ -189,6 +231,8 @@ Git informs you which files have merge conflicts and will *annotate* your code t
 
 Once you have resolved these merge conflicts by editing the code and removing the markers, you can `add` and `commit` normally.
 
+During group project merge conflicts will likely occur giving you an opportunity to learn more about them then.
+
 #### Important
 
 **"Nested" repos are never permitted**.  Therefore, if you have important code, such as your projects, that belongs in its own repo, **be sure to put that code in folders outside of the class repo**.
@@ -199,38 +243,42 @@ There are 30 required code challenges that will help you get the necessary pract
 
 Just as with the class repo, you will fork & clone [the code challenges repo](https://git.generalassemb.ly/SEI-CC/daily-js-code-challenges).
 
-These coding challenges start with day 1 and will continue through week 8 (excluding project weeks).
+You should complete one code challenge per day during the first 30 days, excluding project weeks.
 
-### Videos of Lessons
 
-For your convenience, recordings of the lessons will be available to review at 
- [this YouTube channel](https://www.youtube.com/playlist?list=PLt-s1HdZuBB2GWeGp22CespUvDlwLknhz).
+### Additional Coding Practice Resources
 
-### Instructional Team
+If/when you find yourself with extra time, and assuming you are caught up with your Daily JavaScript Code Challenges, look into these external resources:
 
-|Role        | Name            | Slack       | Email |
-|:--         | :--             | :--         | :-- |
-|Global Instructor  | Jim Clark       | @Jim Clark  | jim.clark@generalassemb.ly |
-|Global Instructor  | Jim Haff       | @Jim Haff | james.haff@generalassemb.ly |
-|Local Instructor - Austin | Ben Manley| @Ben Manley |  ben.manley@generalassemb.ly |
-|Local Instructor - Dallas | Daniel Scott | @Daniel Scott | daniel.scott@generalassemb.ly |
-|Local Instructor - Santa Monica (LA) | Alex Rowland |  @Alexander Rowland  | alexander.rowland@generalassemb.ly |
-|Local Instructor - Denver | Micah Wierenga | @Micah Wierenga  | Micah.Wierenga@generalassemb.ly |
-|Local Instructor - San Diego | Morgan Pierson | @Morgan Pierson  | Morgan.Pierson@generalassemb.ly |
+#### codewars
 
-### Course Information
+[codewars](https://www.codewars.com/) is an excellent source of coding challenges for numerous programming languages.
 
-- Course duration: Monday, January 27th, 2020 - Monday, April 20th, 2020  (12 weeks, plus one-day extension due to holiday)
-- Holiday:
-	- Feb 17th, 2020 (Presidents Day)
+It's free, so be sure to create an account so that you can track your progress.
+
+Code challenges (called _Kata_) vary in difficulty from "8kyu" (easiest) to "1kyu".
+
+#### Interview Cake
+
+Designed to prep you technical interviews, [Interview Cake](https://www.interviewcake.com/) comes highly recommended.
+
+It's not free, however, you should take advantage of its free 7-day email crash course and decide to if its worth the bucks to you.
+
+#### Advent of Code
+
+[Advent of Code](https://adventofcode.com/) has special puzzles during the month of December (only).
+
+However, you can access past year's puzzles!
 
 ### GA SEI Graduation Requirements
 
 General Assembly's courses are pass/fail programs. We have certain requirements in order to be considered a graduate of the SEI program:
 
 - No more than 3 days absent from class over the duration of the course (3 tardies equals 1 absence)
-- Successful completion of four assigned projects
-- Successful completion of each of the four project's assessment
+- Successful completion of four assigned projects.
+- Successful completion of each project's assessment.  Passing the project assessment is a requirement of the project itself.
+- If you fail any part of a project (the project requirements, or the project assessment challenge), you can resubmit that part **once**.
+- No violation of GA's zero tolerance plagiarism policy.
 - Participating in GA’s mid-course and end-of-course feedback surveys
 - Complete 80% of assigned "deliverables"
 
