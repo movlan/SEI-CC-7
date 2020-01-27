@@ -9,6 +9,7 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 - Course Dates and Holidays
 - Course Curriculum
 - Instructional Team / Contact Info
+- Links to Sign Up for Global Instructor's Office Hours
 - Link to Recorded Lessons
 - Link to Deliverable Schedule
 - Class Repository Structure
@@ -102,6 +103,19 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 |Local Instructor - Santa Monica (LA) | Alex Rowland |  @Alexander Rowland  | alexander.rowland@generalassemb.ly |
 |Local Instructor - Denver | Micah Wierenga | @Micah Wierenga  | Micah.Wierenga@generalassemb.ly |
 |Local Instructor - San Diego | Morgan Pierson | @Morgan Pierson  | Morgan.Pierson@generalassemb.ly |
+
+### Links to Sign Up for Global Instructor's Office Hours
+
+Both global instructors will have a limited number of 15 minute one-on-one office hour visits each week.
+
+Click on the links provided below to schedule a 15 minute session for the week:
+
+|Instructor| Sign Up Link|
+|:--|:-:|
+|Jim Clark| [link](https://generalassembly-jim-clark.youcanbook.me/)|
+|Jim Haff| [link](https://jameshaff.youcanbook.me) |
+
+Note that the instructors will slack you a Zoom link prior to the session.
 
 ### Link to Recorded Lessons
 
