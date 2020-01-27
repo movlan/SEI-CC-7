@@ -40,7 +40,7 @@ In summary:
 
 - Git provides us with local repositories on our computers
 - GitHub provides us with remote repositories stored in the cloud
-- A local repository is "linked" to a remote repository by adding a "remote" with this command `$ git add remote <name of remote> <URL of repo on GitHub>`
+- A local repository is "linked" to a remote repository by adding a "remote" with this command `$ git remote add <name of remote> <URL of repo on GitHub>`
 
 ## Fork & Clone the Class Repo
 
