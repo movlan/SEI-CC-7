@@ -27,7 +27,7 @@
 | Fabrizio | DAL |  |
 | Gabriel | DAL |  |
 | Jason | DAL |  |
-| John |-ichael (DAL |  |
+| John-Michael | DAL |  |
 | Matthew | DAL |  |
 | Rashad | DAL |  |
 | Alex | DEN |  |
@@ -43,8 +43,8 @@
 | Jason | DEN |  |
 | Jeremy | DEN |  |
 | Megan | DEN |  |
-| Robert | . (DEN |  |
-| Robert | . (DEN |  |
+| Robert J. | DEN |  |
+| Robert P. | DEN |  |
 | Ryan | DEN |  |
 | Sahar | DEN |  |
 | Alejandra | LA |  |
