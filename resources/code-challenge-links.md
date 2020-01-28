@@ -53,7 +53,7 @@
 | Carl | LA |  |
 | Caroline | LA | [link](https://git.generalassemb.ly/carolinele/daily-js-code-challenges) |
 | Cedric | LA |  |
-| Daniel | LA | [link](https://git.generalassemb.ly/chasmad/daily-js-code-challenges) |
+| Danny | LA | [link](https://git.generalassemb.ly/chasmad/daily-js-code-challenges) |
 | Francis | LA | [link](https://git.generalassemb.ly/FrancisMel24/daily-js-code-challenges) |
 | Hunter | LA | [link](https://git.generalassemb.ly/HunterHerrera/daily-js-code-challenges) |
 | Jose | LA |  |
