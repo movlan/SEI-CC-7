@@ -314,9 +314,10 @@
 
 	```js
 	let num = 0;
+		
 	do {
 	  console.log(num + ' is even');
-	  step += 2;
+	  num += 2;
 	} while (num <= 10);
 	```
 
