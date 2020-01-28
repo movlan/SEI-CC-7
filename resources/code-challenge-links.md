@@ -7,13 +7,13 @@
 | Alex | ATX | [link](https://git.generalassemb.ly/alex1360/daily-js-code-challenges) |
 | Brandon | ATX | [link](https://git.generalassemb.ly/bcarteratx/daily-js-code-challenges) |
 | Crystal | ATX | [link](https://git.generalassemb.ly/crystallynnv/daily-js-code-challenges) |
-| Daniel | ATX |  |
+| Daniel | ATX | [link](https://git.generalassemb.ly/Dandan/daily-js-code-challenges) |
 | David | ATX | [link](https://git.generalassemb.ly/DavidStinson/daily-js-code-challenges) |
 | Elix | ATX | [link](https://git.generalassemb.ly/Erome/daily-js-code-challenges) |
 | Jan | ATX | [link](https://git.generalassemb.ly/jlee8020/daily-js-code-challenges) |
 | Jose | ATX |  |
 | Lincoln | ATX | [link](https://git.generalassemb.ly/lincolnyouree/daily-js-code-challenges) |
-| Mariana | ATX |  |
+| Mariana | ATX | [link](https://git.generalassemb.ly/MBJaeger/daily-js-code-challenges) |
 | Melony | ATX | [link](https://git.generalassemb.ly/melonysegnit/daily-js-code-challenges) |
 | Michael | ATX | [link](https://git.generalassemb.ly/mlackey9601/daily-js-code-challenges) |
 | Skylar | ATX | [link](https://git.generalassemb.ly/skylarw19/daily-js-code-challenges) |
