@@ -33,7 +33,7 @@
 | Alex | DEN | [link](https://git.generalassemb.ly/Jennings6248/daily-js-code-challenges) |
 | Anderson | DEN | [link](https://git.generalassemb.ly/anderama100/daily-js-code-challenges) |
 | Andrew | DEN | [link](https://git.generalassemb.ly/aclark13861/daily-js-code-challenges) |
-| Ashly | DEN |  |
+| Ashly | DEN | [link](https://git.generalassemb.ly/ashmeeee/daily-js-code-challenges) |
 | Bahram | DEN | [link](https://git.generalassemb.ly/movlan/daily-js-code-challenges) |
 | Brian | DEN | [link](https://git.generalassemb.ly/brianbellini/daily-js-code-challenges) |
 | Cody | DEN | [link](https://git.generalassemb.ly/CodyLHart/daily-js-code-challenges) |
