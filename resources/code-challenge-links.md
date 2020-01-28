@@ -17,13 +17,13 @@
 | Melony | ATX | [link](https://git.generalassemb.ly/melonysegnit/daily-js-code-challenges) |
 | Michael | ATX | [link](https://git.generalassemb.ly/mlackey9601/daily-js-code-challenges) |
 | Skylar | ATX | [link](https://git.generalassemb.ly/skylarw19/daily-js-code-challenges) |
-| Sumar | ATX |  |
+| Sumar | ATX | [link](https://git.generalassemb.ly/sumardey5/daily-js-code-challenges) |
 | Tan | ATX | [link](https://git.generalassemb.ly/zeroxposur18/daily-code-challenges) |
 | Vinnie | ATX | [link](https://git.generalassemb.ly/vin23/daily-js-code-challenges) |
 | Adam | DAL | [link](https://git.generalassemb.ly/azebolsky/daily-js-code-challenges) |
 | Briana | DAL | [link](https://git.generalassemb.ly/bnfisher4/daily-js-code-challenges) |
 | David | DAL | [link](https://git.generalassemb.ly/fastlane27/daily-code-challenges) |
-| Eric | DAL |  |
+| Eric | DAL | [link](https://git.generalassemb.ly/ericjames3681/daily-js-code-challenges) |
 | Fabrizio | DAL | [link](https://git.generalassemb.ly/lopezfabrizio/daily-js-code-challenges) |
 | Gabriel | DAL | [link](https://git.generalassemb.ly/gar0085/daily-js-code-challenges) |
 | Jason | DAL | [link](https://git.generalassemb.ly/lol/daily-code-challenges/) |
