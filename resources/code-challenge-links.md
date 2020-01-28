@@ -11,7 +11,7 @@
 | David | ATX | [link](https://git.generalassemb.ly/DavidStinson/daily-js-code-challenges) |
 | Elix | ATX | [link](https://git.generalassemb.ly/Erome/daily-js-code-challenges) |
 | Jan | ATX | [link](https://git.generalassemb.ly/jlee8020/daily-js-code-challenges) |
-| Jose | ATX |  |
+| Jose | ATX | [link](https://git.generalassemb.ly/newguy21/daily-js-code-challenges) |
 | Lincoln | ATX | [link](https://git.generalassemb.ly/lincolnyouree/daily-js-code-challenges) |
 | Mariana | ATX | [link](https://git.generalassemb.ly/MBJaeger/daily-js-code-challenges) |
 | Melony | ATX | [link](https://git.generalassemb.ly/melonysegnit/daily-js-code-challenges) |
