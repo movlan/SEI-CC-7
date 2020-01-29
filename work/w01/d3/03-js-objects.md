@@ -83,6 +83,7 @@ Students Will Be Able To:
 
 ---
 ### Ways to Create Objects
+<br>
 
 - There are three different ways we can create objects:
 	- By using _Object Literal notation_
@@ -189,7 +190,7 @@ Students Will Be Able To:
 ### Adding/Updating Properties<br>Practice (2 min)
 <br>
 
-- <p>Using dot notation on the `game` object:</p>
+- Using dot notation on the `game` object:
 	- Add a property with a key of `numGuesses` set to a value of `0`.
 	- Update the `smallestNum` property's value to be `1`.
 
@@ -213,27 +214,28 @@ Students Will Be Able To:
 	```js
 	someObject[<any JS expression>]
 	```
-
-- For example to access the `game` object's `title` property, we could write this code:
-
-	```js
-	console.log(game['title']);
-	```
-	Note that using a string literal like above is being done just to demonstrate the syntax.<br>More efficient code would be `console.log(game.title);`
+	
+- The `<any JS expression>` can be anything that evaluates to a single "value" - even function calls!
 
 ---
 ### Square Bracket Notation
-<br>
 
-- If the result of the expression between the brackets is not a string (or symbol), JS will convert it to a string. For example:
+- For example, assume we have an object `words` with "categories" of words:
 
 	```js
-	const weirdObj = {};
-	weirdObj[null] = true;
-	console.log(weirdObj) // {'null': true}
+	const words = {
+	  'animals': ['fox', 'zebra', 'bear', 'turkey'],
+	  'colors': ['purple', 'orange', 'green'],
+	  // ...other categories
+	};
 	```
+- Now, the program can use a `selectedCategory` variable to access the array of words:
 
-- Again, the expression between the square brackets can be any expression - even a function call!
+	```js
+	const wordList = words[selectedCategory];
+	```
+	
+- Again, we use square bracket notation to access properties dynamically during runtime.
 
 ---
 ### Square Bracket Notation - Practice
@@ -305,9 +307,9 @@ Students Will Be Able To:
 
 	```js
 	const geniuses = {
-		Einstein: true,
-		Newton: true,
-		Snooki: false
+	  Einstein: true,
+	  Newton: true,
+	  Snooki: false
 	};
 	
 	// see ya!
@@ -361,7 +363,7 @@ Students Will Be Able To:
 
 	```js
 	Object.values(game).forEach(function(val) {
-		console.log(val);
+	  console.log(val);
 	});
 	```
 
@@ -378,9 +380,9 @@ Students Will Be Able To:
 	const longitude = getLng('Disneyland');
 	
 	const location = {
-		name: 'Disneyland',
-		latitude: latitude,
-		longitude: longitude
+	  name: 'Disneyland',
+	  latitude: latitude,
+	  longitude: longitude
 	};
 	```
 
@@ -397,9 +399,9 @@ Students Will Be Able To:
 	const longitude = getLng('Disneyland');
 	
 	const location = {
-		name: 'Disneyland',
-		latitude,
-		longitude
+	  name: 'Disneyland',
+	  latitude,
+	  longitude
 	};
 	```
 
@@ -445,7 +447,7 @@ Students Will Be Able To:
 - All non-object data types are known as primitive, or value, types because they hold a single value. Picture a table in memory like this:
 	
 	```
-	                       var | value/ref
+	SCOPE TABLE            var | value/ref
 	                      -----------------
 	let x = 25        -->   x  |  25
 	var msg = 'hello' -->  msg | 'hello'
@@ -461,7 +463,7 @@ Students Will Be Able To:
 - Objects, including Arrays, Functions, etc. are stored in a separate part of memory known as the _heap_. A variable for an object has as its value a "reference" (think pointer):
 
 	```
-	                        var | value/ref
+	SCOPE TABLE             var | value/ref
 	                       -----------------
 	let x = 25         -->   x  |  25
 	var msg = 'hello'  -->  msg | 'hello'        HEAP 
@@ -491,7 +493,7 @@ arr3 === arr1 // true!
 
 - **An object is a collection of zero or more ___________.**
 
-- **Properties are _____: ______ pairs.**
+- **Properties are _____ : ______ pairs.**
 
 - **Is it more efficient to access properties via dot or square bracket notation?**
 
@@ -500,9 +502,9 @@ arr3 === arr1 // true!
 - **Is the following valid code?**
 
 	```js
-		const name = prompt('Enter your name: ');
-		const age = prompt('Enter your age: ');
-		const person = {name, age};
+	const name = prompt('Enter your name: ');
+	const age = prompt('Enter your age: ');
+	const person = {name, age};
 	```
 
 ---
