@@ -145,7 +145,7 @@ There are three primary ways to define functions in JS:
 
 ```js
 function sayHello(name) {
-    console.log('Hello ' + name + '!');
+  console.log('Hello ' + name + '!');
 }
 ```
 
@@ -153,11 +153,11 @@ function sayHello(name) {
 
 ```js
 var sayHello = function(name) {
-    console.log('Hello ' + name + '!');
+  console.log('Hello ' + name + '!');
 };
 ```
 
-**Note the similarities and differences between the two approaches.**
+**❓ What are the similarities and differences between the two approaches?**
 
 ##### Primary Difference Between Function Declarations & Expressions
 
@@ -168,11 +168,11 @@ fnDeclaration();  // thank you function declarations :)
 fnExpression();  // TypeError: fnExpression is not a function
 
 function fnDeclaration() {
-	console.log("I'm coming from a function declaration");
+  console.log("I'm coming from a function declaration");
 }
 
 const fnExpression = function() {
-	console.log("I'm coming from a function expression");
+  console.log("I'm coming from a function expression");
 };
 ```
 
@@ -180,14 +180,14 @@ const fnExpression = function() {
 
 ##### 3) Arrow Functions
 
-ES2015 delivered a third approach to defining functions - **Arrow Functions**.
+ES2015 (ES6) delivered a third approach to defining functions - **Arrow Functions**.
 
 The following function declaration:
 
 ```js
 // Function Declaration
 function add(a, b) {
-	return a + b;
+  return a + b;
 }
 ```
 
@@ -216,7 +216,7 @@ Regardless of which of the three approaches are used to define functions, we cal
 add(25, 100);  // returns 125
 ```
 
-> **Developer Vocab:** Developers might say **call**, **execute**, **invoke** or "**run** a function" - they all mean the thing.
+> **Developer Vocab:** Developers might say **call**, **execute**, **invoke** or **run** ...a function.  In the context of functions, they are synonyms.
 
 ##### Let's Write Another Function
 
@@ -311,8 +311,8 @@ and want that function to return a JS object shaped like this:
 
 ```js
 {
-	devName: 'Maria',
-	jobSkills: ['HTML', 'CSS', 'JavaScript', 'jQuery']
+  devName: 'Maria',
+  jobSkills: ['HTML', 'CSS', 'JavaScript', 'jQuery']
 }
 ```
 
@@ -350,7 +350,7 @@ function getDevObject(name, ...skills) {
 }
 ```
 
-The `...skills` that's defined will be a true array (unlike `arguments`) holding any extra arguments provided to the function.
+The `...skills` parameter will be a true array (unlike `arguments`) holding any extra arguments provided to the function.
   
 Obviously, there can only be a single rest parameter and it must be the last parameter in the list.
 
@@ -367,8 +367,8 @@ Prior to ES2015, here is trivial example of what we had to do:
 
 ```js
 function setColor(bicycle, color) {
-	// set color to 'purple' if not provided
-	bicycle.color = color || 'purple';
+  // set color to 'purple' if not provided
+  bicycle.color = color || 'purple';
 }
 
 var bike = new Bicycle();
@@ -379,7 +379,7 @@ Now, using **default parameters**, we can do this:
 
 ```js
 function setColor(bicycle, color = 'purple') {
-	bicycle.color = color;
+  bicycle.color = color;
 }
 ```
 
@@ -463,7 +463,7 @@ If we define a variable (or a function) within the global scope, it becomes a pr
 
 **Any questions before moving on the lab where you'll practice writing several functions?**
 
-### 6. Local Review & Further Study
+### 6. Further Study
 
 ##### Immediately Invoked Function Expressions (IIFE)
 
@@ -471,9 +471,9 @@ One way we can prevent our code from leaking into the global scope is by wrappin
 
 ```js
 (function() {
-	'use strict';
+  'use strict';
 
-	// your code here...
+  // your code here...
 	
 })();
 ```
@@ -521,9 +521,9 @@ For example, when we write code like this:
 
 ```js
 function hoist() {
-	console.log(x);  // outputs undefined, not a ReferenceError
-	var x = 25;
-	console.log(x);  // outputs 25
+  console.log(x);  // outputs undefined, not a ReferenceError
+  var x = 25;
+  console.log(x);  // outputs 25
 }
 ```
 
@@ -531,10 +531,10 @@ Internally, the JS engine actually sees this:
 
 ```js
 function hoist() {
-	var x;
-	console.log(x);  // outputs undefined, not a ReferenceError
-	x = 25;
-	console.log(x);  // outputs 25
+  var x;
+  console.log(x);  // outputs undefined, not a ReferenceError
+  x = 25;
+  console.log(x);  // outputs 25
 }
 ```
 
