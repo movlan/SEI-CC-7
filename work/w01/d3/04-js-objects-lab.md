@@ -53,7 +53,7 @@ Completing the following tasks will result in a working _Guess the Number_ game:
 
 2. Add a `getGuess` method to `game` that prompts the player to enter a guess with a message formatted as: _Enter a guess between [smallestNum] and [biggestNum]:_.  Hint - use a template literal for the prompt message.
 
-3. Ensure that the `getGuess` method returns a value that is:
+3. Ensure that the `getGuess` method returns a value that:
 	- Is a _number_, not a _string_.
 	- Is between `smallestNum` and `biggestNum`, inclusive.
 	- Hints:
