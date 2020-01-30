@@ -9,7 +9,7 @@ In the _DOM Events_ lesson we saw how to run a function, i.e., an event listener
 
 This lab continues where Part 1 left off and provides practice defining event listeners used to manipulate the DOM in response to user interaction.  It also provides additional practice styling DOM elements dynamically using JavaScript.
 
-### This lab is a deliverable.
+### This lab MAY BE a deliverable - please confirm with your instructor.
 
 ## Setup
 
