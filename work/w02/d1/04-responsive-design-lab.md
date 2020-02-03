@@ -6,7 +6,7 @@
 
 Time for some practice implementing a mobile first responsive design!
 
-## Deliverable
+## Deliverable?
 
 This lab **is NOT a deliverable**.
 
