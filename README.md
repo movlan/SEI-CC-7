@@ -110,10 +110,10 @@ Both global instructors will have a limited number of 15 minute one-on-one offic
 
 Click on the links provided below to schedule a 15 minute session for the week:
 
-|Instructor| Sign Up Link|
-|:--|:-:|
-|Jim Clark| [link](https://generalassembly-jim-clark.youcanbook.me/)|
-|Jim Haff| [link](https://jameshaff.youcanbook.me) |
+|Instructor| Sign Up Link| Zoom Link |
+|:--|:-:|:-:|
+|Jim Clark| [link](https://generalassembly-jim-clark.youcanbook.me/)| [link](https://generalassembly.zoom.us/j/2909161095) |
+|Jim Haff| [link](https://jameshaff.youcanbook.me) |  |
 
 Note that the instructors will slack you a Zoom link prior to the session.
 
