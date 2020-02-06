@@ -123,7 +123,7 @@ You will have a maximum of 10 minutes to present your project following these gu
 1. **Solitaire**
 1. **Battleship** (would require a little AI to implement a computer opponent)
 
-**If you have a game not on the list that you'd like to code, please be sure to get approval from your instructor!**
+**It is highly recommended that you choose from the above list, however, if you feel confident and have a game not on the list that you'd like to code, please be sure to get approval from your instructor before starting your planning (wireframes & pseudocode)!**
 
 > IMPORTANT:  Because it's important to demonstrate your ability to perform DOM manipulation using JavaScript, all games should be DOM-based, not canvas-based.
 
