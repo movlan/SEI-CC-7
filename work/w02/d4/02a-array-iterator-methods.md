@@ -59,7 +59,7 @@ This walk-thru summarizes Array _iterator_ methods, that is, methods that declar
 | `every(cb)` | Check if every `elem` passes condition | `true` or `false` | Return truthy if `elem` is what you're checking for | `(elem, idx, array)` |
 
 
-Note that each of the methods invoke a callback function for each iteration - _usually_ once for each element, however, the following methods will "short circuit" and stop iterating when the callback returns a truthy value:
+Note that each of the methods invoke a callback function for each iteration - _usually_ once for each element, however, the following methods will "short circuit" and stop iterating once their purpose has been fulfilled:
 
 - `find`
 - `findIndex`
