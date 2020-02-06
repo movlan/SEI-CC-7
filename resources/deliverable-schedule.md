@@ -14,6 +14,7 @@ It is a requirement to complete at least **80%** of the following to to receive:
 |Tue 1/28|[JS Arrays Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w01/d2/04-js-arrays-lab.md)| Tue 2/4 |
 |Wed 1/29|[JS Guess the Number Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w01/d3/04-js-objects-lab.md)| Wed 2/5 |
 |Fri 1/31|[Tic-Tac-Toe Weekend](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/tree/master/work/w01/d5/tic-tac-toe-weekend)| Fri 2/7 |
-
+|Wed 2/5|[jQuery "My Developer Skills" Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w02/d3/04-jquery-lab.md)| Wed 2/12 |
+|Thu 2/6|[Array Iterator Methods Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w02/d4/02b-array-methods-lab.md)| Thu 2/13 |
 
 
