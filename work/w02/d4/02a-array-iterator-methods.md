@@ -147,13 +147,13 @@ const types = Object.keys(obj).map(elem => typeof elem);
 Given an array of instructors,
 
 ```js
-const instructors = ["Alex", "Daniel", "Morgan", "Shahzad", "Jim"];
+const instructors = ["Alex", "Daniel", "Morgan", "Ben", "Micah", "Jims"];
 ```
 
 Use `map` to create a new array that adds the string " is awesome" to each element in the array.
 
 ```js
-["Alex is awesome", "Daniel is awesome", "Morgan is awesome", "Shahzad is awesome", "Jim is awesome"]
+["Alex is awesome", "Daniel is awesome", "Morgan is awesome", "Ben is awesome", "Micah is awesome", "Jims is awesome"]
 ```
 ---
 
