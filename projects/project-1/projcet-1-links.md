@@ -12,8 +12,8 @@
 | Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) |  |
 | Jose | ATX | War | [link](https://github.com/newguy-cyber/WAR-Game2) |  |
 | Lincoln | ATX | Slot Machine | [link](https://github.com/lincolnyouree/slot-machine-project-1) |  |
-| Mariana | ATX |  |  |  |
-| Melony | ATX |  |  |  |
+| Mariana | ATX | War | [link](https://github.com/MBJaeger/war) |  |
+| Melony | ATX | Slot Machine | [link](https://github.com/msegnit/slot-machine) |  |
 | Michael | ATX | War | [link](https://github.com/mlackey9601/War) |  |
 | Skylar | ATX | Minesweeper | [link](https://github.com/skylarw19/Minesweeper) |  |
 | Sumar | ATX |  |  |  |
@@ -23,7 +23,7 @@
 | Briana | DAL | Connect Four | [link](https://github.com/bnfisher4/project-1) |  |
 | David | DAL |  |  |  |
 | Eric | DAL |  |  |  |
-| Fabrizio | DAL |  |  |  |
+| Fabrizio | DAL | Slot Machine | [link](https://github.com/fabo22/slot-machine-game) |  |
 | Gabriel | DAL | Blackjack | [link](https://github.com/gar0085/blackjack-game) |  |
 | Jason | DAL |  |  |  |
 | Matthew | DAL |  |  |  |
