@@ -32,7 +32,7 @@
 | Anderson | DEN |  |  |  |
 | Andrew | DEN | Blackjack | [link](https://github.com/aclark13861/Black-jack) |  |
 | Ashly | DEN |  |  |  |
-| Bahram | DEN |  |  |  |
+| Bahram | DEN | Battleship | [link](https://github.com/movlan/sei-cc-07-project-1) |  |
 | Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) |  |
 | Cody | DEN | Minesweeper | [link](https://github.com/CodyLHart/minesweeper) |  |
 | Dagny | DEN |  |  |  |
@@ -40,7 +40,7 @@
 | Janson | DEN |  |  |  |
 | Jason | DEN | Blackjack | [link](https://github.com/JasonCasse/Blackjack) |  |
 | Jeremy | DEN | War | [link](https://github.com/TheJoo44/War-Game) |  |
-| Megan | DEN |  |  |  |
+| Megan | DEN | War | [link](https://github.com/meganforgey/WAR) |  |
 | Robert J. | DEN | Slot Machine | [link](https://github.com/rjohnson0707/Slot-Machine) |  |
 | Robert P. | DEN | The Field of Battle | [link](https://github.com/rperillo1/The-Field-of-Battle) |  |
 | Ryan | DEN | Checkers | [link](https://github.com/Ryan-Finch/Checkers) |  |
