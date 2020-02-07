@@ -48,7 +48,7 @@
 | Amir | LA | Checkers | [link](https://git.generalassemb.ly/Amir94/Checkers-Game) |  |
 | Brennan | LA |  |  |  |
 | Carl | LA |  |  |  |
-| Caroline | LA |  |  |  |
+| Caroline | LA | Slot Machine | [link](https://github.com/H-b8/slot-machine-game) |  |
 | Cedric | LA |  |  |  |
 | Danny | LA |  |  |  |
 | Francis | LA |  |  |  |
