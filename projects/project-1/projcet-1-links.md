@@ -35,7 +35,7 @@
 | Bahram | DEN | Battleship | [link](https://github.com/movlan/sei-cc-07-project-1) |  |
 | Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) |  |
 | Cody | DEN | Minesweeper | [link](https://github.com/CodyLHart/minesweeper) |  |
-| Dagny | DEN |  |  |  |
+| Dagny | DEN | Diamond Authority Simon | [link](https://github.com/DagnyJay/diamond-authority-simon) |  |
 | Jacob | DEN |  |  |  |
 | Janson | DEN |  |  |  |
 | Jason | DEN | Blackjack | [link](https://github.com/JasonCasse/Blackjack) |  |
