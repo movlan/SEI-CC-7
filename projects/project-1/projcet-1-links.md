@@ -14,8 +14,8 @@
 | Lincoln | ATX | Slot Machine | [link](https://github.com/lincolnyouree/slot-machine-project-1) |  |
 | Mariana | ATX |  |  |  |
 | Melony | ATX |  |  |  |
-| Michael | ATX |  |  |  |
-| Skylar | ATX |  |  |  |
+| Michael | ATX | War | [link](https://github.com/mlackey9601/War) |  |
+| Skylar | ATX | Minesweeper | [link](https://github.com/skylarw19/Minesweeper) |  |
 | Sumar | ATX |  |  |  |
 | Tan | ATX |  | [link](https://github.com/zeroxposur18/Project-One) |  |
 | Vinnie | ATX |  |  |  |
@@ -24,7 +24,7 @@
 | David | DAL |  |  |  |
 | Eric | DAL |  |  |  |
 | Fabrizio | DAL |  |  |  |
-| Gabriel | DAL |  |  |  |
+| Gabriel | DAL | Blackjack | [link](https://github.com/gar0085/blackjack-game) |  |
 | Jason | DAL |  |  |  |
 | Matthew | DAL |  |  |  |
 | Rashad | DAL |  |  |  |
