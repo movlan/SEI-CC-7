@@ -30,11 +30,11 @@
 | Rashad | DAL |  |  |  |
 | Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) |  |
 | Anderson | DEN |  |  |  |
-| Andrew | DEN |  |  |  |
+| Andrew | DEN | Blackjack | [link](https://github.com/aclark13861/Black-jack) |  |
 | Ashly | DEN |  |  |  |
 | Bahram | DEN |  |  |  |
 | Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) |  |
-| Cody | DEN |  |  |  |
+| Cody | DEN | Minesweeper | [link](https://github.com/CodyLHart/minesweeper) |  |
 | Dagny | DEN |  |  |  |
 | Jacob | DEN |  |  |  |
 | Janson | DEN |  |  |  |
