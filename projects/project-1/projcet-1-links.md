@@ -44,7 +44,7 @@
 | Robert J. | DEN | Slot Machine | [link](https://github.com/rjohnson0707/Slot-Machine) |  |
 | Robert P. | DEN | The Field of Battle | [link](https://github.com/rperillo1/The-Field-of-Battle) |  |
 | Ryan | DEN | Checkers | [link](https://github.com/Ryan-Finch/Checkers) |  |
-| Alejandra | LA |  |  |  |
+| Alejandra | LA | Connect Four | [link](https://github.com/patinoale/project1-connect-four) |  |
 | Amir | LA | Checkers | [link](https://git.generalassemb.ly/Amir94/Checkers-Game) |  |
 | Brennan | LA |  |  |  |
 | Carl | LA |  |  |  |
@@ -58,7 +58,7 @@
 | Milad | LA |  |  |  |
 | Ruben | LA |  |  |  |
 | Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
-| Stephanie | LA |  |  |  |
+| Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) |  |
 | Alex | SD |  |  |  |
 | Jonathan | SD |  |  |  |
 | Rocky | SD |  |  |  |
