@@ -11,7 +11,7 @@
 | David | ATX |  |  |  |
 | Jan | ATX |  |  |  |
 | Jose | ATX |  |  |  |
-| Lincoln | ATX |  |  |  |
+| Lincoln | ATX | Slot Machine | [link](https://github.com/lincolnyouree/slot-machine-project-1) |  |
 | Mariana | ATX |  |  |  |
 | Melony | ATX |  |  |  |
 | Michael | ATX |  |  |  |
@@ -57,7 +57,7 @@
 | Martin | LA |  |  |  |
 | Milad | LA |  |  |  |
 | Ruben | LA |  |  |  |
-| Sarah | LA |  |  |  |
+| Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
 | Stephanie | LA |  |  |  |
 | Alex | SD |  |  |  |
 | Jonathan | SD |  |  |  |
