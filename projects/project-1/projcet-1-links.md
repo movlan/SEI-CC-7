@@ -45,7 +45,7 @@
 | Robert P. | DEN | The Field of Battle | [link](https://github.com/rperillo1/The-Field-of-Battle) |  |
 | Ryan | DEN | Checkers | [link](https://github.com/Ryan-Finch/Checkers) |  |
 | Alejandra | LA |  |  |  |
-| Amir | LA |  |  |  |
+| Amir | LA | Checkers | [link](https://git.generalassemb.ly/Amir94/Checkers-Game) |  |
 | Brennan | LA |  |  |  |
 | Carl | LA |  |  |  |
 | Caroline | LA |  |  |  |
