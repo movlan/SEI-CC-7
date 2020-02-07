@@ -73,8 +73,8 @@ const people = [
   'Blake, William'
 ];
 
-// Array.prototype.sort()
-// 6. Sort the people array alphabetically by last name
+// Array.prototype.map()
+// 6. Map the people array such that the new array consists of strings with the names formatted as "First Last", e.g., "Becker, Carl" should be mapped to "Carl Becker".
 
 
 
