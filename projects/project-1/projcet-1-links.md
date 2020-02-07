@@ -10,7 +10,7 @@
 | Daniel | ATX |  |  |  |
 | David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) |  |
 | Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) |  |
-| Jose | ATX |  |  |  |
+| Jose | ATX | War | [](https://github.com/newguy-cyber/WAR-Game2) |  |
 | Lincoln | ATX | Slot Machine | [link](https://github.com/lincolnyouree/slot-machine-project-1) |  |
 | Mariana | ATX |  |  |  |
 | Melony | ATX |  |  |  |
@@ -19,7 +19,7 @@
 | Sumar | ATX |  |  |  |
 | Tan | ATX |  | [link](https://github.com/zeroxposur18/Project-One) |  |
 | Vinnie | ATX |  |  |  |
-| Adam | DAL |  |  |  |
+| Adam | DAL | Mancala | [link](https://github.com/azebolsky/Mancala) |  |
 | Briana | DAL | Connect Four | [link](https://github.com/bnfisher4/project-1) |  |
 | David | DAL |  |  |  |
 | Eric | DAL |  |  |  |
@@ -31,13 +31,13 @@
 | Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) |  |
 | Anderson | DEN |  |  |  |
 | Andrew | DEN | Blackjack | [link](https://github.com/aclark13861/Black-jack) |  |
-| Ashly | DEN |  |  |  |
+| Ashly | DEN | War | [link](https://github.com/ashmeeee/War) |  |
 | Bahram | DEN | Battleship | [link](https://github.com/movlan/sei-cc-07-project-1) |  |
 | Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) |  |
 | Cody | DEN | Minesweeper | [link](https://github.com/CodyLHart/minesweeper) |  |
 | Dagny | DEN | Diamond Authority Simon | [link](https://github.com/DagnyJay/diamond-authority-simon) |  |
-| Jacob | DEN |  |  |  |
-| Janson | DEN |  |  |  |
+| Jacob | DEN | Tombstone Slot Machine | [link](https://github.com/LaunchPad90/TombstoneSlotMachine) |  |
+| Janson | DEN | Solitaire | [link](https://github.com/jayjaybunce/Solitaire-JS) |  |
 | Jason | DEN | Blackjack | [link](https://github.com/JasonCasse/Blackjack) |  |
 | Jeremy | DEN | War | [link](https://github.com/TheJoo44/War-Game) |  |
 | Megan | DEN | War | [link](https://github.com/meganforgey/WAR) |  |
