@@ -3,9 +3,9 @@
 | Student | Campus | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|:---:|
 | Alan | ATX |  |  |  |
-| Alanna | ATX |  |  |  |
+| Alanna | ATX | Threes | [link](https://github.com/celentanoad/Threes) |  |
 | Alex | ATX |  |  |  |
-| Brandon | ATX |  |  |  |
+| Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  |
 | Crystal | ATX |  |  |  |
 | Daniel | ATX |  |  |  |
 | David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) |  |
