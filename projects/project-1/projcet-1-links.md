@@ -17,10 +17,10 @@
 | Michael | ATX |  |  |  |
 | Skylar | ATX |  |  |  |
 | Sumar | ATX |  |  |  |
-| Tan | ATX |  |  |  |
+| Tan | ATX |  | [link](https://github.com/zeroxposur18/Project-One) |  |
 | Vinnie | ATX |  |  |  |
 | Adam | DAL |  |  |  |
-| Briana | DAL |  |  |  |
+| Briana | DAL | Connect Four | [link](https://github.com/bnfisher4/project-1) |  |
 | David | DAL |  |  |  |
 | Eric | DAL |  |  |  |
 | Fabrizio | DAL |  |  |  |
@@ -28,22 +28,22 @@
 | Jason | DAL |  |  |  |
 | Matthew | DAL |  |  |  |
 | Rashad | DAL |  |  |  |
-| Alex | DEN |  |  |  |
+| Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) |  |
 | Anderson | DEN |  |  |  |
 | Andrew | DEN |  |  |  |
 | Ashly | DEN |  |  |  |
 | Bahram | DEN |  |  |  |
-| Brian | DEN |  |  |  |
+| Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) |  |
 | Cody | DEN |  |  |  |
 | Dagny | DEN |  |  |  |
 | Jacob | DEN |  |  |  |
 | Janson | DEN |  |  |  |
-| Jason | DEN |  |  |  |
-| Jeremy | DEN |  |  |  |
+| Jason | DEN | Blackjack | [link](https://github.com/JasonCasse/Blackjack) |  |
+| Jeremy | DEN | War | [link](https://github.com/TheJoo44/War-Game) |  |
 | Megan | DEN |  |  |  |
-| Robert J. | DEN |  |  |  |
-| Robert P. | DEN |  |  |  |
-| Ryan | DEN |  |  |  |
+| Robert J. | DEN | Slot Machine | [link](https://github.com/rjohnson0707/Slot-Machine) |  |
+| Robert P. | DEN | The Field of Battle | [link](https://github.com/rperillo1/The-Field-of-Battle) |  |
+| Ryan | DEN | Checkers | [link](https://github.com/Ryan-Finch/Checkers) |  |
 | Alejandra | LA |  |  |  |
 | Amir | LA |  |  |  |
 | Brennan | LA |  |  |  |
