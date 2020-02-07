@@ -8,8 +8,8 @@
 | Brandon | ATX |  |  |  |
 | Crystal | ATX |  |  |  |
 | Daniel | ATX |  |  |  |
-| David | ATX |  |  |  |
-| Jan | ATX |  |  |  |
+| David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) |  |
+| Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) |  |
 | Jose | ATX |  |  |  |
 | Lincoln | ATX | Slot Machine | [link](https://github.com/lincolnyouree/slot-machine-project-1) |  |
 | Mariana | ATX |  |  |  |
