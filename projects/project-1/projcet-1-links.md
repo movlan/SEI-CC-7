@@ -21,7 +21,7 @@
 | Vinnie | ATX |  |  |  |
 | Adam | DAL | Mancala | [link](https://github.com/azebolsky/Mancala) |  |
 | Briana | DAL | Connect Four | [link](https://github.com/bnfisher4/project-1) |  |
-| David | DAL |  |  |  |
+| David | DAL | Checkers | [link](https://github.com/fastlane27/checkers-game) |  |
 | Eric | DAL |  |  |  |
 | Fabrizio | DAL | Slot Machine | [link](https://github.com/fabo22/slot-machine-game) |  |
 | Gabriel | DAL | Blackjack | [link](https://github.com/gar0085/blackjack-game) |  |
