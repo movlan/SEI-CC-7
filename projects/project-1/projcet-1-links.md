@@ -16,7 +16,7 @@
 | Melony | ATX | Slot Machine | [link](https://github.com/msegnit/slot-machine) |  |
 | Michael | ATX | War | [link](https://github.com/mlackey9601/War) |  |
 | Skylar | ATX | Minesweeper | [link](https://github.com/skylarw19/Minesweeper) |  |
-| Sumar | ATX |  |  |  |
+| Sumar | ATX | Blackjack | [link](https://github.com/sumardey5/BlackjackRepo) |  |
 | Tan | ATX |  | [link](https://github.com/zeroxposur18/Project-One) |  |
 | Vinnie | ATX |  |  |  |
 | Adam | DAL | Mancala | [link](https://github.com/azebolsky/Mancala) |  |
@@ -53,14 +53,14 @@
 | Danny | LA |  |  |  |
 | Francis | LA |  |  |  |
 | Hunter | LA |  |  |  |
-| Jose | LA |  |  |  |
+| Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) |  |
 | Martin | LA |  |  |  |
 | Milad | LA |  |  |  |
 | Ruben | LA |  |  |  |
 | Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
 | Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) |  |
 | Alex | SD |  |  |  |
-| Jonathan | SD |  |  |  |
-| Rocky | SD |  |  |  |
+| Jonathan | SD | Minesweeper | [link](https://github.com/WhskyRbbt/Project-1) |  |
+| Rocky | SD | Blackjack | [link](https://github.com/rockyliwanag/Blackjack) |  |
 | Ryan | SD |  |  |  |
 | Trey | SD |  |  |  |
