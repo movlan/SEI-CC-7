@@ -27,7 +27,7 @@
 | Gabriel | DAL | Blackjack | [link](https://github.com/gar0085/blackjack-game) |  |
 | Jason | DAL |  |  |  |
 | Matthew | DAL |  |  |  |
-| Rashad | DAL |  |  |  |
+| Rashad | DAL | Simon | [link](https://github.com/showboat051/simonGame) |  |
 | Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) |  |
 | Anderson | DEN |  |  |  |
 | Andrew | DEN | Blackjack | [link](https://github.com/aclark13861/Black-jack) |  |
