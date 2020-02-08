@@ -18,11 +18,11 @@
 | Skylar | ATX | Minesweeper | [link](https://github.com/skylarw19/Minesweeper) |  |
 | Sumar | ATX | Blackjack | [link](https://github.com/sumardey5/BlackjackRepo) |  |
 | Tan | ATX |  | [link](https://github.com/zeroxposur18/Project-One) |  |
-| Vinnie | ATX |  |  |  |
+| Vinnie | ATX |  | [link](https://github.com/vin23-dev/SEIproject1) |  |
 | Adam | DAL | Mancala | [link](https://github.com/azebolsky/Mancala) |  |
 | Briana | DAL | Connect Four | [link](https://github.com/bnfisher4/project-1) |  |
 | David | DAL | Checkers | [link](https://github.com/fastlane27/checkers-game) |  |
-| Eric | DAL |  |  |  |
+| Eric | DAL | Slot Machine | [link](https://github.com/ericjames3681/slot-machine) |  |
 | Fabrizio | DAL | Slot Machine | [link](https://github.com/fabo22/slot-machine-game) |  |
 | Gabriel | DAL | Blackjack | [link](https://github.com/gar0085/blackjack-game) |  |
 | Jason | DAL |  |  |  |
@@ -46,11 +46,11 @@
 | Ryan | DEN | Checkers | [link](https://github.com/Ryan-Finch/Checkers) |  |
 | Alejandra | LA | Connect Four | [link](https://github.com/patinoale/project1-connect-four) |  |
 | Amir | LA | Checkers | [link](https://github.com/Amir9499-99/Checkers-Game) |  |
-| Brennan | LA |  |  |  |
+| Brennan | LA |  | [link](https://github.com/Chariot7/Project1) |  |
 | Carl | LA |  |  |  |
 | Caroline | LA | Slot Machine | [link](https://github.com/H-b8/slot-machine-game) |  |
 | Cedric | LA | Simon | [link](https://github.com/cjstokes91/SIMON-SAYS) |  |
-| Danny | LA |  |  |  |
+| Danny | LA | Checkers | [link](https://github.com/chasmad/checkers) |  |
 | Francis | LA | Chess | [link](https://git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game) |  |
 | Hunter | LA |  |  |  |
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) |  |
