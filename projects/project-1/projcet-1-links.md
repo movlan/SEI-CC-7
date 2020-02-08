@@ -45,18 +45,18 @@
 | Robert P. | DEN | The Field of Battle | [link](https://github.com/rperillo1/The-Field-of-Battle) |  |
 | Ryan | DEN | Checkers | [link](https://github.com/Ryan-Finch/Checkers) |  |
 | Alejandra | LA | Connect Four | [link](https://github.com/patinoale/project1-connect-four) |  |
-| Amir | LA | Checkers | [link](https://git.generalassemb.ly/Amir94/Checkers-Game) |  |
+| Amir | LA | Checkers | [link](https://github.com/Amir9499-99/Checkers-Game) |  |
 | Brennan | LA |  |  |  |
 | Carl | LA |  |  |  |
 | Caroline | LA | Slot Machine | [link](https://github.com/H-b8/slot-machine-game) |  |
-| Cedric | LA |  |  |  |
+| Cedric | LA | Simon | [link](https://github.com/cjstokes91/SIMON-SAYS) |  |
 | Danny | LA |  |  |  |
-| Francis | LA |  |  |  |
+| Francis | LA | Chess | [link](https://git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game) |  |
 | Hunter | LA |  |  |  |
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) |  |
 | Martin | LA |  |  |  |
-| Milad | LA |  |  |  |
-| Ruben | LA |  |  |  |
+| Milad | LA | Slot Machine | [link](https://git.generalassemb.ly/Milad/Slot-Machine) |  |
+| Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) |  |
 | Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
 | Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) |  |
 | Alex | SD |  |  |  |
