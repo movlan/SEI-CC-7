@@ -7,7 +7,7 @@
 | Alex | ATX |  |  |  |
 | Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  |
 | Crystal | ATX |  |  |  |
-| Daniel | ATX |  |  |  |
+| Daniel | ATX |  | [link](https://github.com/90dandan/Project-One) |  |
 | David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) |  |
 | Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) |  |
 | Jose | ATX | War | [link](https://github.com/newguy-cyber/WAR-Game2) |  |
