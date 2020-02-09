@@ -2,7 +2,7 @@
 
 | Student | Campus | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|:---:|
-| Alan | ATX |  |  |  |
+| Alan | ATX | Connect Four | [link](https://github.com/acmccracken/Connect4) |  |
 | Alanna | ATX | Threes | [link](https://github.com/celentanoad/Threes) |  |
 | Alex | ATX |  |  |  |
 | Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  |
@@ -25,8 +25,7 @@
 | Eric | DAL | Slot Machine | [link](https://github.com/ericjames3681/slot-machine) |  |
 | Fabrizio | DAL | Slot Machine | [link](https://github.com/fabo22/slot-machine-game) |  |
 | Gabriel | DAL | Blackjack | [link](https://github.com/gar0085/blackjack-game) |  |
-| Jason | DAL |  |  |  |
-| Matthew | DAL |  |  |  |
+| Matthew | DAL | Minesweeper | [link](https://github.com/Matthew-Coalson/MINESWEEPER-BROWSER-GAME) |  |
 | Rashad | DAL | Simon | [link](https://github.com/showboat051/simonGame) |  |
 | Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) |  |
 | Anderson | DEN |  |  |  |
@@ -62,5 +61,5 @@
 | Alex | SD |  |  |  |
 | Jonathan | SD | Minesweeper | [link](https://github.com/WhskyRbbt/Project-1) |  |
 | Rocky | SD | Blackjack | [link](https://github.com/rockyliwanag/Blackjack) |  |
-| Ryan | SD |  |  |  |
+| Ryan | SD | Checkers | [link](https://github.com/RyanBranco/Checkers) |  |
 | Trey | SD |  |  |  |
