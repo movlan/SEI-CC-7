@@ -58,7 +58,7 @@
 | Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) |  |
 | Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
 | Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) |  |
-| Alex | SD |  |  |  |
+| Alex | SD | Battleship | [link](https://git.generalassemb.ly/Codealicious/battleship) |  |
 | Jonathan | SD | Minesweeper | [link](https://github.com/WhskyRbbt/Project-1) |  |
 | Rocky | SD | Blackjack | [link](https://github.com/rockyliwanag/Blackjack) |  |
 | Ryan | SD | Checkers | [link](https://github.com/RyanBranco/Checkers) |  |
