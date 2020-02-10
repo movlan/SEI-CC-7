@@ -48,7 +48,7 @@
 | Brennan | LA |  | [link](https://github.com/Chariot7/Project1) |  |
 | Carl | LA | Simon | [link](https://github.com/cjstokes91/SIMON-SAYS) |  |
 | Caroline | LA | Slot Machine | [link](https://github.com/H-b8/slot-machine-game) |  |
-| Cedric | LA | Simon | [link](https://github.com/cjstokes91/SIMON-SAYS) |  |
+| Cedric | LA | |  |  |
 | Danny | LA | Checkers | [link](https://github.com/chasmad/checkers) |  |
 | Francis | LA | Chess | [link](https://git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game) |  |
 | Hunter | LA |  |  |  |
