@@ -6,7 +6,7 @@
 | Alanna | ATX | Threes | [link](https://github.com/celentanoad/Threes) |  |
 | Alex | ATX |  |  |  |
 | Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  |
-| Crystal | ATX |  |  |  |
+| Crystal | ATX | Slot Machine | [link](https://github.com/crystallynnv/slot-machine) |  |
 | Daniel | ATX |  | [link](https://github.com/90dandan/Project-One) |  |
 | David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) |  |
 | Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) |  |
@@ -48,7 +48,7 @@
 | Brennan | LA |  | [link](https://github.com/Chariot7/Project1) |  |
 | Carl | LA | Simon | [link](https://github.com/cjstokes91/SIMON-SAYS) |  |
 | Caroline | LA | Slot Machine | [link](https://github.com/H-b8/slot-machine-game) |  |
-| Cedric | LA | |  |  |
+| Cedric | LA | Blackjack | [link](https://github.com/ccrisolo/project1) |  |
 | Danny | LA | Checkers | [link](https://github.com/chasmad/checkers) |  |
 | Francis | LA | Chess | [link](https://git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game) |  |
 | Hunter | LA |  |  |  |
