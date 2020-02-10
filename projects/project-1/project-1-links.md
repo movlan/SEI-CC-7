@@ -28,7 +28,7 @@
 | Matthew | DAL | Minesweeper | [link](https://github.com/Matthew-Coalson/MINESWEEPER-BROWSER-GAME) |  |
 | Rashad | DAL | Simon | [link](https://github.com/showboat051/simonGame) |  |
 | Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) |  |
-| Anderson | DEN |  |  |  |
+| Anderson | DEN | Dupe My Pet | [link](https://github.com/anderama100/DupeMyPet) |  |
 | Andrew | DEN | Blackjack | [link](https://github.com/aclark13861/Black-jack) |  |
 | Ashly | DEN | War | [link](https://github.com/ashmeeee/War) |  |
 | Bahram | DEN | Battleship | [link](https://github.com/movlan/sei-cc-07-project-1) |  |
