@@ -4,7 +4,6 @@
 |---|:---:|:---:|:---:|:---:|
 | Alan | ATX | Connect Four | [link](https://github.com/acmccracken/Connect4) |  |
 | Alanna | ATX | Threes | [link](https://github.com/celentanoad/Threes) |  |
-| Alex | ATX |  |  |  |
 | Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  |
 | Crystal | ATX | Slot Machine | [link](https://github.com/crystallynnv/slot-machine) |  |
 | Daniel | ATX |  | [link](https://github.com/90dandan/Project-One) |  |
@@ -53,7 +52,6 @@
 | Francis | LA | Chess | [link](https://git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game) |  |
 | Hunter | LA |  |  |  |
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) |  |
-| Martin | LA |  |  |  |
 | Milad | LA | Slot Machine | [link](https://git.generalassemb.ly/Milad/Slot-Machine) |  |
 | Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) |  |
 | Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
@@ -62,4 +60,4 @@
 | Jonathan | SD | Minesweeper | [link](https://github.com/WhskyRbbt/Project-1) |  |
 | Rocky | SD | Blackjack | [link](https://github.com/rockyliwanag/Blackjack) |  |
 | Ryan | SD | Checkers | [link](https://github.com/RyanBranco/Checkers) |  |
-| Trey | SD |  |  |  |
+| Trey | SD | Battleship | [link](https://github.com/tshuldberg/Battleship-JS/) |  |
