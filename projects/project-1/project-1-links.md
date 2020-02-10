@@ -46,7 +46,7 @@
 | Alejandra | LA | Connect Four | [link](https://github.com/patinoale/project1-connect-four) |  |
 | Amir | LA | Checkers | [link](https://github.com/Amir9499-99/Checkers-Game) |  |
 | Brennan | LA |  | [link](https://github.com/Chariot7/Project1) |  |
-| Carl | LA |  |  |  |
+| Carl | LA | Simon | [link](https://github.com/cjstokes91/SIMON-SAYS) |  |
 | Caroline | LA | Slot Machine | [link](https://github.com/H-b8/slot-machine-game) |  |
 | Cedric | LA | Simon | [link](https://github.com/cjstokes91/SIMON-SAYS) |  |
 | Danny | LA | Checkers | [link](https://github.com/chasmad/checkers) |  |
