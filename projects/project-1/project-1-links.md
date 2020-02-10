@@ -50,7 +50,7 @@
 | Cedric | LA | Blackjack | [link](https://github.com/ccrisolo/project1) |  |
 | Danny | LA | Checkers | [link](https://github.com/chasmad/checkers) |  |
 | Francis | LA | Chess | [link](https://git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game) |  |
-| Hunter | LA |  |  |  |
+| Hunter | LA | Brain Dead Games | [link](https://github.com/Hunner4D/b-d-games) |  |
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) |  |
 | Milad | LA | Slot Machine | [link](https://git.generalassemb.ly/Milad/Slot-Machine) |  |
 | Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) |  |
