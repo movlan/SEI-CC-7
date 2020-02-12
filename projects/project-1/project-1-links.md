@@ -15,7 +15,7 @@
 | Melony | ATX | Slot Machine | [link](https://github.com/msegnit/slot-machine) | [link](https://msegnit.github.io/slot-machine/) |
 | Michael | ATX | War | [link](https://github.com/mlackey9601/War) | [link](https://mlackey9601.github.io/War/) |
 | Skylar | ATX | Minesweeper | [link](https://github.com/skylarw19/Minesweeper) | [link](https://skylarw19.github.io/Minesweeper/) |
-| Sumar | ATX | Blackjack | [link](https://github.com/sumardey5/BlackjackRepo) |  |
+| Sumar | ATX | Blackjack | [link](https://github.com/sumardey5/BlackjackRepo) |  [link](https://sumardey5.github.io/BlackjackRepo/) |
 | Tan | ATX | Simon | [link](https://github.com/zeroxposur18/Project-One) | [link](https://zeroxposur18.github.io/Simon/) |
 | Vinnie | ATX | Roulette | [link](https://github.com/vin23-dev/SEIproject1) | [link](https://vin23-dev.github.io/SEIproject1/) |
 | Adam | DAL | Mancala | [link](https://github.com/azebolsky/Mancala) | [link](https://azebolsky.github.io/Mancala/) |
@@ -25,11 +25,11 @@
 | Fabrizio | DAL | Slot Machine | [link](https://github.com/fabo22/slot-machine-game) | [link](https://fabo22.github.io/slot-machine-game/) |
 | Gabriel | DAL | Blackjack | [link](https://github.com/gar0085/blackjack-game) | [link](https://gar0085.github.io/blackjack-game/) |
 | Matthew | DAL | Minesweeper | [link](https://github.com/Matthew-Coalson/MINESWEEPER-BROWSER-GAME) | [link](https://matthew-coalson.github.io/MINESWEEPER-BROWSER-GAME/) |
-| Rashad | DAL | Simon | [link](https://github.com/showboat051/simonGame) |  |
+| Rashad | DAL | Simon | [link](https://github.com/showboat051/simonGame) | [link](https://showboat051.github.io/simonGame/) |
 | Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) |  |
 | Anderson | DEN | Dupe My Pet | [link](https://github.com/anderama100/DupeMyPet) |  |
 | Andrew | DEN | Blackjack | [link](https://github.com/aclark13861/Black-jack) |  [link](https://aclark13861.github.io/Black-jack/) |
-| Bahram | DEN | Battleship | [link](https://github.com/movlan/sei-cc-07-project-1) |  |
+| Bahram | DEN | Minesweeper | [link](https://github.com/movlan/SEI-project-1-Minesweeper/) | [link](https://movlan.github.io/SEI-project-1-Minesweeper/) |
 | Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) |  |
 | Cody | DEN | Minesweeper | [link](https://github.com/CodyLHart/minesweeper) | [link](https://codylhart.github.io/minesweeper/) |
 | Dagny | DEN | Diamond Authority Simon | [link](https://github.com/DagnyJay/diamond-authority-simon) | [link](https://dagnyjay.github.io/diamond-authority-simon/) |
