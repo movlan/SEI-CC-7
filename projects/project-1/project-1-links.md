@@ -39,7 +39,7 @@
 | Jeremy | DEN | War | [link](https://github.com/TheJoo44/War-Game) | [link](https://thejoo44.github.io/War-Game/) |
 | Megan | DEN | War | [link](https://github.com/meganforgey/WAR) | [link](https://meganforgey.github.io/WAR/) |
 | Robert J. | DEN | Slot Machine | [link](https://github.com/rjohnson0707/Slot-Machine) | [link](https://rjohnson0707.github.io/Slot-Machine/) |
-| Robert P. | DEN | The Field of Battle | [link](https://github.com/rperillo1/The-Field-of-Battle) |  |
+| Robert P. | DEN | The Field of Battle | [link](https://github.com/rperillo1/The-Field-of-Battle) | [link](https://rperillo1.github.io/The-Field-of-Battle/) |
 | Ryan | DEN | Checkers | [link](https://github.com/Ryan-Finch/Checkers) | [link](https://ryan-finch.github.io/Checkers/) |
 | Alejandra | LA | Connect Four | [link](https://github.com/patinoale/project1-connect-four) | [link](https://patinoale.github.io/project1-connect-four/) |
 | Amir | LA | Checkers | [link](https://github.com/Amir9499-99/Checkers-Game) |  |
@@ -52,7 +52,7 @@
 | Hunter | LA | Brain Dead Games | [link](https://github.com/Hunner4D/b-d-games) |  |
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) | [link](https://codecallogic.github.io/blackjack/) |
 | Milad | LA | Slot Machine | [link](https://github.com/MiladMalakooti/slot-machine-game) | [link](https://miladmalakooti.github.io/slot-machine-game/) |
-| Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) |  |
+| Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) | [link](https://r101010.github.io/Blackjack--Honest-Cheat/) |
 | Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
 | Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) | [link](https://skimalee.github.io/blackjack/) |
 | Alex | SD | Battleship | [link](https://git.generalassemb.ly/Codealicious/battleship) | [link](https://pages.git.generalassemb.ly/Codealicious/battleship/) |
