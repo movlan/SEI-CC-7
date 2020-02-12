@@ -16,7 +16,7 @@
 | Michael | ATX | War | [link](https://github.com/mlackey9601/War) | [link](https://mlackey9601.github.io/War/) |
 | Skylar | ATX | Minesweeper | [link](https://github.com/skylarw19/Minesweeper) | [link](https://skylarw19.github.io/Minesweeper/) |
 | Sumar | ATX | Blackjack | [link](https://github.com/sumardey5/BlackjackRepo) |  |
-| Tan | ATX |  | [link](https://github.com/zeroxposur18/Project-One) | [link](https://zeroxposur18.github.io/Simon/) |
+| Tan | ATX | Simon | [link](https://github.com/zeroxposur18/Project-One) | [link](https://zeroxposur18.github.io/Simon/) |
 | Vinnie | ATX | Roulette | [link](https://github.com/vin23-dev/SEIproject1) | [link](https://vin23-dev.github.io/SEIproject1/) |
 | Adam | DAL | Mancala | [link](https://github.com/azebolsky/Mancala) | [link](https://azebolsky.github.io/Mancala/) |
 | Briana | DAL | Connect Four | [link](https://github.com/bnfisher4/project-1) | [link](https://bnfisher4.github.io/project-1/) |
@@ -51,7 +51,7 @@
 | Francis | LA | Chess | [link](https://git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game) | [link](https://pages.git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game/) |
 | Hunter | LA | Brain Dead Games | [link](https://github.com/Hunner4D/b-d-games) |  |
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) | [link](https://codecallogic.github.io/blackjack/) |
-| Milad | LA | Slot Machine | [link](https://github.com/MiladMalakooti/slot-machine-game) |  |
+| Milad | LA | Slot Machine | [link](https://github.com/MiladMalakooti/slot-machine-game) | [link](https://miladmalakooti.github.io/slot-machine-game/) |
 | Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) |  |
 | Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
 | Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) | [link](https://skimalee.github.io/blackjack/) |
