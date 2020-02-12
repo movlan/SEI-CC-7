@@ -30,7 +30,7 @@
 | Anderson | DEN | Dupe My Pet | [link](https://github.com/anderama100/DupeMyPet) |  |
 | Andrew | DEN | Blackjack | [link](https://github.com/aclark13861/Black-jack) |  [link](https://aclark13861.github.io/Black-jack/) |
 | Bahram | DEN | Minesweeper | [link](https://github.com/movlan/SEI-project-1-Minesweeper/) | [link](https://movlan.github.io/SEI-project-1-Minesweeper/) |
-| Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) |  |
+| Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) | [link](https://brianbellini.github.io/Mancala/) |
 | Cody | DEN | Minesweeper | [link](https://github.com/CodyLHart/minesweeper) | [link](https://codylhart.github.io/minesweeper/) |
 | Dagny | DEN | Diamond Authority Simon | [link](https://github.com/DagnyJay/diamond-authority-simon) | [link](https://dagnyjay.github.io/diamond-authority-simon/) |
 | Jacob | DEN | Tombstone Slot Machine | [link](https://github.com/LaunchPad90/TombstoneSlotMachine) |  |
