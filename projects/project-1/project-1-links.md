@@ -9,7 +9,7 @@
 | Daniel | ATX |  | [link](https://github.com/90dandan/Project-One) |  |
 | David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) | [link](https://davidstinson.github.io/mineland/) |
 | Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) | [link](https://jlee8020.github.io/project-blackjack/) |
-| Jose | ATX | War | [link](https://github.com/newguy-cyber/WAR-Game2) |  |
+| Jose | ATX | War | [link](https://github.com/newguy-cyber/WAR-Game2) | [link](https://newguy-cyber.github.io/WAR-Game2/) |
 | Lincoln | ATX | Slot Machine | [link](https://github.com/lincolnyouree/slot-machine-project-1) | [link](https://lincolnyouree.github.io/slot-machine-project-1/) |
 | Mariana | ATX | War | [link](https://github.com/MBJaeger/war) | [link](https://mbjaeger.github.io/war/) |
 | Melony | ATX | Slot Machine | [link](https://github.com/msegnit/slot-machine) | [link](https://msegnit.github.io/slot-machine/) |
