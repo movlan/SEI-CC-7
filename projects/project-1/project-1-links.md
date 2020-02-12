@@ -26,7 +26,7 @@
 | Gabriel | DAL | Blackjack | [link](https://github.com/gar0085/blackjack-game) | [link](https://gar0085.github.io/blackjack-game/) |
 | Matthew | DAL | Minesweeper | [link](https://github.com/Matthew-Coalson/MINESWEEPER-BROWSER-GAME) | [link](https://matthew-coalson.github.io/MINESWEEPER-BROWSER-GAME/) |
 | Rashad | DAL | Simon | [link](https://github.com/showboat051/simonGame) | [link](https://showboat051.github.io/simonGame/) |
-| Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) |  |
+| Alex | DEN | Blackjack | [link](https://github.com/Jennings6248/BlackJack) | [link](https://jennings6248.github.io/BlackJack/) |
 | Anderson | DEN | Dupe My Pet | [link](https://github.com/anderama100/DupeMyPet) |  |
 | Andrew | DEN | Blackjack | [link](https://github.com/aclark13861/Black-jack) |  [link](https://aclark13861.github.io/Black-jack/) |
 | Bahram | DEN | Minesweeper | [link](https://github.com/movlan/SEI-project-1-Minesweeper/) | [link](https://movlan.github.io/SEI-project-1-Minesweeper/) |
