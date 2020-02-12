@@ -4,17 +4,17 @@
 |---|:---:|:---:|:---:|:---:|
 | Alan | ATX | Connect Four | [link](https://github.com/acmccracken/Connect4) | [link](https://acmccracken.github.io/Connect4/) |
 | Alanna | ATX | Threes | [link](https://github.com/celentanoad/Threes) | [link](https://celentanoad.github.io/Threes/) |
-| Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  |
+| Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  [link](https://bcarteratx.github.io/project1-simon/)|
 | Crystal | ATX | Slot Machine | [link](https://github.com/crystallynnv/slot-machine) | [link](https://crystallynnv.github.io/slot-machine/) |
 | Daniel | ATX |  | [link](https://github.com/90dandan/Project-One) |  |
 | David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) | [link](https://davidstinson.github.io/mineland/) |
-| Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) |  |
+| Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) | [link](https://jlee8020.github.io/project-blackjack/) |
 | Jose | ATX | War | [link](https://github.com/newguy-cyber/WAR-Game2) |  |
 | Lincoln | ATX | Slot Machine | [link](https://github.com/lincolnyouree/slot-machine-project-1) | [link](https://lincolnyouree.github.io/slot-machine-project-1/) |
-| Mariana | ATX | War | [link](https://github.com/MBJaeger/war) |  |
-| Melony | ATX | Slot Machine | [link](https://github.com/msegnit/slot-machine) |  |
+| Mariana | ATX | War | [link](https://github.com/MBJaeger/war) | [link](https://mbjaeger.github.io/war/) |
+| Melony | ATX | Slot Machine | [link](https://github.com/msegnit/slot-machine) | [link](https://msegnit.github.io/slot-machine/) |
 | Michael | ATX | War | [link](https://github.com/mlackey9601/War) | [link](https://mlackey9601.github.io/War/) |
-| Skylar | ATX | Minesweeper | [link](https://github.com/skylarw19/Minesweeper) |  |
+| Skylar | ATX | Minesweeper | [link](https://github.com/skylarw19/Minesweeper) | [link](https://skylarw19.github.io/Minesweeper/) |
 | Sumar | ATX | Blackjack | [link](https://github.com/sumardey5/BlackjackRepo) |  |
 | Tan | ATX |  | [link](https://github.com/zeroxposur18/Project-One) | [link](https://zeroxposur18.github.io/Simon/) |
 | Vinnie | ATX |  | [link](https://github.com/vin23-dev/SEIproject1) |  |
