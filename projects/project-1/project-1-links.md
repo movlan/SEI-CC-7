@@ -43,7 +43,7 @@
 | Ryan | DEN | Checkers | [link](https://github.com/Ryan-Finch/Checkers) | [link](https://ryan-finch.github.io/Checkers/) |
 | Alejandra | LA | Connect Four | [link](https://github.com/patinoale/project1-connect-four) | [link](https://patinoale.github.io/project1-connect-four/) |
 | Amir | LA | Checkers | [link](https://github.com/Amir9499-99/Checkers-Game) |  |
-| Brennan | LA |  | [link](https://github.com/Chariot7/Project1) |  |
+| Brennan | LA | Queen of Pentacles | [link](https://github.com/Chariot7/Project1) | [link](https://chariot7.github.io/Project1/) |
 | Carl "CJ" | LA | Simon | [link](https://github.com/cjstokes91/SIMON-SAYS) | [link](https://cjstokes91.github.io/SIMON-SAYS/) |
 | Caroline | LA | Slot Machine | [link](https://github.com/H-b8/slot-machine-game) | [link](https://h-b8.github.io/slot-machine-game/) |
 | Cedric | LA | Blackjack | [link](https://github.com/ccrisolo/project1) | [link](https://ccrisolo.github.io/project1/) |
