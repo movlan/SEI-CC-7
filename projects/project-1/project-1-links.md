@@ -2,7 +2,7 @@
 
 | Student | Campus | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|:---:|
-| Alan | ATX | Connect Four | [link](https://github.com/acmccracken/Connect4) |  |
+| Alan | ATX | Connect Four | [link](https://github.com/acmccracken/Connect4) | [link](https://acmccracken.github.io/Connect4/) |
 | Alanna | ATX | Threes | [link](https://github.com/celentanoad/Threes) | [link](https://celentanoad.github.io/Threes/) |
 | Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  |
 | Crystal | ATX | Slot Machine | [link](https://github.com/crystallynnv/slot-machine) | [link](https://crystallynnv.github.io/slot-machine/) |
