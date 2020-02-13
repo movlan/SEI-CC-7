@@ -6,7 +6,7 @@
 | Alanna | ATX | Threes | [link](https://github.com/celentanoad/Threes) | [link](https://celentanoad.github.io/Threes/) |
 | Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  [link](https://bcarteratx.github.io/project1-simon/)|
 | Crystal | ATX | Slot Machine | [link](https://github.com/crystallynnv/slot-machine) | [link](https://crystallynnv.github.io/slot-machine/) |
-| Daniel | ATX |  | [link](https://github.com/90dandan/Project-One) |  |
+| Daniel | ATX |  | [link](https://github.com/90dandan/Project-One) | [link](https://90dandan.github.io/Project-One/) |
 | David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) | [link](https://davidstinson.github.io/mineland/) |
 | Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) | [link](https://jlee8020.github.io/project-blackjack/) |
 | Jose | ATX | War | [link](https://github.com/newguy-cyber/WAR-Game2) | [link](https://newguy-cyber.github.io/WAR-Game2/) |
