@@ -6,7 +6,7 @@
 | Alanna | ATX | Threes | [link](https://github.com/celentanoad/Threes) | [link](https://celentanoad.github.io/Threes/) |
 | Brandon | ATX | Simon | [link](https://github.com/bcarteratx/project1-simon) |  [link](https://bcarteratx.github.io/project1-simon/)|
 | Crystal | ATX | Slot Machine | [link](https://github.com/crystallynnv/slot-machine) | [link](https://crystallynnv.github.io/slot-machine/) |
-| Daniel | ATX |  | [link](https://github.com/90dandan/Project-One) | [link](https://90dandan.github.io/Project-One/) |
+| Daniel | ATX | Simon | [link](https://github.com/90dandan/Project-One) | [link](https://90dandan.github.io/Project-One/) |
 | David | ATX | Minesweeper | [link](https://github.com/DavidStinson/mineland) | [link](https://davidstinson.github.io/mineland/) |
 | Jan | ATX | Blackjack | [link](https://github.com/jlee8020/project-blackjack) | [link](https://jlee8020.github.io/project-blackjack/) |
 | Jose | ATX | War | [link](https://github.com/newguy-cyber/WAR-Game2) | [link](https://newguy-cyber.github.io/WAR-Game2/) |
@@ -53,7 +53,7 @@
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) | [link](https://codecallogic.github.io/blackjack/) |
 | Milad | LA | Slot Machine | [link](https://github.com/MiladMalakooti/slot-machine-game) | [link](https://miladmalakooti.github.io/slot-machine-game/) |
 | Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) | [link](https://r101010.github.io/Blackjack--Honest-Cheat/) |
-| Sarah | LA |  | [link](https://github.com/arghmatey/project1) | [link](https://arghmatey.github.io/project1/) |
+| Sarah | LA | Connect Four | [link](https://github.com/arghmatey/project1) | [link](https://arghmatey.github.io/project1/) |
 | Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) | [link](https://skimalee.github.io/blackjack/) |
 | Alex | SD | Battleship | [link](https://git.generalassemb.ly/Codealicious/battleship) | [link](https://pages.git.generalassemb.ly/Codealicious/battleship/) |
 | Jonathan | SD | Minesweeper | [link](https://github.com/WhskyRbbt/Project-1) | [link](https://whskyrbbt.github.io/Project-1/) |
