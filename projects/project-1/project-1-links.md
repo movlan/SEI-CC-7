@@ -53,7 +53,7 @@
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) | [link](https://codecallogic.github.io/blackjack/) |
 | Milad | LA | Slot Machine | [link](https://github.com/MiladMalakooti/slot-machine-game) | [link](https://miladmalakooti.github.io/slot-machine-game/) |
 | Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) | [link](https://r101010.github.io/Blackjack--Honest-Cheat/) |
-| Sarah | LA |  | [link](https://github.com/arghmatey/project1) |  |
+| Sarah | LA |  | [link](https://github.com/arghmatey/project1) | [link](https://arghmatey.github.io/project1/) |
 | Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) | [link](https://skimalee.github.io/blackjack/) |
 | Alex | SD | Battleship | [link](https://git.generalassemb.ly/Codealicious/battleship) | [link](https://pages.git.generalassemb.ly/Codealicious/battleship/) |
 | Jonathan | SD | Minesweeper | [link](https://github.com/WhskyRbbt/Project-1) | [link](https://whskyrbbt.github.io/Project-1/) |
