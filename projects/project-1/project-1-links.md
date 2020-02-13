@@ -49,7 +49,7 @@
 | Cedric | LA | Blackjack | [link](https://github.com/ccrisolo/project1) | [link](https://ccrisolo.github.io/project1/) |
 | Danny | LA | Checkers | [link](https://github.com/chasmad/checkers) | [link](https://chasmad.github.io/checkers/) |
 | Francis | LA | Chess | [link](https://git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game) | [link](https://pages.git.generalassemb.ly/FrancisMel24/Project_1_Chess_Game/) |
-| Hunter | LA | Brain Dead Games | [link](https://github.com/Hunner4D/b-d-games) |  |
+| Hunter | LA | Brain Dead Games | [link](https://github.com/Hunner4D/b-d-games) | [link](https://hunner4d.github.io/b-d-games/) |
 | Jose | LA | Blackjack | [link](https://github.com/codecallogic/blackjack) | [link](https://codecallogic.github.io/blackjack/) |
 | Milad | LA | Slot Machine | [link](https://github.com/MiladMalakooti/slot-machine-game) | [link](https://miladmalakooti.github.io/slot-machine-game/) |
 | Ruben | LA | Blackjack | [link](https://github.com/R101010/Blackjack--Honest-Cheat) | [link](https://r101010.github.io/Blackjack--Honest-Cheat/) |
