@@ -33,7 +33,7 @@
 | Brian | DEN | Mancala | [link](https://github.com/brianbellini/Mancala) | [link](https://brianbellini.github.io/Mancala/) |
 | Cody | DEN | Minesweeper | [link](https://github.com/CodyLHart/minesweeper) | [link](https://codylhart.github.io/minesweeper/) |
 | Dagny | DEN | Diamond Authority Simon | [link](https://github.com/DagnyJay/diamond-authority-simon) | [link](https://dagnyjay.github.io/diamond-authority-simon/) |
-| Jacob | DEN | Tombstone Slot Machine | [link](https://github.com/LaunchPad90/TombstoneSlotMachine) |  |
+| Jacob | DEN | Tombstone Slot Machine | [link](https://github.com/LaunchPad90/TombstoneSlotMachine) | [link](https://launchpad90.github.io/TombstoneSlotMachine/) |
 | Janson | DEN | Solitaire | [link](https://github.com/jayjaybunce/Solitaire-JS) | [link](https://jayjaybunce.github.io/Solitaire-JS/) |
 | Jason | DEN | Blackjack | [link](https://github.com/JasonCasse/Blackjack) | [link](https://jasoncasse.github.io/Blackjack/) |
 | Jeremy | DEN | War | [link](https://github.com/TheJoo44/War-Game) | [link](https://thejoo44.github.io/War-Game/) |
