@@ -4,7 +4,6 @@
 |---|---|---|
 | Alan | ATX | [link](https://git.generalassemb.ly/acmccracken/daily-code-challenges) |
 | Alanna | ATX | [link](https://git.generalassemb.ly/celentanoad/daily-js-code-challenges) |
-| Alex | ATX | [link](https://git.generalassemb.ly/alex1360/daily-js-code-challenges) |
 | Brandon | ATX | [link](https://git.generalassemb.ly/bcarteratx/daily-js-code-challenges) |
 | Crystal | ATX | [link](https://git.generalassemb.ly/crystallynnv/daily-js-code-challenges) |
 | Daniel | ATX | [link](https://git.generalassemb.ly/Dandan/daily-js-code-challenges) |
@@ -37,13 +36,11 @@
 | Dagny | DEN | [link](https://git.generalassemb.ly/DagnyJay/daily-js-code-challenges/) |
 | Jacob | DEN | [link](https://git.generalassemb.ly/LaunchPad90/daily-js-code-challenges) |
 | Janson | DEN | [link](https://git.generalassemb.ly/vesuvios/daily-js-code-challenges) |
-| Jason | DEN | [link](https://git.generalassemb.ly/lol/daily-code-challenges) |
 | Jeremy | DEN | [link](https://git.generalassemb.ly/thejoo44/daily-js-code-challenges) |
 | Megan | DEN | [link](https://git.generalassemb.ly/mforgey/daily-js-code-challenges) |
 | Robert J. | DEN | [link](https://git.generalassemb.ly/rjohnson0707/daily-js-code-challenges) |
 | Robert P. | DEN | [link](https://git.generalassemb.ly/rperillo1/daily-js-code-challenges) |
 | Ryan | DEN | [link](https://git.generalassemb.ly/ryanwfin/daily-js-code-challenges) |
-| Alejandra | LA | [link](https://git.generalassemb.ly/patinoale/daily-js-code-challenges) |
 | Amir | LA | [link](https://git.generalassemb.ly/Amir94/daily-js-code-challenges) |
 | Brennan | LA | [link](https://git.generalassemb.ly/Chariot7/daily-js-code-challenges) |
 | Carl | LA |  |
