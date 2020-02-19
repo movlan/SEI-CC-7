@@ -27,7 +27,6 @@
 | Jason | DAL | [link](https://git.generalassemb.ly/lol/daily-code-challenges/) |
 | Matthew | DAL | [link](https://git.generalassemb.ly/Mcoalson/daily-js-code-challenges) |
 | Rashad | DAL | [link](https://git.generalassemb.ly/showboat051/daily-js-code-challenges) |
-| Alex | DEN | [link](https://git.generalassemb.ly/Jennings6248/daily-js-code-challenges) |
 | Anderson | DEN | [link](https://git.generalassemb.ly/anderama100/daily-js-code-challenges) |
 | Andrew | DEN | [link](https://git.generalassemb.ly/aclark13861/daily-js-code-challenges) |
 | Bahram | DEN | [link](https://git.generalassemb.ly/movlan/daily-js-code-challenges) |
