@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Express todos</title>
+</head>
+<body>
+	<h1>Todos</h1>
+    <ul>
+      <% todos.forEach(function(t, idx) { %>
+        <li>
+          <a href="/todos/<%=idx%>"><%= t.todo%></a>
+          <%= t.todo %>
+            - 
+          <%= t.done ? 'done' : 'not done' %>
+        </li>
+      <% }); %>
+    </ul>
+
+</body>
+</html>
