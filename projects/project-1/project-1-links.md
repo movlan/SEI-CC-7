@@ -56,7 +56,7 @@
 | Sarah | LA | Connect Four | [link](https://github.com/arghmatey/project1) | [link](https://arghmatey.github.io/project1/) |
 | Stephanie | LA | Blackjack | [link](https://github.com/skimalee/blackjack) | [link](https://skimalee.github.io/blackjack/) |
 | Alex | SD | Battleship | [link](https://git.generalassemb.ly/Codealicious/battleship) | [link](https://pages.git.generalassemb.ly/Codealicious/battleship/) |
-| Jonathan | SD | Minesweeper | [link](https://github.com/WhskyRbbt/Project-1) | [link](https://whskyrbbt.github.io/Project-1/) |
+| Jonathan | SD | Minesweeper | [link](https://github.com/WhskyRbbt/Minesweeper) | [link](https://whskyrbbt.github.io/Minesweeper/) |
 | Rocky | SD | Blackjack | [link](https://github.com/rockyliwanag/Blackjack) | [link](https://rockyliwanag.github.io/Blackjack/) |
 | Ryan | SD | Checkers | [link](https://github.com/RyanBranco/Checkers) | [link](https://ryanbranco.github.io/Checkers/) |
 | Trey | SD | Battleship | [link](https://github.com/tshuldberg/Battleship-JS/) | [link](https://tshuldberg.github.io/Battleship-JS/) |
