@@ -16,5 +16,7 @@ It is a requirement to complete at least **80%** of the following to to receive:
 |Fri 1/31|[Tic-Tac-Toe Weekend](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/tree/master/work/w01/d5/tic-tac-toe-weekend)| Fri 2/7 |
 |Wed 2/5|[jQuery "My Developer Skills" Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w02/d3/04-jquery-lab.md)| Wed 2/12 |
 |Thu 2/6|[Array Iterator Methods Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w02/d4/02b-array-methods-lab.md)| Thu 2/13 |
+|Thu 2/20|[Express "Dev Skills" Lab - Part 1](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w04/d2/03-04-dev-skills-lab-part-1.md) & [Part 2](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w04/d4/04-dev-skills-lab-part-2.md)| Thu 2/27 |
+
 
 
