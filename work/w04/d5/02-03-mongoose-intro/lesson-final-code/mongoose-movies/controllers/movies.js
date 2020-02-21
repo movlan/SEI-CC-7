@@ -1,4 +1,4 @@
-var Movie = require('../models/movie');
+const Movie = require('../models/movie');
 
 module.exports = {
   index,
@@ -26,7 +26,7 @@ function create(req, res) {
   for (let key in req.body) {
     if (req.body[key] === '') delete req.body[key];
   }
-  var movie = new Movie(req.body);
+  const movie = new Movie(req.body);
   movie.save(function(err) {
     // one way to handle errors
     if (err) return res.render('movies/new');
