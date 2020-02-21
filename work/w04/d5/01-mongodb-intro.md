@@ -143,8 +143,8 @@ This is how we can create and insert a document into a collection named _people_
 
 ```
 > db.people.insert({
-... name: "Fred",	// Don't type the dots, they are from the 
-... age: 21			// shell, indicating multi-line input mode
+... name: "Fred",   // Don't type the dots, they are from the 
+... age: 21         // shell, indicating multi-line input mode
 })
 ```
 
@@ -152,7 +152,7 @@ Using a collection for the first time creates it!
 
 __YOU DO: Let's add another person to the _people_ collection. But this time, add an additional field called _birthDate_ and assign it a date value with something like this: *birthDate: new Date('3/21/1981')*__
 
-To list all documents in a collection, we can use the _find_ method on the collection without any arguments:
+To list all documents in a collection, we can use the _find_ method on the collection:
 
 ```
 > db.people.find({})
