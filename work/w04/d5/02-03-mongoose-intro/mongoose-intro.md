@@ -139,7 +139,7 @@
 - Assuming the following schema:
 
 	```js
-	var postSchema = new mongoose.Schema({
+	const postSchema = new mongoose.Schema({
 		content: String
 	});
 	```
@@ -153,7 +153,7 @@
 - The model can then be required and used to perform CRUD on the `posts` collection in the MongoDB:
 
 	```js
-	var Post = require('./models/post');
+	const Post = require('./models/post');
 	Post.create({content: 'Amazing post...'});
 	```
 
@@ -207,7 +207,7 @@
 - Then in `database.js`, let's connect to a database named `movies`:
 
 	```js
-	var mongoose = require('mongoose');
+	const mongoose = require('mongoose');
 
 	mongoose.connect('mongodb://localhost/movies',
 	    {useNewUrlParser: true, useCreateIndex: true}
@@ -271,12 +271,12 @@
 - Let's modify our _database.js_ module as follows:
 
 	```js
-	var mongoose = require('mongoose');
+	const mongoose = require('mongoose');
 	mongoose.connect('mongodb://localhost/movies',
 		{useNewUrlParser: true, useCreateIndex: true});
 	
 	// shortcut to mongoose.connection object
-	var db = mongoose.connection;
+	const db = mongoose.connection;
 	
 	db.on('connected', function() {
   		console.log(`Connected to MongoDB at ${db.host}:${db.port}`);
@@ -335,9 +335,9 @@
 - In the schema/model module, we will always do this:
 
 	```js
-	var mongoose = require('mongoose');
+	const mongoose = require('mongoose');
 	// optional shortcut to the mongoose.Schema class
-	var Schema = mongoose.Schema;
+	const Schema = mongoose.Schema;
 	```
 
 - Creating the shortcut to the `mongoose.Schema` class is optional but convenient when defining complex schemas.
@@ -351,9 +351,9 @@
 - Here's our basic _Movie_ schema:
 
 	```js
-	var Schema = mongoose.Schema;
+	const Schema = mongoose.Schema;
 	
-	var movieSchema = new Schema({
+	const movieSchema = new Schema({
   		title: String,
   		releaseYear: Number,
   		mpaaRating: String,
@@ -424,9 +424,9 @@
 - Compiling a schema into a model is as easy as calling the `mongoose.model` method:
 
 	```js
-	var Schema = mongoose.Schema;
+	const Schema = mongoose.Schema;
 		
-	var movieSchema = new Schema({
+	const movieSchema = new Schema({
   		title: String,
   		releaseYear: Number,
   		mpaaRating: String,
@@ -460,7 +460,7 @@
 - First up is **creating** data.
 
 - We can use a Mongoose Model in two ways to create documents in the collection:
-	- `var instance = new Model()`, then<br>`instance.save()`, or
+	- `const instance = new Model()`, then<br>`instance.save()`, or
 	- `Model.create()`
 
 - Let's see how we can `create` a document in a Node REPL...
@@ -474,7 +474,7 @@
 	```sh
 	$ node
 	> require('./config/database')
-	> var Movie = require('./models/movie')
+	> const Movie = require('./models/movie')
 	> Movie.create({
 	... title: 'Star Wars',
 	... releaseYear: 1977
@@ -549,9 +549,9 @@
 - Inside of `routes/movies.js`, let's code our first route - responsible for showing a form for entering a movie:
 
 	```js
-	var express = require('express');
-	var router = express.Router();
-	var moviesCtrl = require('../controllers/movies');
+	const express = require('express');
+	const router = express.Router();
+	const moviesCtrl = require('../controllers/movies');
 	
 	// GET /movies/new
 	router.get('/new', moviesCtrl.new);
@@ -648,7 +648,7 @@
 - In **controllers/movies.js** we're going to be using our `Movie` model, so we need to require it at the top:
 
 	```js
-	var Movie = require('../models/movie');
+	const Movie = require('../models/movie');
 	```
 
 - The next slide shows how we use the `Movie` Model in the controller to create the movie submitted by the form.
@@ -669,7 +669,7 @@ function create(req, res) {
   req.body.cast = req.body.cast.replace(/\s*,\s*/g, ',');
   // split if it's not an empty string
   if (req.body.cast) req.body.cast = req.body.cast.split(',');
-  var movie = new Movie(req.body);
+  const movie = new Movie(req.body);
   movie.save(function(err) {
     // one way to handle errors
     if (err) return res.render('movies/new');
@@ -776,7 +776,7 @@ function create(req, res) {
 - To add a default value, we need to switch from this simple property definition syntax:
 
 	```js
-	var movieSchema = new Schema({
+	const movieSchema = new Schema({
 		title: String,
 		releaseYear: Number,
   		...
@@ -785,7 +785,7 @@ function create(req, res) {
 - To this object syntax:
 
 	```js
-	var movieSchema = new Schema({
+	const movieSchema = new Schema({
   		title: String,
   		releaseYear: {type: Number},
   		...
@@ -797,7 +797,7 @@ function create(req, res) {
 - Now we can add a `default` key to specify a default value:
 
 	```js
-	var movieSchema = new mongoose.Schema({
+	const movieSchema = new mongoose.Schema({
 	  title: String,
 	  releaseYear: {type: Number, default: 2000},
 	  mpaaRating: String,
@@ -841,7 +841,7 @@ function create(req, res) {
 - For example, we can take our silly default for _releaseYear_ and make it just as silly like this:
 
 	```js
-	var movieSchema = new mongoose.Schema({
+	const movieSchema = new mongoose.Schema({
 	  title: String,
 	  releaseYear: {
   		 type: Number,
@@ -864,7 +864,7 @@ function create(req, res) {
 - Mongoose will add `createdAt` and add + update `updatedAt` fields automatically to every document if we set the `timestamps` option as follows in the schema:
 
 	```js
-	var movieSchema = new mongoose.Schema({
+	const movieSchema = new mongoose.Schema({
 	  ...
 	}, {
 	  timestamps: true
@@ -895,7 +895,7 @@ function create(req, res) {
 - Movies should not be allowed to be created without a `title`.  Let's make it required:
 
 	```js
-	var movieSchema = new mongoose.Schema({
+	const movieSchema = new mongoose.Schema({
 	  title: {
 	    type: String,
 	    required: true
@@ -911,7 +911,7 @@ function create(req, res) {
 - For properties that are of type _Number_, we can specify<br>a `min` and `max` value:
 
 	```js
-	var movieSchema = new mongoose.Schema({
+	const movieSchema = new mongoose.Schema({
 	  ...
 	  releaseYear: {
 	    type: Number,
@@ -936,7 +936,7 @@ function create(req, res) {
 - Here is how we use the `enum` validator:
 
 	```js
-	var movieSchema = new mongoose.Schema({
+	const movieSchema = new mongoose.Schema({
 	  ...
 	  mpaaRating: {
 	    type: String,
