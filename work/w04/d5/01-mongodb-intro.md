@@ -286,7 +286,7 @@ The decision depends upon the design and functionality of your application and i
 
 - If the amount of data can exceed the 16MB size limit for a document, an uncommon situation however - the entire body of work of Shakespeare can be stored in 5 megabytes!
 
-- When multiple parent documents need access the same child document and that child's data changes frequently. For example, a document modeling a _bank account_ should be referenced because 
+- When multiple parent documents need access the same child document and that child's data changes frequently. For example, a document modeling a _bank account_ should be referenced because it could be "owned" by more than one individual - if the account data were embedded in two or more parent documents, can you imagine how difficult it would be keeping the transactional & balance data in sync?
 
 - If it makes sense for your application. For example, if you wanted to view all _posts_ on your landing page, regardless of the user that posted them, it would certainly take more effort to extract the _posts_ from each user if they were embedded. However, it would be gravy to get the _posts_ from their own collection.
 
