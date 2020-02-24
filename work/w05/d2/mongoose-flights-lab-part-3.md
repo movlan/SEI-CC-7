@@ -114,4 +114,4 @@ Styling is secondary, spend time on it only after the functionality has been imp
 
 ## Deliverable?
 
-### The final version of `mongoose-flights`, as a result of completing parts 1 - 3 of this lab, is a deliverable due on Monday.
+### The final version of `mongoose-flights`, as a result of completing parts 1 - 3 of this lab, is a deliverable.  Because next week is project week, do your best to finish this week.
