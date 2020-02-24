@@ -9,9 +9,7 @@
 | Daniel | ATX |  |  |  |  |
 | David | ATX |  |  |  |  |
 | Jan | ATX |  |  |  |  |
-| Jose | ATX |  |  |  |  |
 | Lincoln | ATX |  |  |  |  |
-| Mariana | ATX |  |  |  |  |
 | Melony | ATX |  |  |  |  |
 | Michael | ATX |  |  |  |  |
 | Skylar | ATX |  |  |  |  |
@@ -26,7 +24,6 @@
 | Gabriel | DAL |  |  |  |  |
 | Matthew | DAL |  |  |  |  |
 | Rashad | DAL |  |  |  |  |
-| Alex | DEN |  |  |  |  |
 | Anderson | DEN |  |  |  |  |
 | Andrew | DEN |  |  |  |  |
 | Bahram | DEN |  |  |  |  |
@@ -35,13 +32,10 @@
 | Dagny | DEN |  |  |  |  |
 | Jacob | DEN |  |  |  |  |
 | Janson | DEN |  |  |  |  |
-| Jason | DEN |  |  |  |  |
 | Jeremy | DEN |  |  |  |  |
-| Megan | DEN |  |  |  |  |
 | Robert J. | DEN |  |  |  |  |
 | Robert P. | DEN |  |  |  |  |
 | Ryan | DEN |  |  |  |  |
-| Alejandra | LA |  |  |  |  |
 | Amir | LA |  |  |  |  |
 | Brennan | LA |  |  |  |  |
 | Carl "CJ" | LA |  |  |  |  |
