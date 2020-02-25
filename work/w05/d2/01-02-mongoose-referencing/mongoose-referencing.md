@@ -162,6 +162,14 @@
 <img src="https://i.imgur.com/hzoRC2y.png" width="70%">
 
 ---
+
+#### And Mongoose Movies ERD...
+
+---
+
+<img src="https://i.imgur.com/CVTFHMJ.png" width="80%">
+
+---
 #### 💪 Practice Exercise (5 minutes)
 <br>
 
