@@ -244,15 +244,19 @@
 
 - Here's the flow we've now followed several times when adding functionality to the app:
 
-	1. Identify the "proper" Route (Method + Path)
+	- 1) Identify the "proper" Route (Method + Path)
 	
-	2. Create the UI that will send the request matching that route.
+	- 2) Create the UI that will send the request matching that route.
 	
-	3. Define the route on the server and map it to the proper controller action (`index`, `show`, `new`, `create`, etc.).
+	- 3) Define the route on the server and map it to the proper controller action (`index`, `show`, `new`, `create`, etc.).
 	
-	4. Code and export the controller action.
+	- 4) Code and export the controller action.
 	
-	5. `res.render` a view in the case of a GET request, or `res.redirect` if data was changed.
+	- 5) `res.render` a view in the case of a GET request, or `res.redirect` if data was changed.
+
+---
+
+<img src="https://i.imgur.com/Yi6ZiI4.png">
 
 ---
 #### Creating _Performers_ - Step 1
@@ -462,6 +466,10 @@
 	- Using a form with a dropdown, we can send a request to associate a performer and movie. We will need the list of performers to build the dropdown, but only the performers not already in the cast!
 
 - Let's get started!
+
+---
+
+<img src="https://i.imgur.com/Zg0pCYa.png">
 
 ---
 #### Replacing _ObjectIds_ with the Actual Docs
