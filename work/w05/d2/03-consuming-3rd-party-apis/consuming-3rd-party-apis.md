@@ -175,12 +175,12 @@
 ---
 ### Add the Username form
 
-- We'll need a simple form to allow us to submit a GitHub username to retrieve data for:
+- We'll need a form to submit a GitHub username to retrieve repos for:
 
 	```html
 	<div class="row">
 	  <div class="col-xs-6 col-xs-offset-6">
-	    <form action="/" method="POST">
+	    <form action="/" method="GET">
 	      <div class="input-group">
 	        <input type="text" name="username" class="form-control"
 	        		placeholder="Enter a GitHub Username">
@@ -193,29 +193,38 @@
 	  </div>
 	</div>	
 	```
+	Note that we're using a GET method instead of POST...
 
 ---
-## Add the POST route
+## Accessing the username
 
 ---
-### Add the POST route
+### Accessing the username
 <br>
 
-- We're going to need a `POST /` route for when the form is submitted by clicking the "Go!" button.
+- When using a GET in a form, the input data is sent to the server using a query string in the URL.
+
+- The [docs](https://expressjs.com/en/4x/api.html#req.query) show that we access the inputs via the `req.query` object.
+
+- Like `req.params`, `req.query` is available without having to mount any middleware.
+
+- What middleware is responsible for populating `req.body` with a form's input data?
+
+---
+### Accessing the username
+<br>
+
+- Let's take a baby step by logging out to the server terminal what was typed in the input...
 
 - In **routes/index.js**:
 
 	```js
 	router.get('/', function(req, res, next) {
-  	  res.render('index');
-	});
-
-	router.post('/', function(req, res, next) {
-  	  console.log(`username: ${req.body.username}`);
+	  const userName = req.query.username;
+  	  console.log(`username: ${username}`);
   	  res.render('index');
 	});
 	```
-- For now, we're just logging out to the server terminal what was typed in the input then rendering the **index** view again.
 
 ---
 ## Install and require the "request" module
@@ -224,11 +233,13 @@
 ### Install and require the "request" module
 <br>
 
-- In order to make HTTP requests from our Express server to the GitHub API, we'll need to install and require an NPM module named [request](https://www.npmjs.com/package/request), a simple HTTP request client:
+- In order to make HTTP requests from our Express server to the GitHub API, we'll want to install and require an NPM module named [request](https://www.npmjs.com/package/request), a simple HTTP request client:
 
 	```
 	$ npm install request
 	```
+
+- `request` is callback-based.  You can use [request-promise-native](https://www.npmjs.com/package/request-promise-native) once you start working with promises (very, very soon).
 
 ---
 ### Install and require the "request" module
@@ -241,6 +252,7 @@
 	var router = express.Router();
 	const request = require('request');
 	```
+
 - What? No separate controller module? Let's be rebels this lesson!
 
 - Now, we need to review the documentation for the GitHub API...
@@ -413,7 +425,7 @@
 ### Fetch data from GitHub's API (cont.)
 <br>
 
-- First, let's define a `const` to hold the _root endpoint_ in **routes/index.js**:
+- First, let's define a variable to hold the _root endpoint_ in **routes/index.js**:
 
 	```js
 	const request = require('request');
@@ -429,10 +441,10 @@
 - In **routes/index.js**:
 
 	```js
-	router.post('/', function(req, res) {
+	router.get('/', function(req, res, next) {
+	  const username = req.query.username;
 	  request(
-	    rootURL + 'users/' + req.body.username + 
-	      '?access_token=' + process.env.GITHUB_TOKEN,
+	    `${rootURL}users/${username}?access_token=${process.env.GITHUB_TOKEN}`,
 	    function(err, response, body) {
 	      res.render('index', {userData: body});
 	    }
@@ -461,20 +473,7 @@
 	</body>
 	```
 
-- Also, we have to...
-
----
-### Fetch data from GitHub's API (cont.)
-<br>
-
-- Pass an object from the GET '/' route as well to prevent a _"userData is not defined"_ error when the _index_ view is rendered:
-
-	```js
-	router.get('/', function(req, res) {
-	  res.render('index', {userData: null});
-	});
-	```
-	EJS is not forgiving if we access undefined variables :(
+- At this point, userData is just a string (not an object).
 
 ---
 ### Fetch data from GitHub's API (cont.)
@@ -497,14 +496,16 @@
 ---
 ### Fetch data from GitHub's API (cont.)
 
-- Here's our updated POST route:
+- Here's our updated route, refactoring to also provide the token as a header also (preferred):
 
 	```js
-	router.post('/', function(req, res) {
+	router.get('/', function(req, res, next) {
+	  const username = req.query.username;
 	  const options = {
-	    url: rootURL + 'users/' + req.body.username,
+	    url: `${rootURL}users/${username}`,
 	    headers: {
-	      'User-Agent': 'jim-clark'
+	      'User-Agent': 'jim-clark',
+	      Authorization: `token ${process.env.GITHUB_TOKEN}`
 	    }
 	  };
 	  request(options, function(err, response, body) {
@@ -517,30 +518,11 @@
 
 ---
 ### Fetch data from GitHub's API (cont.)
-
-- One more refactor to send our token in a header instead of the query string:
-
-	```js
-	router.post('/', function(req, res) {
-	  const options = {
-	    url: rootURL + 'users/' + req.body.username,
-	    headers: {
-	      'User-Agent': 'jim-clark',
-	      'Authorization': 'token ' + process.env.GITHUB_TOKEN
-	    }
-	  };
-	  ...
-	```
-
-- Be sure to refactor the code not to send the token in the query-string also.
-
----
-### Fetch data from GitHub's API (cont.)
 <br>
 
 - One more try and we'll finally see what is returned by the API!
 
-- Examining the JSON response we'll see that the `login` property holds the username and `avatar_url` points to user's avatar image.
+- Examining the data we'll see that the `login` property holds the username and `avatar_url` points to user's avatar image.
 
 - Now let's improve our view a bit to render the username and display the avatar...
 
@@ -571,12 +553,12 @@
 ### Render the data (cont.)
 <br>
 
-- Update this piece of code in the POST:
+- Update this piece of code in the route handler:
 
 	```js
 	request(options, function(err, response, body) {
 	  const userData = JSON.parse(body);
-     res.render('index', {userData: userData});
+     res.render('index', {userData});
 	});
 	```
 
@@ -586,7 +568,7 @@
 ### Render the data (cont.)
 <br>
 
-- Finally! Not looking too bad.  Now we need to list the user's repositories.
+- Not looking too bad.  Now we need to list the user's repositories.
 
 - Do what you have to to find the endpoint that we can hit to grab the array of repos.
 
@@ -597,7 +579,7 @@
 
 - It is common to need to make multiple requests to different endpoints to fetch all of the detail data you need before rendering.
 
-- Of course, multiple requests will result in nested callbacks.  Update this section of the POST:
+- Of course, multiple requests will result in nested callbacks.  Update this section of the code:
 
 	```js
 	...
@@ -609,7 +591,7 @@
 	    // add a repos property
 	    userData.repos = JSON.parse(body);
 	    console.log(userData.repos[0]);
-	    res.render('index', {userData: userData});
+	    res.render('index', {userData});
 	  });
 	});
 	``` 
@@ -645,7 +627,7 @@
 	```
 
 ---
-### Congrats on consuming a third-party api!
+### Congrats on Consuming a Third-party API!
 <br>
 
 <p>On to the lab!</p>

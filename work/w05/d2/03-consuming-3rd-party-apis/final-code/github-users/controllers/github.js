@@ -6,7 +6,7 @@ module.exports = {
 };
 
 function userDetails(req, res) {
-  const username = req.body.username;
+  const username = req.query.username;
   if (!username) return res.render('index', {userData: null});
   const options = {
     url: rootURL + 'users/' + username,
@@ -21,8 +21,12 @@ function userDetails(req, res) {
     options.url = userData.repos_url;
     request(options, function(err, response, body) {
       // add a repos property
-      userData.repos = JSON.parse(body);
-      res.render('index', {userData});
+      try {
+        userData.repos = JSON.parse(body);
+        res.render('index', {userData});
+      } catch {
+        res.redirect('/');
+      }
     });
   });
 }
