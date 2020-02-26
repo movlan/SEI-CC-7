@@ -1,4 +1,5 @@
 const Movie = require('../models/movie');
+const Performer = require('../models/performer');
 
 module.exports = {
   index,
@@ -14,8 +15,16 @@ function index(req, res) {
 }
 
 function show(req, res) {
-  Movie.findById(req.params.id, function(err, movie) {
-    res.render('movies/show', { title: 'Movie Detail', movie });
+  Movie.findById(req.params.id)
+  .populate('cast').exec(function(err, movie) {
+    // Performer.find({}).where('_id').nin(movie.cast)
+    Performer.find({_id: {$nin: movie.cast}})
+    .exec(function(err, performers) {
+      console.log(performers);
+      res.render('movies/show', {
+        title: 'Movie Detail', movie, performers
+      });
+    });
   });
 }
 
@@ -26,20 +35,13 @@ function newMovie(req, res) {
 function create(req, res) {
   // convert nowShowing's checkbox of nothing or "on" to boolean
   req.body.nowShowing = !!req.body.nowShowing;
-  // remove whitespace next to commas
-  req.body.cast = req.body.cast.replace(/\s*,\s*/g, ',');
-  // split if it's not an empty string
-  if (req.body.cast) req.body.cast = req.body.cast.split(',');
   for (let key in req.body) {
     if (req.body[key] === '') delete req.body[key];
   }
-  
   const movie = new Movie(req.body);
   movie.save(function(err) {
-    // one way to handle errors
     if (err) return res.redirect('/movies/new');
-    console.log(movie);
-    // for now, redirect right back to new.ejs
-    res.redirect('/movies');
+    // res.redirect('/movies');
+    res.redirect(`/movies/${movie._id}`);
   });
 }

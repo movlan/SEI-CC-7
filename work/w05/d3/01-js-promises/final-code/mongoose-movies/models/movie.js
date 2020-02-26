@@ -1,14 +1,14 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
 
-const reviewSchema = new Schema({
+var reviewSchema = new Schema({
   content: String,
   rating: {type: Number, min: 1, max: 5, default: 5}
 }, {
   timestamps: true
 });
 
-const movieSchema = new Schema({
+var movieSchema = new Schema({
   title: {
     type: String,
     required: true
@@ -18,10 +18,11 @@ const movieSchema = new Schema({
     default: function () {
       return new Date().getFullYear();
     }
-  }, mpaaRating: String,
-  cast: [String],
+  },
+  mpaaRating: String,
   nowShowing: { type: Boolean, default: false },
-  reviews: [reviewSchema]
+  reviews: [reviewSchema],
+  cast: [{type: Schema.Types.ObjectId, ref: 'Performer'}]
 }, {
   timestamps: true
 });
