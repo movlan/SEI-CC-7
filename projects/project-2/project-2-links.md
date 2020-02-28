@@ -15,7 +15,7 @@
 | Skylar | ATX |  |  |  |  |
 | Sumar | ATX |  |  |  |  |
 | Tan | ATX | Sunday Band Planner | [link](https://github.com/zeroxposur18/sunday-band-planner) | [link](https://trello.com/b/kX6lgmwK/sunday-band-planner) |  |
-| Vinnie | ATX |  |  |  |  |
+| Vinnie | ATX |  | [link](https://github.com/vin23-dev/SEIproject2) | [link](https://trello.com/b/KWHND6VV/sei-project-2-workflow) |  |
 | Adam | DAL |  |  |  |  |
 | Briana | DAL |  |  |  |  |
 | David | DAL |  |  |  |  |
