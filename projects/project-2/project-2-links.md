@@ -6,9 +6,9 @@
 | Alanna | ATX | Hyrule Stays | [link](https://github.com/celentanoad/Hyrule-Stays) | [link](https://trello.com/b/X0uUIF23/hyrule-stays) |  |
 | Brandon | ATX |  | [link](https://github.com/bcarteratx/Project-2) | [link](https://trello.com/b/uvBFd4uH/project-2-crud-app) |  |
 | Crystal | ATX | The Herbal Dictionary | [link](https://github.com/crystallynnv/the-herbal-dictionary) | [link](https://trello.com/b/w143Hnby/the-herbal-dictionary) |  |
-| Daniel | ATX |  |  |  |  |
+| Daniel | ATX |  | [link](https://github.com/90dandan/Project-2) | [link](https://trello.com/b/jibW8wJ3/sei-project-two) |  |
 | David | ATX | 015o-directory | [link](https://github.com/DavidStinson/015o-directory) | [link](https://trello.com/b/de9phg99/015odirectory) |  |
-| Jan | ATX |  |  |  |  |
+| Jan | ATX | Restaurants | [link](https://github.com/jlee8020/restaurants) | [link](https://trello.com/b/jxeRKnbq/project-2) |  |
 | Lincoln | ATX | barTender | [link](https://github.com/lincolnyouree/barTender-project-2) | [link](https://trello.com/b/C98h8T0U/bartender-project-2) |  |
 | Melony | ATX | Crazy Plant | [link](https://github.com/msegnit/crazyplant) | [link](https://trello.com/b/sUPXFcDF/crazy-plant) |  |
 | Michael | ATX | Shelf | [link](https://github.com/mlackey9601/shelf) | [link](https://trello.com/b/pp3ws0GX/shelf) |  |
@@ -32,7 +32,7 @@
 | Jacob | DEN |  |  |  |  |
 | Janson | DEN | ProjectMe | [link](https://github.com/jayjaybunce/project-me) | [link](https://trello.com/b/ZpDc0BVY/projectme) |  |
 | Jeremy | DEN |  |  |  |  |
-| Robert J. | DEN |  |  |  |  |
+| Robert J. | DEN | Take My Dog | [link](https://github.com/rjohnson0707/project-2) | [link](https://trello.com/b/kbogr5d3/p2-takemydog-app) |  |
 | Robert P. | DEN |  |  |  |  |
 | Ryan | DEN | Hold My Beer | [link](https://github.com/Ryan-Finch/Hold-My-Beer) | [link](https://trello.com/b/JoNfurjJ/project-2-hold-my-beer) |  |
 | Amir | LA |  |  |  |  |
