@@ -2,19 +2,19 @@
 
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Alan | ATX |  |  |  |  |
+| Alan | ATX | Musical Moods | [link](https://github.com/acmccracken/musical-moods) | [link](https://trello.com/b/5z1oLtUB/musical-moods) |  |
 | Alanna | ATX |  |  |  |  |
-| Brandon | ATX |  |  |  |  |
+| Brandon | ATX |  | [link](https://github.com/bcarteratx/Project-2) | [link](https://trello.com/b/uvBFd4uH/project-2-crud-app) |  |
 | Crystal | ATX |  |  |  |  |
 | Daniel | ATX |  |  |  |  |
 | David | ATX |  |  |  |  |
 | Jan | ATX |  |  |  |  |
 | Lincoln | ATX |  |  |  |  |
-| Melony | ATX |  |  |  |  |
+| Melony | ATX | Crazy Plant | [link](https://github.com/msegnit/crazyplant) | [link](https://trello.com/b/sUPXFcDF/crazy-plant) |  |
 | Michael | ATX |  |  |  |  |
 | Skylar | ATX |  |  |  |  |
 | Sumar | ATX |  |  |  |  |
-| Tan | ATX |  |  |  |  |
+| Tan | ATX | Sunday Band Planner | [link](https://github.com/zeroxposur18/sunday-band-planner) | [link](https://trello.com/b/kX6lgmwK/sunday-band-planner) |  |
 | Vinnie | ATX |  |  |  |  |
 | Adam | DAL |  |  |  |  |
 | Briana | DAL |  |  |  |  |
@@ -30,7 +30,7 @@
 | Cody | DEN |  |  |  |  |
 | Dagny | DEN |  |  |  |  |
 | Jacob | DEN |  |  |  |  |
-| Janson | DEN |  |  |  |  |
+| Janson | DEN | ProjectMe | [link](https://github.com/jayjaybunce/project-me) |  |  |
 | Jeremy | DEN |  |  |  |  |
 | Robert J. | DEN |  |  |  |  |
 | Robert P. | DEN |  |  |  |  |
