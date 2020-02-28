@@ -9,7 +9,8 @@ module.exports = {
 };
 
 function update(req, res) {
-  Puppy.findByIdAndUpdate(req.params.id, req.body, {new: true}).then(function(puppy) {
+  Puppy.findByIdAndUpdate(req.params.id, req.body, {new: true})
+  .then(function(puppy) {
     res.status(200).json(puppy);
   });
 }

@@ -260,9 +260,9 @@
 - Then we simply have to mount the middleware in **server.js**:
 
 	```js
-	var cors = require('cors');
+	const cors = require('cors');
 	...
-	var app = express();
+	const app = express();
 	
 	app.use(cors());
 	```

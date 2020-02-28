@@ -1,6 +1,6 @@
-var express = require('express');
-var router = express.Router();
-var puppiesCtrl = require('../controllers/api/puppies');
+const express = require('express');
+const router = express.Router();
+const puppiesCtrl = require('../controllers/api/puppies');
 
 /* GET /api/puppies */
 router.get('/puppies', puppiesCtrl.index);

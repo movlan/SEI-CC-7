@@ -9,6 +9,9 @@ module.exports = {
 
 function addToCast(req, res) {
   Movie.findById(req.params.id, function(err, movie) {
+
+
+    
     movie.cast.push(req.body.performerId);
     movie.save(function(err) {
       res.redirect(`/movies/${movie._id}`);

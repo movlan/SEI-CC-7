@@ -43,7 +43,7 @@ Students Will Be Able To:
 	```sh
 	$ git pull upstream master
 	```
-1. `cd` into the<br>`.../work/w05/d2/01-js-promises/starter-code/mongoose-movies` folder.
+1. `cd` into the<br>`.../work/w05/d3/01-js-promises/starter-code/mongoose-movies` folder.
 
 1. Open the `mongoose-movies` folder in your code editor.
 
@@ -154,7 +154,7 @@ Students Will Be Able To:
 
 	```js
 	const p = new Promise(function(resolve, reject) {
-	  let value = 42;
+	  const value = 42;
 	  resolve(value);
 	});
 	
