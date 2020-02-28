@@ -23,7 +23,6 @@
 | Fabrizio | DAL |  |  |  |  |
 | Gabriel | DAL |  |  |  |  |
 | Matthew | DAL |  |  |  |  |
-| Rashad | DAL |  |  |  |  |
 | Anderson | DEN |  |  |  |  |
 | Andrew | DEN |  |  |  |  |
 | Bahram | DEN |  |  |  |  |
