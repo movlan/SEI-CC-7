@@ -30,7 +30,7 @@
 | Cody | DEN |  |  |  |  |
 | Dagny | DEN |  |  |  |  |
 | Jacob | DEN |  |  |  |  |
-| Janson | DEN | ProjectMe | [link](https://github.com/jayjaybunce/project-me) |  |  |
+| Janson | DEN | ProjectMe | [link](https://github.com/jayjaybunce/project-me) | [link](https://trello.com/b/ZpDc0BVY/projectme) |  |
 | Jeremy | DEN |  |  |  |  |
 | Robert J. | DEN |  |  |  |  |
 | Robert P. | DEN |  |  |  |  |
