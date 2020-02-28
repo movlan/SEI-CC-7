@@ -22,11 +22,11 @@
 | Eric | DAL |  |  |  |  |
 | Fabrizio | DAL |  |  |  |  |
 | Gabriel | DAL |  |  |  |  |
-| Matthew | DAL |  |  |  |  |
+| Matthew | DAL | Booklit | [link](https://github.com/Matthew-Coalson/Booklit) |  |  |
 | Anderson | DEN |  |  |  |  |
 | Andrew | DEN |  |  |  |  |
 | Bahram | DEN |  |  |  |  |
-| Brian | DEN |  |  |  |  |
+| Brian | DEN | Recipes | [link](https://github.com/brianbellini/recipes) | [link](https://trello.com/b/a2yZklq4/project-2) |  |
 | Cody | DEN |  |  |  |  |
 | Dagny | DEN |  |  |  |  |
 | Jacob | DEN |  |  |  |  |
