@@ -45,7 +45,7 @@
 | Hunter | LA |  |  |  |  |
 | Jose | LA |  |  |  |  |
 | Milad | LA |  |  |  |  |
-| Ruben | LA |  |  |  |  |
+| Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) |  |
 | Sarah | LA |  |  |  |  |
 | Stephanie | LA | Song of the Day | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) |  |
 | Alex | SD |  |  |  |  |
