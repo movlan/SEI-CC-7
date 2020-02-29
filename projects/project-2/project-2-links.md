@@ -50,6 +50,6 @@
 | Stephanie | LA | Song of the Day | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) |  |
 | Alex | SD |  |  |  |  |
 | Jonathan | SD |  |  |  |  |
-| Rocky | SD |  |  |  |  |
+| Rocky | SD | Book Club | [link](https://github.com/rockyliwanag/bib-yo-file) | [link](https://trello.com/b/q9IutHVu/project-2-book-club) |  |
 | Ryan | SD | Pet Dating App | [link](https://github.com/RyanBranco/Pet-Dating-App) | [link](https://trello.com/b/jm3l5SHd/project-2-planning) |  |
 | Trey | SD | Travel App | [link](https://github.com/tshuldberg/Travel) | [link](https://trello.com/b/JU4CHB0V/travelapp) |  |
