@@ -22,7 +22,7 @@
 | Eric | DAL | Laughing Stock | [link](https://github.com/ericjames3681/laughing-stock) | [link](https://trello.com/b/u1oYKd2W/laughing-stock) |  |
 | Fabrizio | DAL | Social Media App | [link](https://github.com/fabo22/convoh-app) | [link](https://trello.com/b/hlNU8aJB/social-media-app) |  |
 | Gabriel | DAL | Pet Rater | [link](https://github.com/gar0085/pet-rater) | [link](https://trello.com/b/aTfWnbbf/pet-rater) |  |
-| Matthew | DAL | Booklit | [link](https://github.com/Matthew-Coalson/Booklit) |  |  |
+| Matthew | DAL | Booklit | [link](https://github.com/Matthew-Coalson/Booklit) | [link](https://trello.com/b/bEpi8Ou2/booklit-planning) |  |
 | Anderson | DEN | Liquor Gourmet | [link](https://github.com/anderama100/LiquourGourmet) |  |  |
 | Andrew | DEN |  |  |  |  |
 | Bahram | DEN | FoodHub | [link](https://github.com/movlan/SEI-Project-2-FoodHub) | [link](https://trello.com/b/FPm3mnkX/user-stories) |  |
