@@ -41,12 +41,12 @@
 | Caroline | LA | Goes Against | [link](https://github.com/H-b8/goes-against) | [link](https://www.notion.so/e1c603032a82417f92478fd46d0ac924?v=29fecde46b304d139ab39e9cc6511e83) |  |
 | Cedric | LA |  |  |  |  |
 | Danny | LA | StudySet | [link](https://github.com/chasmad/study-set) | [link](https://trello.com/b/ADJ4i53p/studyset) |  |
-| Francis | LA |  |  |  |  |
+| Francis | LA | Dating App | [link](https://github.com/francismel/Dating_App) | [link](https://trello.com/b/5cUu4qtv/dating-app) |  |
 | Hunter | LA |  |  |  |  |
-| Jose | LA |  |  |  |  |
+| Jose | LA | mLoops | [link](https://github.com/codecallogic/mLoops) | [link](https://trello.com/b/YvakeGPa/example-project-planning) |  |
 | Milad | LA |  |  |  |  |
 | Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) |  |
-| Sarah | LA |  |  |  |  |
+| Sarah | LA | Hive Mind | [link](https://github.com/arghmatey/Hive-Mind) | [link](https://trello.com/b/5dZ2a8ME/hive-mind) |  |
 | Stephanie | LA | Song of the Day | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) |  |
 | Alex | SD |  |  |  |  |
 | Jonathan | SD |  |  |  |  |
