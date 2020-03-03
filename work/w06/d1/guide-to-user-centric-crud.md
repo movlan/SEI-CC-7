@@ -129,3 +129,65 @@ function allBooks(req, res) {
   });
 }
 ```
+
+#### Add a comment
+
+A form used to create a comment would look something like:
+
+```html
+<!-- Using the RESTful route to send the book's id to the server -->
+<form action="/books/<%= book._id %>/comments" method="POST">
+  <!-- Be sure name attributes of inputs match the model properties -->
+  <input name="text">
+  <button type="submit">ADD COMMENT</button>
+</form>
+```
+
+In the comment controller's create action, we'll need to first find the book to add the comment to:
+
+```js
+function create(req, res) {
+  Book.findById(req.params.id, function(err, book) {
+    // Update req.body to contain user info
+    req.body.userId = req.user._id;
+    req.body.userName = req.user.name;
+    // Add the comment
+    book.comments.push(req.body);
+    book.save(function(err) {
+      res.redirect(`/books/${book._id}`);
+    });
+  });
+}
+```
+
+#### Update a comment
+
+A form used to edit a data resource needs to use a query string to inform method-override middleware to change the post to a PUT request:
+
+```html
+<form action="/comments/<%= comment._id %>?_method=PUT" method="POST">
+  <!-- Value attribute is being set to the comment's current text -->
+  <input name="text" value="<%= comment.text %>">
+  <button type="submit">UPDATE COMMENT</button>
+</form>
+```
+
+When the edit comment form is submitted the `update` action will need to find the **book** that the comment is embedded within based upon the `_id` of the comment being sent as a query parameter:
+
+```js
+function update(req, res) {
+  // Note the cool "dot" syntax to query on the property of a subdoc
+  Book.findOne({'comments._id': req.params.id}, function(err, book) {
+    // Find the comment subdoc using the id method on Mongoose arrays
+    // https://mongoosejs.com/docs/subdocs.html
+    const commentSubdoc = book.comments.id(req.params.id);
+    // Update the text of the comment
+    commentSubdoc.text = req.body.text;
+    // Save the updated book
+    book.save(function(err) {
+      // Redirect back to the book's show view
+      res.redirect(`/books/${book._id}`);
+    });
+  });
+}
+```
