@@ -44,7 +44,7 @@
 | Francis | LA | Dating App | [link](https://github.com/francismel/Dating_App) | [link](https://trello.com/b/5cUu4qtv/dating-app) |  |
 | Hunter | LA | Pokedex | [link](https://github.com/Hunner4D/pokedex) | [link](https://trello.com/b/MYeDOr4W/sei-project-2) |  |
 | Jose | LA | mLoops | [link](https://github.com/codecallogic/mLoops) | [link](https://trello.com/b/YvakeGPa/example-project-planning) |  |
-| Milad | LA |  |  |  |  |
+| Milad | LA | Shop Insight | [link](https://github.com/MiladMalakooti/Project2-Shop_insight) | [link](https://trello.com/b/cDRFu3MB/shop-insight) |  |
 | Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) |  |
 | Sarah | LA | Hive Mind | [link](https://github.com/arghmatey/Hive-Mind) | [link](https://trello.com/b/5dZ2a8ME/hive-mind) |  |
 | Stephanie | LA | Song of the Day | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) |  |
