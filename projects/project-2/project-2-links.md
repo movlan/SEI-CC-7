@@ -39,7 +39,7 @@
 | Brennan | LA |  | [link](https://github.com/Chariot7/Project2) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) |  |
 | Carl "CJ" | LA | Bartending Bible | [link](https://github.com/cjstokes91/bartending-bible) | [link](https://trello.com/b/C98h8T0U/bartender-project-2) |  |
 | Caroline | LA | Goes Against | [link](https://github.com/H-b8/goes-against) | [link](https://www.notion.so/e1c603032a82417f92478fd46d0ac924?v=29fecde46b304d139ab39e9cc6511e83) |  |
-| Cedric | LA |  |  |  |  |
+| Cedric | LA | Fresh Kicks | [link](https://github.com/ccrisolo/Project-2-Fresh-Kicks) | [link](https://trello.com/b/N5I9TDga/sei-project-2) |  |
 | Danny | LA | StudySet | [link](https://github.com/chasmad/study-set) | [link](https://trello.com/b/ADJ4i53p/studyset) |  |
 | Francis | LA | Dating App | [link](https://github.com/francismel/Dating_App) | [link](https://trello.com/b/5cUu4qtv/dating-app) |  |
 | Hunter | LA | Pokedex | [link](https://github.com/Hunner4D/pokedex) | [link](https://trello.com/b/MYeDOr4W/sei-project-2) |  |
@@ -48,7 +48,7 @@
 | Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) |  |
 | Sarah | LA | Hive Mind | [link](https://github.com/arghmatey/Hive-Mind) | [link](https://trello.com/b/5dZ2a8ME/hive-mind) |  |
 | Stephanie | LA | Song of the Day | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) |  |
-| Alex | SD |  |  |  |  |
+| Alex | SD |  | [link](https://git.generalassemb.ly/Codealicious/project2) | [link](https://trello.com/b/hZtPn8eQ/project-2) |  |
 | Jonathan | SD | WhskyRbbt | [link](https://github.com/WhskyRbbt/CRUD-Project-2-) | [link](https://trello.com/b/2oBhwoei/crud-app-project) |  |
 | Rocky | SD | Book Club | [link](https://github.com/rockyliwanag/bib-yo-file) | [link](https://trello.com/b/q9IutHVu/project-2-book-club) |  |
 | Ryan | SD | Pet Dating App | [link](https://github.com/RyanBranco/Pet-Dating-App) | [link](https://trello.com/b/jm3l5SHd/project-2-planning) |  |
