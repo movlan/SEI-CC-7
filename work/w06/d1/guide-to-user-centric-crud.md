@@ -172,7 +172,7 @@ A form used to edit a data resource needs to use a query string to inform method
 </form>
 ```
 
-When the edit comment form is submitted the `update` action will need to find the **book** that the comment is embedded within based upon the `_id` of the comment being sent as a query parameter:
+When the edit comment form is submitted, the `update` action will need to find the **book** that the comment is embedded within based upon the `_id` of the comment being sent as a route parameter:
 
 ```js
 function update(req, res) {
@@ -183,6 +183,38 @@ function update(req, res) {
     const commentSubdoc = book.comments.id(req.params.id);
     // Update the text of the comment
     commentSubdoc.text = req.body.text;
+    // Save the updated book
+    book.save(function(err) {
+      // Redirect back to the book's show view
+      res.redirect(`/books/${book._id}`);
+    });
+  });
+}
+```
+
+#### Delete a comment
+
+A form used to delete a data resource needs to use a query string to inform method-override middleware to change the post to a DELETE request.
+
+Also, note that the proper RESTful route passes the `_id` of the comment, not the book that it's embedded within:
+
+```html
+<form action="/comments/<%= comment._id %>?_method=DELETE" method="POST">
+  <button type="submit">DELETE COMMENT</button>
+</form>
+```
+
+When the delete comment form is submitted, just like with the `update` action above, the `delete` action will need to find the **book** that the comment is embedded within based upon the `_id` of the comment being sent as a route parameter:
+
+```js
+function delete(req, res) {
+  // Note the cool "dot" syntax to query on the property of a subdoc
+  Book.findOne({'comments._id': req.params.id}, function(err, book) {
+    // Find the comment subdoc using the id method on Mongoose arrays
+    // https://mongoosejs.com/docs/subdocs.html
+    const commentSubdoc = book.comments.id(req.params.id);
+    // Remove the comment using the remove method of the subdoc
+    commentSubdoc.remove();
     // Save the updated book
     book.save(function(err) {
       // Redirect back to the book's show view
