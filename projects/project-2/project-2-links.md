@@ -24,12 +24,12 @@
 | Gabriel | DAL | Pet Rater | [link](https://github.com/gar0085/pet-rater) | [link](https://trello.com/b/aTfWnbbf/pet-rater) | [link](https://pet-rater.herokuapp.com/) |
 | Matthew | DAL | Booklit | [link](https://github.com/Matthew-Coalson/Booklit) | [link](https://trello.com/b/bEpi8Ou2/booklit-planning) | [link](https://mc-booklit.herokuapp.com/) |
 | Anderson | DEN | Liquor Gourmet | [link](https://github.com/anderama100/LiquourGourmet) | [link](https://trello.com/b/uhrvMCRG/liquour-gourmet) |  |
-| Andrew | DEN | Mountaineer | [link](https://github.com/aclark13861/Mountaineer) | [link](https://trello.com/b/r4wnDIoc/project-2) |  |
+| Andrew | DEN | Mountaineer | [link](https://github.com/aclark13861/Mountaineer) | [link](https://trello.com/b/r4wnDIoc/project-2) | [link](https://mountaineerz.herokuapp.com/users) |
 | Bahram | DEN | FoodHub | [link](https://github.com/movlan/SEI-Project-2-FoodHub) | [link](https://trello.com/b/FPm3mnkX/user-stories) | [link](https://foodhub-sei.herokuapp.com/r) |
-| Brian | DEN | Recipes | [link](https://github.com/brianbellini/recipes) | [link](https://trello.com/b/a2yZklq4/project-2) |  |
+| Brian | DEN | Recipes | [link](https://github.com/brianbellini/recipes) | [link](https://trello.com/b/a2yZklq4/project-2) | [link](https://recipes-bb.herokuapp.com/recipes) |
 | Cody | DEN | With Special Guests | [link](https://github.com/CodyLHart/with-special-guests) | [link](https://trello.com/b/Y4sTacqc/with-special-guests) [link](https://trello.com/b/YplM24Tr/with-special-guests-models) | [link](https://with-special-guests.herokuapp.com/users) |
 | Dagny | DEN | Egghead | [link](https://github.com/DagnyJay/Egghead) | [link](https://trello.com/b/sgJEjvXc/project-2-egghead) |  |
-| Jacob | DEN | Smack Talk | [link](https://github.com/LaunchPad90/Smack-Talk) |  [link](https://trello.com/b/KeGymZbs/project-2)|  |
+| Jacob | DEN | Smack Talk | [link](https://github.com/LaunchPad90/Smack-Talk) |  [link](https://trello.com/b/KeGymZbs/project-2)| [link](https://thawing-wave-87870.herokuapp.com/) |
 | Janson | DEN | ProjectMe | [link](https://github.com/jayjaybunce/project-me) | [link](https://trello.com/b/ZpDc0BVY/projectme) | [link](https://blabs-project-me.herokuapp.com/) |
 | Jeremy | DEN | Recipe Tracker | [link](https://github.com/TheJoo44/Recipe-Tracker) | [link](https://trello.com/b/alhQQITZ/project-2) | [link](https://recipe-tracker-project.herokuapp.com/) |
 | Robert J. | DEN | UpDog | [link](https://github.com/rjohnson0707/project-2) | [link](https://trello.com/b/kbogr5d3/p2-takemydog-app) | [link](https://updogg.herokuapp.com/users) |
