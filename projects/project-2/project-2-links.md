@@ -14,7 +14,7 @@
 | Michael | ATX | Shelftastic | [link](https://github.com/mlackey9601/shelf) | [link](https://trello.com/b/pp3ws0GX/shelf) | [link](https://shelftastic.herokuapp.com/) |
 | Skylar | ATX | Boba Express | [link](https://github.com/skylarw19/boba-node-express-mdb) | [link](https://trello.com/b/L4fEDwVi/boba-node-express-mdb) | [link](https://boba-drinker.herokuapp.com/) |
 | Sumar | ATX | myNationalPark | [link](https://github.com/sumardey5/myNationalPark) | [link](https://trello.com/b/Btldndoy/mynationalparkapp) |  |
-| Tan | ATX | Sunday Band Planner | [link](https://github.com/zeroxposur18/sunday-band-planner) | [link](https://trello.com/b/kX6lgmwK/sunday-band-planner) |  |
+| Tan | ATX | Sunday Band Planner | [link](https://github.com/zeroxposur18/sunday-band-planner) | [link](https://trello.com/b/kX6lgmwK/sunday-band-planner) | [link](https://sunday-band-planner.herokuapp.com/) |
 | Vinnie | ATX |  | [link](https://github.com/vin23-dev/SEIproject2) | [link](https://trello.com/b/KWHND6VV/sei-project-2-workflow) |  |
 | Adam | DAL | Park Texas | [link](https://github.com/azebolsky/Park-Texas) | [link](https://trello.com/b/vRajFK69/park-texas) |  |
 | Briana | DAL | Rate the Record | [link](https://github.com/bnfisher4/rate-the-record) | [link](https://trello.com/b/bgr1YdXb/project-2-rate-the-record) | [link](https://rate-the-record.herokuapp.com/) |
@@ -25,7 +25,7 @@
 | Matthew | DAL | Booklit | [link](https://github.com/Matthew-Coalson/Booklit) | [link](https://trello.com/b/bEpi8Ou2/booklit-planning) | [link](https://mc-booklit.herokuapp.com/) |
 | Anderson | DEN | Liquor Gourmet | [link](https://github.com/anderama100/LiquourGourmet) | [link](https://trello.com/b/uhrvMCRG/liquour-gourmet) |  |
 | Andrew | DEN | Mountaineer | [link](https://github.com/aclark13861/Mountaineer) | [link](https://trello.com/b/r4wnDIoc/project-2) |  |
-| Bahram | DEN | FoodHub | [link](https://github.com/movlan/SEI-Project-2-FoodHub) | [link](https://trello.com/b/FPm3mnkX/user-stories) |  |
+| Bahram | DEN | FoodHub | [link](https://github.com/movlan/SEI-Project-2-FoodHub) | [link](https://trello.com/b/FPm3mnkX/user-stories) | [link](https://foodhub-sei.herokuapp.com/r) |
 | Brian | DEN | Recipes | [link](https://github.com/brianbellini/recipes) | [link](https://trello.com/b/a2yZklq4/project-2) |  |
 | Cody | DEN | With Special Guests | [link](https://github.com/CodyLHart/with-special-guests) | [link](https://trello.com/b/Y4sTacqc/with-special-guests) [link](https://trello.com/b/YplM24Tr/with-special-guests-models) | [link](https://with-special-guests.herokuapp.com/users) |
 | Dagny | DEN | Egghead | [link](https://github.com/DagnyJay/Egghead) | [link](https://trello.com/b/sgJEjvXc/project-2-egghead) |  |
