@@ -31,7 +31,7 @@ You will add the ability to create _tickets_ for a given _flight_ in the `mongoo
 
 The relationship between the data entities is:<br>
 `Flight --< Ticket`<br>
-_A flight has many tickets_
+_A flight has many tickets_ / _A ticket belongs to a flight_
 
 Styling is secondary, spend time on it only after the functionality has been implemented.
 
@@ -47,9 +47,9 @@ Styling is secondary, spend time on it only after the functionality has been imp
 
 	##### Hints
 	
-	Notice how we don't _have_ to use an array to implement the 1:M relationship between `Flight` and `Ticket`. Instead, referencing the `ObjectId` of the _flight_ in the `flight` property of a _ticket_ enables the relationship. FYI, to implement this 1:M relationship, we _could_ have put a `tickets` array on the `Flight` model instead, or in addition to the `flight` property on `Ticket`. Be aware however, that M:M relationships would always require the use of an array property.
+	Notice how we don't _have_ to use an array to implement the 1:M relationship between `Flight` and `Ticket`. Instead, referencing the `ObjectId` of the _flight_ in the `flight` property of a _ticket_ enables the relationship. FYI, to implement this 1:M relationship, we _could_ have put a `tickets` array on the `Flight` model instead. Yup, unlike M:M relationships, 1:M doesn't require the use of an array property - just an ObjectId on the "belongs to" side (child side) of the relationship.
 	
-	Define the `seat` property as follows:<br>`seat: {type: String, match: /[A-F][1-9]\d?/}` - that's what we call a [regular expression](https://en.wikipedia.org/wiki/Regular_expression) that's being assigned to the `match` validator. Now for the best part, which just might blow your mind! You ready?  Are you sure? Here it is... HTML `<input>` tags have a `pattern` attribute that accept a regex pattern; and if what's typed in the `<input>` doesn't match the pattern, the form can't be submitted! Here's what your `<input>` should look like for entering the seat:
+	Define the `seat` property as follows:<br>`seat: {type: String, match: /[A-F][1-9]\d?/}` - that's what we call a [regular expression](https://en.wikipedia.org/wiki/Regular_expression) that's being assigned to the `match` validator. Now for the best part, which just might blow your mind! You ready?  Here it is... HTML `<input>` tags have a `pattern` attribute that accept a regex pattern; and if what's typed in the `<input>` doesn't match the pattern, the form can't be submitted! Here's what your `<input>` should look like for entering the seat:
 	
 	```html
 	<input name="seat" required pattern="[A-F][1-9]\d?">
@@ -60,7 +60,7 @@ Styling is secondary, spend time on it only after the functionality has been imp
 	- a `1` thru `9` character, followed by
 	- zero or one `0` thru `9` character.
 	
-	We'll cover more about regular expressions later in SEI, but this opportunity to preview them was too hard to pass up! Combined with the HTML `pattern` attribute, they provide an excellent way to perform _client-side_ validation of inputs.
+	We'll cover more about regular expressions soon enough in SEI, but this opportunity to preview them was too hard to pass up! Combined with the HTML `pattern` attribute, they provide an excellent way to perform _client-side_ validation of inputs.
 
 2. Modify the `show` view for a _flight_ to render, as you see fit (table, grid, etc.), a list of _tickets_ that have been created for that _flight_.
 
@@ -77,9 +77,9 @@ Styling is secondary, spend time on it only after the functionality has been imp
 	```
 	Be sure to pass both `flight` & `tickets` to the flight's `show` view so that they can be rendered.
 	
-	Note that there's no reason to `populate` the `flight` property because in this case, you already have obtained the _flight_ using `findById`.
+	Note that there's no reason to `populate` the `flight` property because in this case, you already have obtained the _flight_ using `Flight.findById`.
 	
-	For future reference, here's how to populate a _ticket's_ `flight` property:
+	For future reference though, here's how to populate a _ticket's_ `flight` property:
 	
 	```js
 	Ticket.findById(req.params.id)
@@ -91,9 +91,9 @@ Styling is secondary, spend time on it only after the functionality has been imp
 
 	##### Hints
 	
-	To display the view/form for adding a ticket, the path of the `href` for the **New Ticket** link will need to include the flight's `_id`.  The path should match this route on the server:  `/flights/:id/tickets/new`. The `req.params.id` can now be passed to the **tickets/new.ejs** and used for the ticket form's `action` attribute...
+	To display the view with the form for adding a ticket, the path of the `href` for the **New Ticket** link will need to include the flight's `_id`.  The path should match this route defined on the server:  `/flights/:id/tickets/new`. The `req.params.id` can now be passed to the **tickets/new.ejs** and used for the ticket form's `action` attribute...
 	
-	If you use the "proper" route for the ticket form's `action` attribute, the `ticketsCtrl.create` action will have access to the `_id` of the _flight_ the _ticket_ is being created for.
+	If you use the "proper" route for the ticket form's `action` attribute, the `ticketsCtrl.create` action will have access to the `_id` of the _flight_ the _ticket_ is being created for - you got this!
 	
 	In the controller action, there **will not** be a `flight` property on the `req.body` object. You must add that property yourself before using `req.body` to create the _ticket_. Failure to do so will result in the _ticket_ being created without a `flight` property that references the _flight_ it belongs to - so if newly added tickets are not showing up with the flight, this is probably the cause.
  
@@ -114,4 +114,4 @@ Styling is secondary, spend time on it only after the functionality has been imp
 
 ## Deliverable?
 
-### The final version of `mongoose-flights`, as a result of completing parts 1 - 3 of this lab, is a deliverable.  Because next week is project week, do your best to finish this week.
+### The final version of `mongoose-flights`, as a result of completing parts 1 - 3 of this lab, is a deliverable due on Monday.

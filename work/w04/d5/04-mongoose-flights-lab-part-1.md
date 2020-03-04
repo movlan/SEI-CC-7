@@ -26,6 +26,7 @@ FYI, future lessons will expand upon the `mongoose-movies` project, and the labs
 	| Property | Type | Validations | Default Value |
 	|---|---|---|---|
 	| `airline`| `String`| `enum` to include 'American', 'Southwest' & 'United' | n/a | 
+	| `airport`| `String`| `enum` to include<br>'AUS', 'DFW', 'DEN', 'LAX' & 'SAN' | 'DEN' |
 	| `flightNo`| `Number`| Required<br>Between `10` and `9999` | n/a | 
 	| `departs`| `Date`| n/a | One year from date created | 
 
@@ -34,11 +35,16 @@ FYI, future lessons will expand upon the `mongoose-movies` project, and the labs
 	
 	- AAU, I want to create flights by entering the information on a page (new view) that has a form and submitting it.
 
+	- AAU, I want to be able to access each view via a navigation bar at the top of the page with links to:
+		- `ALL FLIGHTS`, and
+		- `ADD FLIGHT`
+
 #### Hints:
 
 - Checkout the [`<input type="datetime-local">`
 ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local) to assist users in entering valid date/time values.
 
+- In the form for adding a new Flight, use a `<select name="airport">` to assign the flight's `airport`. Since they don't change, it's okay to hard-code the `<option>` elements, e.g., `<option value="DEN" selected>`.
 
 ## Bonuses
 
@@ -58,10 +64,6 @@ FYI, future lessons will expand upon the `mongoose-movies` project, and the labs
 
 
 2. Code these additional User Stories:
-	- AAU, I want to be able to access each view via a navigation bar at the top of the page with links to:
-		- `ALL FLIGHTS`, and
-		- `ADD FLIGHT`
-	
 	- AAU, I want to view the list of flights by departure date in ascending order.
 	
 	- AAU, I want the flights in the list to be displayed using red text if the flight's departure date has passed.
