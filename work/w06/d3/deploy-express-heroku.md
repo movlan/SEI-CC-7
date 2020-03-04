@@ -143,6 +143,8 @@ $ heroku config:set DATABASE_URL=mongodb+srv://username:pw@sei-students-1btwt.az
 
 Multiple key:value pairs can be space separated, or the command can be run as many times as necessary.
 
+> Note:  If using zsh, it may be necessary to quote the KEY=VALUE pair, for example:<br>`heroku config:set "DATABASE_URL=mongodb+srv://username:pw@sei-students-1btwt.azure.mongodb.net/students?retryWrites=true"`
+
 **IMPORTANT**
 
 For deployments using OAuth, be sure to use your Heroku app's hostname, **not** `localhost:3000` when setting the callbacks URL.  For example, this was the command used to set the Google OAuth callback for _sei-students_:
