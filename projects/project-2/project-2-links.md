@@ -5,7 +5,7 @@
 | Alan | ATX | Musical Moods | [link](https://github.com/acmccracken/musical-moods) | [link](https://trello.com/b/5z1oLtUB/musical-moods) | [link](https://musical-moods.herokuapp.com/) |
 | Alanna | ATX | Hyrule Stays | [link](https://github.com/celentanoad/Hyrule-Stays) | [link](https://trello.com/b/X0uUIF23/hyrule-stays) | [link](https://hyrule-stays.herokuapp.com/) |
 | Brandon | ATX |  | [link](https://github.com/bcarteratx/Project-2) | [link](https://trello.com/b/uvBFd4uH/project-2-crud-app) | [ink](https://ga-project2-ttr.herokuapp.com/) |
-| Crystal | ATX | The Herbal Dictionary | [link](https://github.com/crystallynnv/the-herbal-dictionary) | [link](https://trello.com/b/w143Hnby/the-herbal-dictionary) |  |
+| Crystal | ATX | The Herbal Dictionary | [link](https://github.com/crystallynnv/the-herbal-dictionary) | [link](https://trello.com/b/w143Hnby/the-herbal-dictionary) | [link](https://the-herbal-dictionary.herokuapp.com/) |
 | Daniel | ATX | MmmKayUltra Vinyl Community | [link](https://github.com/90dandan/Project-2) | [link](https://trello.com/b/jibW8wJ3/sei-project-two) | [link](https://mmmkayultra.herokuapp.com/users) |
 | David | ATX | 015o-directory | [link](https://github.com/DavidStinson/015o-directory) | [link](https://trello.com/b/de9phg99/015odirectory) | [link](https://zero15odirectory.herokuapp.com/) |
 | Jan | ATX | Food Lovers | [link](https://github.com/jlee8020/restaurants) | [link](https://trello.com/b/jxeRKnbq/project-2) | [link](https://foodloverz2.herokuapp.com/) |
@@ -17,10 +17,10 @@
 | Tan | ATX | Sunday Band Planner | [link](https://github.com/zeroxposur18/sunday-band-planner) | [link](https://trello.com/b/kX6lgmwK/sunday-band-planner) |  |
 | Vinnie | ATX |  | [link](https://github.com/vin23-dev/SEIproject2) | [link](https://trello.com/b/KWHND6VV/sei-project-2-workflow) |  |
 | Adam | DAL | Park Texas | [link](https://github.com/azebolsky/Park-Texas) | [link](https://trello.com/b/vRajFK69/park-texas) |  |
-| Briana | DAL | Rate the Record | [link](https://github.com/bnfisher4/rate-the-record) | [link](https://trello.com/b/bgr1YdXb/project-2-rate-the-record) |  |
+| Briana | DAL | Rate the Record | [link](https://github.com/bnfisher4/rate-the-record) | [link](https://trello.com/b/bgr1YdXb/project-2-rate-the-record) | [link](https://rate-the-record.herokuapp.com/) |
 | David | DAL | Game Reviews | [link](https://github.com/fastlane27/game-reviews) | [link](https://trello.com/b/0QyKhhzH/game-reviews) | [link](https://gamesreviews.herokuapp.com/games) |
 | Eric | DAL | Laughing Stock | [link](https://github.com/ericjames3681/laughing-stock) | [link](https://trello.com/b/u1oYKd2W/laughing-stock) |  |
-| Fabrizio | DAL | Social Media App | [link](https://github.com/fabo22/convoh-app) | [link](https://trello.com/b/hlNU8aJB/social-media-app) |  |
+| Fabrizio | DAL | ConvOh | [link](https://github.com/fabo22/convoh-app) | [link](https://trello.com/b/hlNU8aJB/social-media-app) | [link](https://convoh.herokuapp.com/) |
 | Gabriel | DAL | Pet Rater | [link](https://github.com/gar0085/pet-rater) | [link](https://trello.com/b/aTfWnbbf/pet-rater) | [link](https://pet-rater.herokuapp.com/) |
 | Matthew | DAL | Booklit | [link](https://github.com/Matthew-Coalson/Booklit) | [link](https://trello.com/b/bEpi8Ou2/booklit-planning) | [link](https://mc-booklit.herokuapp.com/) |
 | Anderson | DEN | Liquor Gourmet | [link](https://github.com/anderama100/LiquourGourmet) | [link](https://trello.com/b/uhrvMCRG/liquour-gourmet) |  |
