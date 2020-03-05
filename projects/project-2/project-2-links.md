@@ -36,7 +36,7 @@
 | Robert P. | DEN | The Goodest Doggo | [link](https://github.com/rperillo1/The-Goodest-Doggo) | [link](https://trello.com/b/diDYSKAq/project-2) | [link](https://the-goodest-doggo.herokuapp.com/home) |
 | Ryan | DEN | Hold My Beer | [link](https://github.com/Ryan-Finch/Hold-My-Beer) | [link](https://trello.com/b/JoNfurjJ/project-2-hold-my-beer) | [link](https://holdmy-beer.herokuapp.com/) |
 | Amir | LA | SpaceX Tickets | [link](https://github.com/Amir9499-99/Space-X-tickets) | [link](https://trello.com/b/VvvawDCF/space) | [link](https://find-your-event.herokuapp.com/) |
-| Brennan | LA |  | [link](https://github.com/Chariot7/Project2) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) |  |
+| Brennan | LA | Wishpool | [link](https://github.com/Chariot7/Project2) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) | [link](https://wish-pool.herokuapp.com/) |
 | Carl "CJ" | LA | Bartending Bible | [link](https://github.com/cjstokes91/bartending-bible) | [link](https://trello.com/b/C98h8T0U/bartender-project-2) | [link](https://bartending-bible.herokuapp.com/) |
 | Caroline | LA | Goes Against | [link](https://github.com/H-b8/goes-against) | [link](https://www.notion.so/e1c603032a82417f92478fd46d0ac924?v=29fecde46b304d139ab39e9cc6511e83) | [link](https://goesagainst.herokuapp.com/) |
 | Cedric | LA | Fresh Kicks | [link](https://github.com/ccrisolo/Project-2-Fresh-Kicks) | [link](https://trello.com/b/N5I9TDga/sei-project-2) |  |
