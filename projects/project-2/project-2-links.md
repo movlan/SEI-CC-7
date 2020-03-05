@@ -19,7 +19,7 @@
 | Adam | DAL | Park Texas | [link](https://github.com/azebolsky/Park-Texas) | [link](https://trello.com/b/vRajFK69/park-texas) |  |
 | Briana | DAL | Rate the Record | [link](https://github.com/bnfisher4/rate-the-record) | [link](https://trello.com/b/bgr1YdXb/project-2-rate-the-record) | [link](https://rate-the-record.herokuapp.com/) |
 | David | DAL | Game Reviews | [link](https://github.com/fastlane27/game-reviews) | [link](https://trello.com/b/0QyKhhzH/game-reviews) | [link](https://gamesreviews.herokuapp.com/games) |
-| Eric | DAL | Laughing Stock | [link](https://github.com/ericjames3681/laughing-stock) | [link](https://trello.com/b/u1oYKd2W/laughing-stock) |  |
+| Eric | DAL | Laughing Stock | [link](https://github.com/ericjames3681/laughing-stock) | [link](https://trello.com/b/u1oYKd2W/laughing-stock) | [link](https://laughing-stock.herokuapp.com/) |
 | Fabrizio | DAL | ConvOh | [link](https://github.com/fabo22/convoh-app) | [link](https://trello.com/b/hlNU8aJB/social-media-app) | [link](https://convoh.herokuapp.com/) |
 | Gabriel | DAL | Pet Rater | [link](https://github.com/gar0085/pet-rater) | [link](https://trello.com/b/aTfWnbbf/pet-rater) | [link](https://pet-rater.herokuapp.com/) |
 | Matthew | DAL | Booklit | [link](https://github.com/Matthew-Coalson/Booklit) | [link](https://trello.com/b/bEpi8Ou2/booklit-planning) | [link](https://mc-booklit.herokuapp.com/) |
@@ -45,11 +45,11 @@
 | Hunter | LA | Pokedex | [link](https://github.com/Hunner4D/pokedex) | [link](https://trello.com/b/MYeDOr4W/sei-project-2) |  |
 | Jose | LA | mLoops | [link](https://github.com/codecallogic/mLoops) | [link](https://trello.com/b/YvakeGPa/example-project-planning) |  |
 | Milad | LA | Shop Insight | [link](https://github.com/MiladMalakooti/Project2-Shop_insight) | [link](https://trello.com/b/cDRFu3MB/shop-insight) |  |
-| Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) |  |
+| Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) | [link](https://cider-hog.herokuapp.com/) |
 | Sarah | LA | Hive Mind | [link](https://github.com/arghmatey/Hive-Mind) | [link](https://trello.com/b/5dZ2a8ME/hive-mind) | [link](https://hive--mind.herokuapp.com/) |
 | Stephanie | LA | Song of the Day | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) |  |
 | Alex | SD |  | [link](https://git.generalassemb.ly/Codealicious/project2) | [link](https://trello.com/b/hZtPn8eQ/project-2) |  |
-| Jonathan | SD | WhskyRbbt | [link](https://github.com/WhskyRbbt/CRUD-Project-2-) | [link](https://trello.com/b/2oBhwoei/crud-app-project) |  |
+| Jonathan | SD | WhskyRbbt | [link](https://github.com/WhskyRbbt/CRUD-Project-2-) | [link](https://trello.com/b/2oBhwoei/crud-app-project) | [link](https://crud-app-project-2.herokuapp.com/) |
 | Rocky | SD | Book Club | [link](https://github.com/rockyliwanag/bib-yo-file) | [link](https://trello.com/b/q9IutHVu/project-2-book-club) | [link](https://bib-lio-file.herokuapp.com/) |
 | Ryan | SD | Pet Dating App | [link](https://github.com/RyanBranco/Pet-Dating-App) | [link](https://trello.com/b/jm3l5SHd/project-2-planning) |  |
 | Trey | SD | Travel App | [link](https://github.com/tshuldberg/Travel) | [link](https://trello.com/b/JU4CHB0V/travelapp) | [link](https://where-ya-goin.herokuapp.com/users) |
