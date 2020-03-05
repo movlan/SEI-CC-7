@@ -206,6 +206,23 @@ Also, note that the proper RESTful route passes the `_id` of the comment, not th
 </form>
 ```
 
+However, you'll only want to render the above form if the comment was created by the logged in user - you don't want users deleting each other's comments! Here's how you can conditionally render the delete comment form for only the comments created by the logged in user:
+
+```html
+<% book.comments.forEach(function(comment) { %>
+  <div class="comment">
+    <%= comment.text %><br>
+    <% if (comment.userId.equals(user._id)) { %>
+      <form action="/comments/<%= comment._id %>?_method=DELETE" method="POST">
+        <button type="submit">X</button>
+      </form>
+    <% } %>
+  </div>
+<% }) %>
+```
+
+> Note that using a simple "X" as the button text, along with some styling provides for a decent UI.
+
 When the delete comment form is submitted, just like with the `update` action above, the `delete` action will need to find the **book** that the comment is embedded within based upon the `_id` of the comment being sent as a route parameter:
 
 ```js
