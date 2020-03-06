@@ -47,7 +47,7 @@
 | Milad | LA | Shop Insight | [link](https://github.com/MiladMalakooti/Project2-Shop_insight) | [link](https://trello.com/b/cDRFu3MB/shop-insight) | [link](https://shop-insight.herokuapp.com/) |
 | Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) | [link](https://cider-hog.herokuapp.com/) |
 | Sarah | LA | Hive Mind | [link](https://github.com/arghmatey/Hive-Mind) | [link](https://trello.com/b/5dZ2a8ME/hive-mind) | [link](https://hive--mind.herokuapp.com/) |
-| Stephanie | LA | Song of the Day | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) |  |
+| Stephanie | LA | groOvy | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) | [link](https://groovy-tunes.herokuapp.com/) |
 | Alex | SD |  | [link](https://git.generalassemb.ly/Codealicious/project2) | [link](https://trello.com/b/hZtPn8eQ/project-2) |  |
 | Jonathan | SD | WhskyRbbt | [link](https://github.com/WhskyRbbt/CRUD-Project-2-) | [link](https://trello.com/b/2oBhwoei/crud-app-project) | [link](https://crud-app-project-2.herokuapp.com/) |
 | Rocky | SD | Book Club | [link](https://github.com/rockyliwanag/bib-yo-file) | [link](https://trello.com/b/q9IutHVu/project-2-book-club) | [link](https://bib-lio-file.herokuapp.com/) |
