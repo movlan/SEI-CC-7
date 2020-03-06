@@ -36,20 +36,20 @@
 | Robert P. | DEN | The Goodest Doggo | [link](https://github.com/rperillo1/The-Goodest-Doggo) | [link](https://trello.com/b/diDYSKAq/project-2) | [link](https://the-goodest-doggo.herokuapp.com/home) |
 | Ryan | DEN | Hold My Beer | [link](https://github.com/Ryan-Finch/Hold-My-Beer) | [link](https://trello.com/b/JoNfurjJ/project-2-hold-my-beer) | [link](https://holdmy-beer.herokuapp.com/) |
 | Amir | LA | SpaceX Tickets | [link](https://github.com/Amir9499-99/Space-X-tickets) | [link](https://trello.com/b/VvvawDCF/space) | [link](https://find-your-event.herokuapp.com/) |
-| Brennan | LA |  | [link](https://github.com/Chariot7/Project2) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) |  |
+| Brennan | LA | Wishpool | [link](https://github.com/Chariot7/Project2) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) | [link](https://wish-pool.herokuapp.com/) |
 | Carl "CJ" | LA | Bartending Bible | [link](https://github.com/cjstokes91/bartending-bible) | [link](https://trello.com/b/C98h8T0U/bartender-project-2) | [link](https://bartending-bible.herokuapp.com/) |
 | Caroline | LA | Goes Against | [link](https://github.com/H-b8/goes-against) | [link](https://www.notion.so/e1c603032a82417f92478fd46d0ac924?v=29fecde46b304d139ab39e9cc6511e83) | [link](https://goesagainst.herokuapp.com/) |
 | Cedric | LA | Fresh Kicks | [link](https://github.com/ccrisolo/Project-2-Fresh-Kicks) | [link](https://trello.com/b/N5I9TDga/sei-project-2) |  |
 | Danny | LA | StudySet | [link](https://github.com/chasmad/study-set) | [link](https://trello.com/b/ADJ4i53p/studyset) | [link](https://studyset.herokuapp.com/users) |
 | Francis | LA | Dating App | [link](https://github.com/francismel/Dating_App) | [link](https://trello.com/b/5cUu4qtv/dating-app) | [link](https://gaharmony.herokuapp.com/daters) |
 | Hunter | LA | Pokedex | [link](https://github.com/Hunner4D/pokedex) | [link](https://trello.com/b/MYeDOr4W/sei-project-2) |  |
-| Jose | LA | mLoops | [link](https://github.com/codecallogic/mLoops) | [link](https://trello.com/b/YvakeGPa/example-project-planning) |  |
+| Jose | LA | mLoops | [link](https://github.com/codecallogic/mLoops) | [link](https://trello.com/b/YvakeGPa/example-project-planning) | [link](https://mloops.herokuapp.com/) |
 | Milad | LA | Shop Insight | [link](https://github.com/MiladMalakooti/Project2-Shop_insight) | [link](https://trello.com/b/cDRFu3MB/shop-insight) | [link](https://shop-insight.herokuapp.com/) |
 | Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) | [link](https://cider-hog.herokuapp.com/) |
 | Sarah | LA | Hive Mind | [link](https://github.com/arghmatey/Hive-Mind) | [link](https://trello.com/b/5dZ2a8ME/hive-mind) | [link](https://hive--mind.herokuapp.com/) |
-| Stephanie | LA | Song of the Day | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) |  |
-| Alex | SD |  | [link](https://git.generalassemb.ly/Codealicious/project2) | [link](https://trello.com/b/hZtPn8eQ/project-2) |  |
+| Stephanie | LA | groOvy | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) | [link](https://groovy-tunes.herokuapp.com/) |
+| Alex | SD | Hotelware | [link](https://git.generalassemb.ly/Codealicious/project2) | [link](https://trello.com/b/hZtPn8eQ/project-2) | [link](http://hotelware-pms.herokuapp.com/) |
 | Jonathan | SD | WhskyRbbt | [link](https://github.com/WhskyRbbt/CRUD-Project-2-) | [link](https://trello.com/b/2oBhwoei/crud-app-project) | [link](https://crud-app-project-2.herokuapp.com/) |
 | Rocky | SD | Book Club | [link](https://github.com/rockyliwanag/bib-yo-file) | [link](https://trello.com/b/q9IutHVu/project-2-book-club) | [link](https://bib-lio-file.herokuapp.com/) |
-| Ryan | SD | Pet Dating App | [link](https://github.com/RyanBranco/Pet-Dating-App) | [link](https://trello.com/b/jm3l5SHd/project-2-planning) |  |
+| Ryan | SD | Pet Dating App | [link](https://github.com/RyanBranco/Pet-Dating-App) | [link](https://trello.com/b/jm3l5SHd/project-2-planning) | [link](https://pet-datting-app.herokuapp.com/) |
 | Trey | SD | Travel App | [link](https://github.com/tshuldberg/Travel) | [link](https://trello.com/b/JU4CHB0V/travelapp) | [link](https://where-ya-goin.herokuapp.com/users) |
