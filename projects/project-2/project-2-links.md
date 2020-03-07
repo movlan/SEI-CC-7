@@ -28,7 +28,7 @@
 | Bahram | DEN | FoodHub | [link](https://github.com/movlan/SEI-Project-2-FoodHub) | [link](https://trello.com/b/FPm3mnkX/user-stories) | [link](https://foodhub-sei.herokuapp.com/r) |
 | Brian | DEN | Recipes | [link](https://github.com/brianbellini/recipes) | [link](https://trello.com/b/a2yZklq4/project-2) | [link](https://recipes-bb.herokuapp.com/recipes) |
 | Cody | DEN | With Special Guests | [link](https://github.com/CodyLHart/with-special-guests) | [link](https://trello.com/b/Y4sTacqc/with-special-guests) [link](https://trello.com/b/YplM24Tr/with-special-guests-models) | [link](https://with-special-guests.herokuapp.com/users) |
-| Dagny | DEN | Egghead | [link](https://github.com/DagnyJay/Egghead) | [link](https://trello.com/b/sgJEjvXc/project-2-egghead) |  |
+| Dagny | DEN | Egghead | [link](https://github.com/DagnyJay/Egghead) | [link](https://trello.com/b/sgJEjvXc/project-2-egghead) | [link](https://egghead-recipes.herokuapp.com/) |
 | Jacob | DEN | Smack Talk | [link](https://github.com/LaunchPad90/Smack-Talk) |  [link](https://trello.com/b/KeGymZbs/project-2)| [link](https://thawing-wave-87870.herokuapp.com/) |
 | Janson | DEN | ProjectMe | [link](https://github.com/jayjaybunce/project-me) | [link](https://trello.com/b/ZpDc0BVY/projectme) | [link](https://blabs-project-me.herokuapp.com/) |
 | Jeremy | DEN | Recipe Tracker | [link](https://github.com/TheJoo44/Recipe-Tracker) | [link](https://trello.com/b/alhQQITZ/project-2) | [link](https://recipe-tracker-project.herokuapp.com/) |
