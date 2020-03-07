@@ -17,7 +17,7 @@
 | Tan | ATX | Sunday Band Planner | [link](https://github.com/zeroxposur18/sunday-band-planner) | [link](https://trello.com/b/kX6lgmwK/sunday-band-planner) | [link](https://sunday-band-planner.herokuapp.com/) |
 | Vinnie | ATX | Festival Tracker | [link](https://github.com/vin23-dev/SEIproject2) | [link](https://trello.com/b/KWHND6VV/sei-project-2-workflow) | [link](https://festival-tracker.herokuapp.com/) |
 | Adam | DAL | Park Texas | [link](https://github.com/azebolsky/Park-Texas) | [link](https://trello.com/b/vRajFK69/park-texas) | [link](https://keep-texas-wild.herokuapp.com/) |
-| Briana | DAL | Rate the Record | [link](https://github.com/bnfisher4/rate-the-record) | [link](https://trello.com/b/bgr1YdXb/project-2-rate-the-record) | [link](https://rate-the-record.herokuapp.com/) |
+| Brianna | DAL | Rate the Record | [link](https://github.com/bnfisher4/rate-the-record) | [link](https://trello.com/b/bgr1YdXb/project-2-rate-the-record) | [link](https://rate-the-record.herokuapp.com/) |
 | David | DAL | Game Reviews | [link](https://github.com/fastlane27/game-reviews) | [link](https://trello.com/b/0QyKhhzH/game-reviews) | [link](https://gamesreviews.herokuapp.com/games) |
 | Eric | DAL | Laughing Stock | [link](https://github.com/ericjames3681/laughing-stock) | [link](https://trello.com/b/u1oYKd2W/laughing-stock) | [link](https://laughing-stock.herokuapp.com/) |
 | Fabrizio | DAL | ConvOh | [link](https://github.com/fabo22/convoh-app) | [link](https://trello.com/b/hlNU8aJB/social-media-app) | [link](https://convoh.herokuapp.com/) |
