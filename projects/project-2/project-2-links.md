@@ -23,7 +23,7 @@
 | Fabrizio | DAL | ConvOh | [link](https://github.com/fabo22/convoh-app) | [link](https://trello.com/b/hlNU8aJB/social-media-app) | [link](https://convoh.herokuapp.com/) |
 | Gabriel | DAL | Pet Rater | [link](https://github.com/gar0085/pet-rater) | [link](https://trello.com/b/aTfWnbbf/pet-rater) | [link](https://pet-rater.herokuapp.com/) |
 | Matthew | DAL | Booklit | [link](https://github.com/Matthew-Coalson/Booklit) | [link](https://trello.com/b/bEpi8Ou2/booklit-planning) | [link](https://mc-booklit.herokuapp.com/) |
-| Anderson | DEN | Liquor Gourmet | [link](https://github.com/anderama100/LiquourGourmet) | [link](https://trello.com/b/uhrvMCRG/liquour-gourmet) |  |
+| Anderson | DEN | Liquor Gourmet | [link](https://github.com/anderama100/LiquorGourmet) | [link](https://trello.com/b/uhrvMCRG/liquour-gourmet) | [link](https://liquor-gourmet.herokuapp.com/) |
 | Andrew | DEN | Mountaineer | [link](https://github.com/aclark13861/Mountaineer) | [link](https://trello.com/b/r4wnDIoc/project-2) | [link](https://mountaineerz.herokuapp.com/users) |
 | Bahram | DEN | FoodHub | [link](https://github.com/movlan/SEI-Project-2-FoodHub) | [link](https://trello.com/b/FPm3mnkX/user-stories) | [link](https://foodhub-sei.herokuapp.com/r) |
 | Brian | DEN | Recipes | [link](https://github.com/brianbellini/recipes) | [link](https://trello.com/b/a2yZklq4/project-2) | [link](https://recipes-bb.herokuapp.com/recipes) |
