@@ -42,7 +42,7 @@
 | Cedric | LA | Fresh Kicks | [link](https://github.com/ccrisolo/Project-2-Fresh-Kicks) | [link](https://trello.com/b/N5I9TDga/sei-project-2) |  |
 | Danny | LA | StudySet | [link](https://github.com/chasmad/study-set) | [link](https://trello.com/b/ADJ4i53p/studyset) | [link](https://studyset.herokuapp.com/users) |
 | Francis | LA | Dating App | [link](https://github.com/francismel/Dating_App) | [link](https://trello.com/b/5cUu4qtv/dating-app) | [link](https://gaharmony.herokuapp.com/daters) |
-| Hunter | LA | Pokedex | [link](https://github.com/Hunner4D/pokedex) | [link](https://trello.com/b/MYeDOr4W/sei-project-2) |  |
+| Hunter | LA | Pokedex | [link](https://github.com/Hunner4D/pokedex) | [link](https://trello.com/b/MYeDOr4W/sei-project-2) | [link](https://pokedex-hunter.herokuapp.com/) |
 | Jose | LA | mLoops | [link](https://github.com/codecallogic/mLoops) | [link](https://trello.com/b/YvakeGPa/example-project-planning) | [link](https://mloops.herokuapp.com/) |
 | Milad | LA | Shop Insight | [link](https://github.com/MiladMalakooti/Project2-Shop_insight) | [link](https://trello.com/b/cDRFu3MB/shop-insight) | [link](https://shop-insight.herokuapp.com/) |
 | Ruben | LA | Cider HOG | [link](https://github.com/R101010/Cider-HOG) | [link](https://trello.com/b/qvZJGUuu/cider-hog) | [link](https://cider-hog.herokuapp.com/) |
