@@ -86,10 +86,10 @@ Students will be able to:
 - The application should track:
 	- The tickets for a concert
 	- The seat and price of the ticket
-	- The date of the concert
-	- The performer of the concert
-	- The venue of the concert
 	- The customer that bought a ticket
+	- The date of the concert
+	- The performer(s) of the concert
+	- The venue of the concert
 
 ---
 ### The Process
@@ -120,7 +120,7 @@ Students will be able to:
 
 - To do this, we can look for current attributes that:
 	- Could have attributes of their own, e.g., a **Venue**. 
-	- Or, be shared between other Tickets, again, a **Venue**.
+	- Or, be shared between other Tickets, e.g., a **Customer**.
 
 ---
 ### Identifying Data Entities
@@ -222,7 +222,7 @@ Students will be able to:
 
 - Foreign Keys are what enable a database engine to efficiently join two tables that are related.
 
-- It's **important** to note that foreign keys always exist on the **many** (child) side of a **1:M** relationship.  **Why would this be the case instead of the other way around?**
+- It's **important** to note that foreign keys always exist on the **many** (child/"belongs to") side of a **1:M** relationship.  **Why would this be the case instead of the other way around?**
 
 ---
 ### Determining the Cardinality Between Tables
@@ -287,14 +287,14 @@ Students will be able to:
 - Although not shown on the ERD with a connecting line, you could say that **"A Customer has many Concerts through Tickets"**, as well as, **"A Concert has many Customers through Tickets"**.
 
 ---
-### Creating the ERD - Exercise <small>(5 min)</small>
+### Creating the ERD - Exercise <small>(2 min)</small>
 <br>
 
 - As a pair exercise, please identify the remaining relationships:
 	- **Concert** and **Venue**
 	- **Concert** and **Performer**
 
-- We'll review in 5 minutes... (don't peek)
+- We'll review in 2 minutes... (don't peek)
 
 ---
 ### ERD - Final Version
@@ -310,6 +310,16 @@ Students will be able to:
 - Modeling data is an important step during the planning of an application.  After all, _**data is the single source of truth**_!
 
 - In addition to what we covered in this lesson, there are several other notations/ways to diagram an application's data model.  Check out [this post](https://www.lucidchart.com/pages/er-diagrams) from _lucidchart.com's_ website for more info.  
+
+---
+## ❓ Essential Questions
+<br>
+
+1. True or False:  Each Data Entity has its own table in a Relational DB?
+
+2. In an eCommerce application with Orders & Products, what would be the relationship (cardinality) between them?
+
+3. In this relationship:  <code>Customer ---< Order</code>, which entity (table) would have the Foreign Key? 
 
 ---
 ## Further Study
