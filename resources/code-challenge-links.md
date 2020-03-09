@@ -13,7 +13,6 @@
 | Melony | ATX | [link](https://git.generalassemb.ly/melonysegnit/daily-js-code-challenges) |
 | Michael | ATX | [link](https://git.generalassemb.ly/mlackey9601/daily-js-code-challenges) |
 | Skylar | ATX | [link](https://git.generalassemb.ly/skylarw19/daily-js-code-challenges) |
-| Sumar | ATX | [link](https://git.generalassemb.ly/sumardey5/daily-js-code-challenges) |
 | Tan | ATX | [link](https://git.generalassemb.ly/zeroxposur18/daily-code-challenges) |
 | Vinnie | ATX | [link](https://git.generalassemb.ly/vin23/daily-js-code-challenges) |
 | Adam | DAL | [link](https://git.generalassemb.ly/azebolsky/daily-js-code-challenges) |
