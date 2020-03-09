@@ -59,8 +59,6 @@ The primary container for data in a relational database is a **table**:
 
 As you can see, database tables look a lot like a spreadsheet since they consist of columns and rows.
 
-Tables are also known as _relations_, thus the term _relational database_.
-
 A single table in a relational database holds data for a particular _data entity_, for example, **customers**, **orders**, **reviews**, etc.
 
 TABLE: **artists**
@@ -79,8 +77,6 @@ TABLE: **songs**
 | 3      | Raspberry Beret     | 1985          | 1         |
 | 4      | Your Song           | 1970          | 2         |
 
-The naming convention for tables is typically snake-cased and always plural.
-
 #### Rows (Records / Tuples)
 
 A row in a table represents a single instance of the data entity.
@@ -95,7 +91,7 @@ The columns of a table have a:
 - Data type (all data in a column must be of the same type)
 - Optional contraints
 
-The typical naming convention is usually snake-cased and singular.
+The typical naming convention is usually snake_cased and singular.
 
 PostgreSQL has [many data types](https://www.postgresql.org/docs/11/datatype.html) for columns, but common ones include:
 
@@ -138,7 +134,7 @@ Since only one type of data entity can be held in a single table, related data, 
 
 SQL syntax is similar to the English language.
 
-Although SQL is fairly standard, it can vary from depending on the particular RDBMS. For example, the _SQLite_ RDBMS has a minimal implementation of SQL commands.
+Although SQL is fairly standard, it can vary from depending on the particular RDBMS (Relational Database Management System). For example, the _SQLite_ RDBMS implements fewer SQL commands than that of _PostgreSQL_.
 
 ### The `psql` Interactive Terminal
 
@@ -166,6 +162,7 @@ help -- general help
 \h   -- help with SQL commands
 \l   -- Lists all databases
 \c   -- Connect to a database
+\d   -- List tables in database
 \q   -- exits psql
 q    -- exits a psql list or dialogue
 ```
@@ -220,13 +217,11 @@ Let's say we have the following data relationship:  `Band ---< Musician`
 
 _A Band has many Musicians_ and _a Musician belongs to a Band_
 
-Whenever you have a one:many relationship, the rows in the table for the many-side must include a column that references which row in the table on the one-side it _belongs to_.
+Whenever you have a one:many relationship like above, the rows in the table for the many-side must include a column that references which row in the table on the one-side it _belongs to_.
 
-This column is a **foreign key (FK)** that we discussed earlier.
+This column is known as a **foreign key (FK)** and it must be of the same data type as the primary key in the parent table (typically an **integer**).
 
-The FK must be of the same data type as the primary key in the parent table - usually an **integer**.
-
-Here's how we could define the `musicians` table:
+Now let's define the `musicians` table:
 
 ```sql
 -- REFERENCES creates a FK constraint
@@ -246,8 +241,9 @@ Now let's attempt to add a musician with a bogus foreign key:
 
 ```sql
 INSERT INTO musicians (name, band_id) VALUES ('Geddy Lee', 999);
+--- The above command will fail because there's no matching PK in the bands table
 
--- Let's try again, but first, we need the id of the band
+-- Let's try again, but first, let's verify the ids of the bands
 SELECT * FROM bands;
 
 -- Assuming 'Rush' has an id of 2
@@ -256,7 +252,7 @@ INSERT INTO musicians (name, band_id) VALUES ('Geddy Lee', 2);
 SELECT * FROM musicians;  -- There's Geddy!
 
 -- Now let's add Neil
--- Use two single quotes to embed a single quote
+-- Use two single quotes to embed an apostrophe
 INSERT INTO musicians (name, quote, band_id)
 VALUES (
 'Neil Peart',
@@ -349,11 +345,11 @@ Before moving on to the lab, let's answer a few questions...
 
 1. **A database contains a _________ for each data entity that an application has.**
 
-2. **True or False: In a relational database, all of the data in a given column must be of the same data type.**
+2. **True or False: In a relational database, all of the data in a column in a table must be of the same data type.**
 
 3. **A single instance of a data entity is represented by a ______ in a table.**
 
-4. **The programming language used by relational databases is commonly referred to as ______.**
+4. **_____ is the programming language used by relational databases.**
 
 ## Further Study
 
