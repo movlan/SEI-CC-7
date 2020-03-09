@@ -49,7 +49,7 @@
 | Sarah | LA | Hive Mind | [link](https://github.com/arghmatey/Hive-Mind) | [link](https://trello.com/b/5dZ2a8ME/hive-mind) | [link](https://hive--mind.herokuapp.com/) |
 | Stephanie | LA | groOvy | [link](https://github.com/skimalee/song-of-the-day) | [link](https://trello.com/b/K85B6UDN/song-of-the-day) | [link](https://groovy-tunes.herokuapp.com/) |
 | Alex | SD | Hotelware | [link](https://git.generalassemb.ly/Codealicious/project2) | [link](https://trello.com/b/hZtPn8eQ/project-2) | [link](http://hotelware-pms.herokuapp.com/) |
-| Jonathan | SD | WhskyRbbt | [link](https://github.com/WhskyRbbt/CRUD-Project-2-) | [link](https://trello.com/b/2oBhwoei/crud-app-project) | [link](https://crud-app-project-2.herokuapp.com/) |
+| Jonathan | SD | WhskyRbbt | [link](https://github.com/WhskyRbbt/CRUD-Project-2-) | [link](https://trello.com/b/2oBhwoei/crud-app-project) | [link](https://jon-crud-app-ejs.herokuapp.com/) |
 | Rocky | SD | Book Club | [link](https://github.com/rockyliwanag/bib-yo-file) | [link](https://trello.com/b/q9IutHVu/project-2-book-club) | [link](https://bib-lio-file.herokuapp.com/) |
 | Ryan | SD | Pet Dating App | [link](https://github.com/RyanBranco/Pet-Dating-App) | [link](https://trello.com/b/jm3l5SHd/project-2-planning) | [link](https://pet-datting-app.herokuapp.com/) |
 | Trey | SD | Travel App | [link](https://github.com/tshuldberg/Travel) | [link](https://trello.com/b/JU4CHB0V/travelapp) | [link](https://where-ya-goin.herokuapp.com/users) |
