@@ -39,7 +39,7 @@
 | Brennan | LA | Wishpool | [link](https://github.com/Chariot7/Project2) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) | [link](https://wish-pool.herokuapp.com/) |
 | Carl "CJ" | LA | Bartending Bible | [link](https://github.com/cjstokes91/bartending-bible) | [link](https://trello.com/b/C98h8T0U/bartender-project-2) | [link](https://bartending-bible.herokuapp.com/) |
 | Caroline | LA | Goes Against | [link](https://github.com/H-b8/goes-against) | [link](https://www.notion.so/e1c603032a82417f92478fd46d0ac924?v=29fecde46b304d139ab39e9cc6511e83) | [link](https://goesagainst.herokuapp.com/) |
-| Cedric | LA | Fresh Kicks | [link](https://github.com/ccrisolo/Project-2-Fresh-Kicks) | [link](https://trello.com/b/N5I9TDga/sei-project-2) |  |
+| Cedric | LA | Fresh Kicks | [link](https://github.com/ccrisolo/Project-2-Fresh-Kicks) | [link](https://trello.com/b/N5I9TDga/sei-project-2) | [link](https://fresh-kicks.herokuapp.com/) |
 | Danny | LA | StudySet | [link](https://github.com/chasmad/study-set) | [link](https://trello.com/b/ADJ4i53p/studyset) | [link](https://studyset.herokuapp.com/users) |
 | Francis | LA | Dating App | [link](https://github.com/francismel/Dating_App) | [link](https://trello.com/b/5cUu4qtv/dating-app) | [link](https://gaharmony.herokuapp.com/daters) |
 | Hunter | LA | Pokedex | [link](https://github.com/Hunner4D/pokedex) | [link](https://trello.com/b/MYeDOr4W/sei-project-2) | [link](https://pokedex-hunter.herokuapp.com/) |
