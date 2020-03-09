@@ -64,12 +64,12 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
     <tr>
       <td rowspan="3">Second Language & Web Framework</td>
       <td align="center">7</td>
-      <td>Fundamentals of Python<br>Relational Databases & SQL</td>
+      <td>Relational Databases & SQL<br>Fundamentals of Python<br>CS Topics</td>
       <td rowspan="3">Group Project: Full-stack Django Application</td>
     </tr>
     <tr>
       <td align="center">8</td>
-      <td>Django Web Framework<br>Amazon S3<br>Username/Password Authentication</td>
+      <td>Django Web Framework<br>Uploading Files to Amazon S3<br>Username/Password Authentication</td>
     </tr>
     <tr>
       <td align="center">9</td>
