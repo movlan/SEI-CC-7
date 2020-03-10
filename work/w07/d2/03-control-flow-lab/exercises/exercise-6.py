@@ -2,8 +2,8 @@
 
 # Write the code that:
 # 1. Prompts the user to enter the month (as three characters):
-#      Enter the month of the season (Jan - Dec):
-# 2. Then propts the user to enter the day of the month: 
+#      Enter the month of the year (Jan - Dec):
+# 2. Then prompts the user to enter the day of the month: 
 #      Enter the day of the month:
 # 3. Calculate what season it is based upon this chart:
 #      Dec 21 - Mar 19: Winter
