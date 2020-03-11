@@ -96,7 +96,7 @@
 	> Tina
 	```
 
-- Unlike JS, you cannot access items in a Python dictionary using **dot notation** (dots are used to invoke methods).
+- Unlike JS, you cannot access items in a Python dictionary using **dot notation** (dots are used to invoke methods on the dictionary).
 
 ---
 ### Dictionaries - <span style="text-transform: lowercase">get</span> Method
@@ -382,7 +382,7 @@
 ### Lists - Iteration
 <br>
 
-- The `for` loop is used to iterate over the items in a _list_:
+- The `for in` loop is used to iterate over the items in a _list_:
 
 	```python
 	colors = ['red', 'green', 'blue']
@@ -669,7 +669,7 @@
 ### Tuples - Unpacking
 <br>
 
-- _Tuples_ have a convenient feature, called _unpacking_, for doing multiple variable assignment:
+- _Tuples_ (and other sequences such as _Lists_) have a convenient feature, called _unpacking_, for doing multiple variable assignment:
 
 	```python
 	colors = ('red', 'green', 'blue')
@@ -677,7 +677,7 @@
 	print(red, green, blue)
 	> red green blue
 	```
-	A tuple of variables on the left-side of the assignment operator and a tuple of values on the right is all it takes.
+	Comma separated variables on the left-side of the assignment operator and a tuple of values on the right is all it takes.
 
 ---
 ## Sequences Can Be "Sliced"
