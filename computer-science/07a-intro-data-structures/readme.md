@@ -21,7 +21,7 @@ Each lesson listed below has its own folder that contains:
 
 Each lesson folder also provides additional resources (e.g., reading materials, videos, additional practice opportunities) for you and your students.
 
-> **Note**: The Introduction to Data Structures lesson does not have a folder, as it's just one myGA module. You can check out that module [here](https://my.generalassemb.ly/activities/878?from=dashboard&assignmentUuid=efcbcfa0-d5eb-4f2b-912b-dae58e6434d9).
+> **Note**: The Introduction to Data Structures lesson does not have a folder, as it's just one myGA module. You can check out that module [here](https://my.generalassemb.ly/activities/878?from=dashboard).
 
 ## Lesson Breakdown
 
@@ -35,7 +35,7 @@ Because many topics build on each other, you should plan to teach the lessons in
 
 | Tier | Lesson name | myGA module(s) name | In-class exercise(s) | 
 |---|---|---|---|
-| 1 | Intro to Data Structures | [Introduction to Data Structures](https://my.generalassemb.ly/activities/878?from=dashboard&assignmentUuid=efcbcfa0-d5eb-4f2b-912b-dae58e6434d9) | none |
+| 1 | Intro to Data Structures | [Introduction to Data Structures](https://my.generalassemb.ly/activities/878?from=dashboard) | none |
 | 1 | [Linked Lists](linked-lists) | Linked Lists | Implementing a Linked List |
 | 2 | [Stacks and Queues](stacks-and-queues) | Stacks and Queues | Bracket Matching |
 | 2 | [Hash Tables](hash-tables) | Introduction to Hash Tables; Hash Tables Deep Dive | Implementing a Hash Table |
