@@ -82,7 +82,7 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 ☐ **Use OAuth authentication**. (lesson this week)
 
-☐ Implement basic **authorization** that restricts access to certain features by "protecting" those routes (using middleware) from anonymous users and allowing editing and deletion by only the user that created the data.
+☐ Implement basic **authorization** that restricts access to features that need a logged in user in order to work (typically CUD data operations) by "protecting" those routes (using the `isLoggedIn` middleware from the OAuth lesson) from anonymous users. In addition, ensure that editing and deletion of data can only be done by the user that created that data (this is done in the controller - refer to the Guide to User-Centric CRUD).
 
 ☐ Have **full-CRUD data operations** somewhere within the app's features. For example, you can have functionality that **C**reates & **U**pdates a _post_ and satisfy **D**elete functionality by implementing the ability to delete _comments_.
 
