@@ -80,7 +80,7 @@ Let's verify the installation as follows:
 
 ```
 $ python3 -m django --version
-# -> 2.2.x
+# -> 3.x.x
 ```
 
 If it's not installed, do a one-time install of the Django framework using the following command:
@@ -136,7 +136,7 @@ We'll get started working on the tutorial together.  However, after creating the
 
 Rest assured that we'll be diving deeper into the Django topics touched upon during the tutorial, and more, like learning how to upload images to Amazon S3!
 
-Let's get started by clicking [here](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)!
+Let's get started by clicking [here](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)!
 
 ## References
 
