@@ -15,6 +15,6 @@
 | LA | Group 1:<br>Danny, Ruben & Steph |  | [link](https://generalassembly.zoom.us/j/613488574) |  |  |  |  |
 | LA | Group 2:<br>CJ, Cedric & Sarah |  | [link](https://generalassembly.zoom.us/j/144208934) |  |  |  |  |
 | LA | Group 3:<br>Brennan, Caroline, Jose & Milad |  | [link](https://generalassembly.zoom.us/j/632400007) |  |  |  |  |
-| LA | Group 4:<br>Amir, Francis & Hunter |  | [link](https://generalassembly.zoom.us/j/766986131) |  |  |  |  |
+| LA | Corona Virus Killerzz:<br>Amir, Francis & Hunter |  | [link](https://generalassembly.zoom.us/j/766986131) |  |  |  |  |
 | SD | Group 1:<br>Alex & Trey |  | [link](https://generalassembly.zoom.us/j/233634067) |  | [link](https://generalassembly.zoom.us/j/336545666) |  |  |
 | SD | Group 2:<br>Jon, Rocky & Ryan |  |  |  |  |  |  |
