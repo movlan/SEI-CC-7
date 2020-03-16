@@ -32,7 +32,7 @@
 | Jacob | DEN | [link](https://git.generalassemb.ly/LaunchPad90/daily-js-code-challenges) |
 | Janson | DEN | [link](https://git.generalassemb.ly/vesuvios/daily-js-code-challenges) |
 | Jeremy | DEN | [link](https://git.generalassemb.ly/thejoo44/daily-js-code-challenges) |
-| Robert J. | DEN | [link](https://git.generalassemb.ly/rjohnson0707/daily-js-code-challenges) |
+| Robert J. "Will" | DEN | [link](https://git.generalassemb.ly/rjohnson0707/daily-js-code-challenges) |
 | Robert P. | DEN | [link](https://git.generalassemb.ly/rperillo1/daily-js-code-challenges) |
 | Ryan | DEN | [link](https://git.generalassemb.ly/ryanwfin/daily-js-code-challenges) |
 | Amir | LA | [link](https://git.generalassemb.ly/Amir94/daily-js-code-challenges) |
