@@ -2,7 +2,7 @@
 
 | Campus | Team | Project Name | Zoom Link | GitHub | Pitch Deck | Trello | Hosted Site |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| ATX | Group 1:<br>Brandon, David & Jan |  | [link](https://generalassembly.zoom.us/j/464166441) |  |  |  |  |
+| ATX | Group 1:<br>Brandon, David & Jan | Buckets of Fun | [link](https://generalassembly.zoom.us/j/464166441) |  |  |  |  |
 | ATX | Masters of Detail:<br>Alan, Michael & Tan |  | [link](https://generalassembly.zoom.us/j/944121346) |  |  |  |  |
 | ATX | Group 3:<br>Crystal, Daniel, Skylar & Vinnie | git rekt | [link](https://generalassembly.zoom.us/j/618072252) |  |  |  |  |
 | ATX | Group 4:<br>Alanna, Lincoln & Melony |  | [link](https://generalassembly.zoom.us/j/257843851) |  |  |  |  |
