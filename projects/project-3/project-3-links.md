@@ -8,7 +8,7 @@
 | ATX | Group 4:<br>Alanna, Lincoln & Melony |  | [link](https://generalassembly.zoom.us/j/257843851) |  |  |  |  |
 | DAL | Group 1:<br>Eric, Fabrizio & Matt |  | [link](https://generalassembly.zoom.us/j/818379235) |  |  |  |  |
 | DAL | Group 2:<br>Adam, Brianna, David & Gabriel |  | [link](https://generalassembly.zoom.us/j/949746161) |  |  |  |  |
-| DEN | Group 1:<br>Andrew, Janson & Jeremy |  | [link](https://generalassembly.zoom.us/j/441702162) |  |  |  |  |
+| DEN | Group 1:<br>Andrew, Janson & Jeremy | The Fighting Mongooses | [link](https://generalassembly.zoom.us/j/441702162) |  |  |  |  |
 | DEN | Group 2:<br>Anders, Robert & Ryan |  | [link](https://generalassembly.zoom.us/j/426386582) |  |  |  |  |
 | DEN | Group 3:<br>Brian, Cody & Jacob |  | [link](https://generalassembly.zoom.us/j/932598831) |  |  |  |  |
 | DEN | Group 4:<br>Bahram, Dagny & Will |  | [link](https://generalassembly.zoom.us/j/993065454) |  |  |  |  |
