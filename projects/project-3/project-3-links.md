@@ -9,7 +9,7 @@
 | DAL | Group 1:<br>Eric, Fabrizio & Matt |  | [link](https://generalassembly.zoom.us/j/818379235) |  |  |  |  |
 | DAL | Group 2:<br>Adam, Brianna, David & Gabriel |  | [link](https://generalassembly.zoom.us/j/949746161) |  |  |  |  |
 | DEN | Group 1:<br>Anders, Janson & Jeremy | The Fighting Mongooses | [link](https://generalassembly.zoom.us/j/441702162) |  |  |  |  |
-| DEN | Group 2:<br>Robert, Ryan & Ryan |  | [link](https://generalassembly.zoom.us/j/426386582) |  |  |  |  |
+| DEN | Group 2:<br>Robert, Ryan & Will |  | [link](https://generalassembly.zoom.us/j/426386582) |  |  |  |  |
 | DEN | Group 3:<br>Brian, Cody & Jacob | Delete the Chickens | [link](https://generalassembly.zoom.us/j/932598831) |  |  |  |  |
 | DEN | Group 4:<br>Andrew, Bahram & Dagny |  | [link](https://generalassembly.zoom.us/j/993065454) |  |  |  |  |
 | LA | Group 1:<br>Danny, Ruben & Steph |  | [link](https://generalassembly.zoom.us/j/613488574) |  |  |  |  |
