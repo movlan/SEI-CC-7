@@ -1,7 +1,7 @@
 ## SEI-CC-7 Team Project 3 Links
 
 | Campus | Team | Project Name | GitHub | Pitch Deck | Trello | Hosted Site |
-|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|
 | ATX | Group 1:<br>Brandon, David & Jan | Buckets of Fun |   |  |  |  |
 | ATX | **Masters of Detail**:<br>Alan, Michael & Tan |  |   |  |  |  |
 | ATX | Group 3:<br>Crystal, Daniel, Skylar & Vinnie | git rekt |   |  |  |  |
