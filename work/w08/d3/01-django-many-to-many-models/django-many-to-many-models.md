@@ -23,9 +23,14 @@
 
 ## 1. Set Up
 
-**Be sure to be inside of this lesson's `starter-code/catcollector` directory, NOT the `starter-code` directory** before you open VS Code with `code .`
+**Be sure to be inside of your 'code/catcollector' directory, NOT the `starter-code` directory** before you open VS Code with `code .`
 
-The starter code for this lesson has had quite a bit of code added to it since you last saw the Cat Collector.
+The starter code for this lesson has had quite a bit of code added to it since you last saw the Cat Collector so make sure you run your commands to sync with the repo
+
+```
+git fetch --all
+git reset --hard origin/master
+```
 
 However, none of the additional code has anything that you haven't worked with already.
 
