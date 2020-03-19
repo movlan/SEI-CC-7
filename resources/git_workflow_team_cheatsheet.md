@@ -53,7 +53,6 @@ To help illustrate collaborating on a project using Git/GitHub, consider the fol
 2. If GitHub states there will be conflicts, and the merge is smallish, it is still possible to merge online by following the instructions.
 3. If the request is very comprehensive and may cause plenty of merge conflicts, the manager may decide to test and merge the pull request locally/manually by clicking **command line instructions** and following the steps listed.
 4. After a merge, ensure your team members pull the recent changes into their local repo ASAP.
-5. Once merged, it is okay for to delete the feature branch, but it's not necessary to do so.
 
 ### Minimizing Merge Conflicts
 
