@@ -8,9 +8,9 @@
 | ATX | **The Space Invaders, Inc.**:<br>Alanna, Lincoln & Melony | The Best Barcade | [link](https://github.com/lincolnyouree/the-best-barcade) | [link](https://www.canva.com/design/DAD2uw3TBuM/C8VjuKRj6oMPGVV8BHRfVg/view?utm_content=DAD2uw3TBuM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) | [link](https://trello.com/b/o3Ybyxxe/the-best-barcade-group-project) |  |
 | DAL | **Mediocre At Best**:<br>Eric, Fabrizio & Matt |  |   |  |  |  |
 | DAL | Group 2:<br>Adam, Brianna, David & Gabriel |  |   |  |  |  |
-| DEN | Group 1:<br>Anders, Janson & Jeremy | The Fighting Mongooses |   |  |  |  |
+| DEN | **The Fighting Mongooses**<br>Anders, Janson & Jeremy |  |   |  |  |  |
 | DEN | Group 2:<br>Robert, Ryan & Will |  |   |  |  |  |
-| DEN | **The Best Group**:<br>Brian, Cody & Jacob | Delete the Chickens | [link](https://github.com/brianbellini/bad_app_app) | [link](https://docs.google.com/presentation/d/1fcqI8YcUExeqlxLOi6gl843j50fqCdhSCQAcK9YTn9Y/edit) | [link](https://trello.com/b/9h6jCBzr) |  |
+| DEN | **The Best Group**:<br>Brian, Cody & Jacob | Bad App App | [link](https://github.com/brianbellini/bad_app_app) | [link](https://docs.google.com/presentation/d/1fcqI8YcUExeqlxLOi6gl843j50fqCdhSCQAcK9YTn9Y/edit) | [link](https://trello.com/b/9h6jCBzr) |  |
 | DEN | Group 4:<br>Andrew, Bahram & Dagny |  |   |  |  |  |
 | LA | **The Ternary Operators**:<br>Danny, Ruben & Steph |  |   |  |  |  |
 | LA | Group 2:<br>CJ, Cedric & Sarah |  |   |  |  |  |
