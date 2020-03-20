@@ -2,7 +2,7 @@
 
 | Campus | Team | Project Name | GitHub | Pitch Deck | Trello | Hosted Site |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-| ATX | Group 1:<br>Brandon, David & Jan | Buckets of Fun |   |  |  |  |
+| ATX | **Buckets of Fun, Inc.**:<br>Brandon, David & Jan | stART | [link](https://github.com/bcarteratx/stART) | [link](https://docs.google.com/presentation/d/1jASGUhKNJj_ZXgjvg_JTa2wIBtgn08j0UMqNh-T35NU/edit?usp=sharing) | [link](https://trello.com/b/HmPkxqTp/project-3-start) |  |
 | ATX | **Masters of Detail**:<br>Alan, Michael & Tan | 8-bit Archive | [link](https://github.com/zeroxposur18/8-bit-archive) | [link](https://docs.google.com/presentation/d/1muVt_wu6NYyIGrlFx8TLKlcdeXdpLRrIhugt0gI5g-M/edit) | [link](https://trello.com/b/8ada8teB/8-bit-archive) |  |
 | ATX | **git rekt**:<br>Crystal, Daniel, Skylar & Vinnie | Into the Unknown | [link](https://github.com/skylarw19/into-the-unknown) | [link](https://docs.google.com/presentation/d/1F2G04evX0BmMGqMCc2Yb9t2rzO96rOqaQJfTJqxVAio/edit) | [link](https://trello.com/b/dcMyTCvB/into-the-unknown-travel-app) |  |
 | ATX | **The Space Invaders, Inc.**:<br>Alanna, Lincoln & Melony | The Best Barcade | [link](https://github.com/lincolnyouree/the-best-barcade) | [link](https://www.canva.com/design/DAD2uw3TBuM/C8VjuKRj6oMPGVV8BHRfVg/view?utm_content=DAD2uw3TBuM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) | [link](https://trello.com/b/o3Ybyxxe/the-best-barcade-group-project) |  |
