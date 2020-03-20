@@ -3,9 +3,9 @@
 | Campus | Team | Project Name | GitHub | Pitch Deck | Trello | Hosted Site |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
 | ATX | Group 1:<br>Brandon, David & Jan | Buckets of Fun |   |  |  |  |
-| ATX | **Masters of Detail**:<br>Alan, Michael & Tan |  |   |  |  |  |
+| ATX | **Masters of Detail**:<br>Alan, Michael & Tan | 8-bit Archive | [link](https://github.com/zeroxposur18/8-bit-archive) | [link](https://docs.google.com/presentation/d/1muVt_wu6NYyIGrlFx8TLKlcdeXdpLRrIhugt0gI5g-M/edit) | [link](https://trello.com/b/8ada8teB/8-bit-archive) |  |
 | ATX | Group 3:<br>Crystal, Daniel, Skylar & Vinnie | git rekt |   |  |  |  |
-| ATX | Group 4:<br>Alanna, Lincoln & Melony |  |   |  |  |  |
+| ATX | Group 4:<br>Alanna, Lincoln & Melony |  |  | [link](https://www.canva.com/design/DAD2uw3TBuM/C8VjuKRj6oMPGVV8BHRfVg/view?utm_content=DAD2uw3TBuM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) |  |  |
 | DAL | **Mediocre At Best**:<br>Eric, Fabrizio & Matt |  |   |  |  |  |
 | DAL | Group 2:<br>Adam, Brianna, David & Gabriel |  |   |  |  |  |
 | DEN | Group 1:<br>Anders, Janson & Jeremy | The Fighting Mongooses |   |  |  |  |
