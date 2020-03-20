@@ -14,7 +14,7 @@
 | DEN | Group 4:<br>Andrew, Bahram & Dagny |  |   |  |  |  |
 | LA | **The Ternary Operators**:<br>Danny, Ruben & Steph | Cup of Sugar | [link](https://github.com/skimalee/cup-of-sugar) | [link](https://drive.google.com/file/d/1c89P00TVdw-Nqty0L5bC9RIObVNKEbeR/view) |  [link](https://trello.com/b/ZQiZX0Sl/cup-of-sugar) |  |
 | LA | Group 2:<br>CJ, Cedric & Sarah | Foodivity | [link](https://github.com/ccrisolo/Foodivity) | [link](https://docs.google.com/presentation/d/144b0TG9-I7lBSYJDO5tDQmlq8K5yqnCdmhxTYlBaMGc/edit#slide=id.g251622d556_0_42) | [link](https://trello.com/b/CMhFaVEc) |  |
-| LA | Group 3:<br>Brennan, Caroline, Jose & Milad |  |   |  |  |  |
+| LA | **Team Recovery**:<br>Brennan, Caroline, Jose & Milad | Recovery | [link](https://github.com/Chariot7/recovery) | [link](https://docs.google.com/presentation/d/1K5ZJkF4MmetE6jlGCA4KSX09QP7zpad-oKhemmi836Q/edit?ts=5e743bbf#slide=id.p) | [link](https://trello.com/b/uG9P0yHg/recovery) |  |
 | LA | **Corona Virus Killerzz**:<br>Amir, Francis & Hunter | GA Forum | [link](https://github.com/francismel/project_3) | [link](https://drive.google.com/file/d/1lrnmjVDOOoFeXzDFUyNWzWP_iFChF4zV/view) | [link](https://trello.com/b/2ZjmA4t4/project-3-social-forums) |  |
-| SD | Group 1:<br>Alex & Trey |  |   |  |  |  |
+| SD | **Team Ticket**:<br>Alex & Trey | Get it Ticket | [link](https://github.com/tshuldberg/get-it-tickets) | [link](https://docs.google.com/presentation/d/1-xNMen5sec_vtIxDnHCOFc-dyG26UjPlSITpUQhCVa8/edit#slide=id.p) | [link](https://trello.com/b/OLK8h098/project-3) |  |
 | SD | Group 2:<br>Jon, Rocky & Ryan |  |   |  |  |  |
