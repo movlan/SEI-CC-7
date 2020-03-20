@@ -13,7 +13,7 @@
 | DEN | **The Best Group**:<br>Brian, Cody & Jacob | Bad App App | [link](https://github.com/brianbellini/bad_app_app) | [link](https://docs.google.com/presentation/d/1fcqI8YcUExeqlxLOi6gl843j50fqCdhSCQAcK9YTn9Y/edit) | [link](https://trello.com/b/9h6jCBzr) |  |
 | DEN | Group 4:<br>Andrew, Bahram & Dagny |  |   |  |  |  |
 | LA | **The Ternary Operators**:<br>Danny, Ruben & Steph | Cup of Sugar | [link](https://github.com/skimalee/cup-of-sugar) | [link](https://drive.google.com/file/d/1c89P00TVdw-Nqty0L5bC9RIObVNKEbeR/view) |  [link](https://trello.com/b/ZQiZX0Sl/cup-of-sugar) |  |
-| LA | Group 2:<br>CJ, Cedric & Sarah | Foodivity | [link](https://github.com/ccrisolo/Foodivity) |  | [link](https://trello.com/b/CMhFaVEc) |  |
+| LA | Group 2:<br>CJ, Cedric & Sarah | Foodivity | [link](https://github.com/ccrisolo/Foodivity) | [link](https://docs.google.com/presentation/d/144b0TG9-I7lBSYJDO5tDQmlq8K5yqnCdmhxTYlBaMGc/edit#slide=id.g251622d556_0_42) | [link](https://trello.com/b/CMhFaVEc) |  |
 | LA | Group 3:<br>Brennan, Caroline, Jose & Milad |  |   |  |  |  |
 | LA | **Corona Virus Killerzz**:<br>Amir, Francis & Hunter | GA Forum | [link](https://github.com/francismel/project_3) | [link](https://drive.google.com/file/d/1lrnmjVDOOoFeXzDFUyNWzWP_iFChF4zV/view) | [link](https://trello.com/b/2ZjmA4t4/project-3-social-forums) |  |
 | SD | Group 1:<br>Alex & Trey |  |   |  |  |  |
