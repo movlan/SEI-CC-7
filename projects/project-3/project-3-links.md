@@ -4,7 +4,7 @@
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
 | ATX | Group 1:<br>Brandon, David & Jan | Buckets of Fun |   |  |  |  |
 | ATX | **Masters of Detail**:<br>Alan, Michael & Tan | 8-bit Archive | [link](https://github.com/zeroxposur18/8-bit-archive) | [link](https://docs.google.com/presentation/d/1muVt_wu6NYyIGrlFx8TLKlcdeXdpLRrIhugt0gI5g-M/edit) | [link](https://trello.com/b/8ada8teB/8-bit-archive) |  |
-| ATX | Group 3:<br>Crystal, Daniel, Skylar & Vinnie | git rekt |   |  |  |  |
+| ATX | **git rekt**:<br>Crystal, Daniel, Skylar & Vinnie | Into the Unknown | [link](https://github.com/skylarw19/into-the-unknown) | [link](https://docs.google.com/presentation/d/1F2G04evX0BmMGqMCc2Yb9t2rzO96rOqaQJfTJqxVAio/edit) | [link](https://trello.com/b/dcMyTCvB/into-the-unknown-travel-app) |  |
 | ATX | **The Space Invaders, Inc.**:<br>Alanna, Lincoln & Melony | The Best Barcade | [link](https://github.com/lincolnyouree/the-best-barcade) | [link](https://www.canva.com/design/DAD2uw3TBuM/C8VjuKRj6oMPGVV8BHRfVg/view?utm_content=DAD2uw3TBuM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) | [link](https://trello.com/b/o3Ybyxxe/the-best-barcade-group-project) |  |
 | DAL | **Mediocre At Best**:<br>Eric, Fabrizio & Matt | Game Night | [link](https://github.com/fabo22/game-night) | [link](https://docs.google.com/presentation/d/1DImZYr3uk_slKnOq_oa1F8sVz4dm_jGRtWGQ4qI0CDk/edit#slide=id.g81980de0f9_1_10) | [link](https://trello.com/b/CcQ3NIES/game-night) |  |
 | DAL | Group 2:<br>Adam, Brianna, David & Gabriel |  |   |  |  |  |
