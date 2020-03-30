@@ -226,23 +226,23 @@ A couple of other differences you need to be aware of between Function Component
 - Function Components return their JSX from the function; whereas Class Components must define a `render` method that returns the JSX.
 - You access props in a Class Component as `this.props` instead of just `props`, which is the name of the parameter commonly used when defining Function Components.
 
-## Exercise: Identify the App's Components
+## Identifing react-mastermind's Components
 
-#### Start With A Mockup or Wireframe
+#### Start a Wireframe
 
-We'll need a mockup or wireframe of the Mastermind game to guide us.
+It's a common practice to start with a wireframe and identify the components by "outlining" and naming them.
 
-Because I've already written the app, I'm able to show you a screenshot of the actual app we'll be building.
+Identifying a UI's components, like much of programming, is part art.  Therefore, the final component hierarchy can vary.
 
-We're going to use the following screenshot as a hi-fidelity wireframe:
+Because we already have the final version of the app available we can  use the following screenshot as a hi-fidelity wireframe:
 
 <img src="https://i.imgur.com/vgmgR1P.png">
 
-#### Outline Components (Class Exercise)
+#### Outline and Name Components
 
-Looking again at the image near the top of the page shows how we might identify components by outlining and naming the individual components. Doing so reveals the hierarchy and relationship between them.
+<img src="https://i.imgur.com/Uj3lIU5.png">
 
-Here are the names of the components used in the final app:
+As you can see, we've identified the following components:
 
 - `<App>`
 - `<header>`
@@ -256,9 +256,9 @@ Here are the names of the components used in the final app:
 - `<NewGameButton>`
 - `<footer>`
 
-As a class, let's identify the hierarchy and outline the above components in the above wireframe.
+Note that we're ignoring the **Difficulty** "button", because it's actually just a link (`<a>`) that routes to the difficulty screen.
 
-> Let's ignore the **Difficulty** "button", because it's actually just a link (`<a>`) that routes to the difficulty screen.
+Also note that contrary to the image, the `<header>` and `<footer>` components will be React Elements, not custom components.
 
 ## A React Development Approach
 
