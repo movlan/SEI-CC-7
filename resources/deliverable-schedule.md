@@ -20,7 +20,7 @@ It is a requirement to complete at least **80%** of the following to to receive:
 |Tue 2/25|[Mongoose "Flights" Lab - Part 1 ](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w04/d5/04-mongoose-flights-lab-part-1.md), [Part 2](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w05/d1/03-04-mongoose-flights-lab-part-2.md) and [Part 3](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w05/d2/mongoose-flights-lab-part-3.md)| Tue 3/3 |
 |Tue 3/10|[Python Intro & Control Flow Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/tree/master/work/w07/d2/03-control-flow-lab)| Tue 3/17 |
 |Mon 3/16 thru Thu 3/19|Django "FinchCollector" Lab - Implement all features of CatCollector (excluding uploading images)| Thu 3/26 |
-|Mon 3/30|React "Floorplan" Lab| Mon 4/6 |
+|Mon 3/30| [React "Floorplan" Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w10/d1/04-react-floorplan-lab.md) | Mon 4/6 |
 |Mon 3/31|React "Students" Lab| Mon 4/7 |
 |Mon 4/1|React Styling Lab| Mon 4/8 |
 
