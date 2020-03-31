@@ -242,7 +242,7 @@ Because we already have the final version of the app available we can  use the f
 
 #### Outline and Name Components
 
-<img src="https://i.imgur.com/Uj3lIU5.png">
+<img src="https://i.imgur.com/QHhzw0D.png">
 
 As you can see, we've identified the following components:
 
