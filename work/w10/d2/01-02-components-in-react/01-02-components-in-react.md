@@ -142,7 +142,9 @@ Don't think that by writing a game, you won't learn how to use React in non-game
 
 Our goal is by the end of the week, to have a working game of [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)).
 
-You're not familiar? Come on, it was only named game of the year - in 1973 :)
+You're not familiar? Come on, it was only named game of the year - in 1973!
+
+Mastermind recently turned 50 and [this recent article](https://www.vice.com/en_us/article/884k54/permalink-mastermind-board-game-50th-anniversary-origins-fallout-cybersecurity) has more info about Mastermind than you'd care to know.
 
 It normally takes two players to play Mastermind because one player had to set the secret code and score the guesses of the other player trying to break the code.
 
