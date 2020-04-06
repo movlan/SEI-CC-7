@@ -84,7 +84,6 @@ Include the following sections within the **`README.md`**:
   	
 - A link to the **deployed app** (Heroku)
 - A link to the **Trello board** used for the project's planning that includes user stories, wireframes & an ERD.
-- A link to the **pitch-deck**.
   
 ☐ **Next Steps**: Planned future enhancements (icebox items).
   
