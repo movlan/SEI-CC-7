@@ -78,12 +78,12 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
     <tr>
       <td rowspan="3">Developing Single-page Apps</td>
       <td align="center">10</td>
-      <td>AJAX<br>Web Sockets<br>SPA Architecture<br>ReactJS Library</td>
+      <td>SPA Architecture<br>ReactJS Library<br>Client-side Routing (React)</td>
       <td rowspan="3">MERN-stack Application</td>
     </tr>
     <tr>
       <td align="center">11</td>
-      <td>Client-side Routing (React)<br>Full-stack React<br>Token-based Authentication (React)</td>
+      <td>Web Sockets<br>AJAX<br>Full-stack React<br>Token-based Authentication</td>
     </tr>
     <tr>
       <td align="center">12</td>
