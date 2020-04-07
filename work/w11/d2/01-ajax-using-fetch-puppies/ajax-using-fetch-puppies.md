@@ -396,7 +396,7 @@
 	  indexViewEl.style.display =
 	    currentView === 'index' ? 'block' : 'none';
 	  if (currentView === 'index') {
-	    let html = puppies.reduce((html, pup) => html + 
+	    const html = puppies.reduce((html, pup) => html + 
 	      `<div>${pup.name} (${pup.breed}) - age ${pup.age}</div>`, '');
 	    listContainerEl.innerHTML = html;
 	  } else if (currentView === 'create') {
@@ -509,7 +509,7 @@ is the most suitable iterator method.
 	async function handleAddPuppy() {
 	  // Ensure there's a name entered
 	  if (inputEls[0].value) {
-	    let newPup = await fetch(BASE_URL, {
+	    const newPup = await fetch(BASE_URL, {
 	      method: 'POST',
 	      headers: {'Content-Type': 'application/json'},
 	      body: JSON.stringify({
