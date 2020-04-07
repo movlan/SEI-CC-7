@@ -25,5 +25,5 @@ Bonus:
 
  ### Docs
 
- [react-router](https://reacttraining.com/react-router/web/guides/quick-start)
- [semantic-ui-react](https://react.semantic-ui.com/)
+ - [react-router](https://reacttraining.com/react-router/web/guides/quick-start)
+ - [semantic-ui-react](https://react.semantic-ui.com/)
