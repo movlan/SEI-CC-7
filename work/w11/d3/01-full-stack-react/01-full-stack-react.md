@@ -275,7 +275,7 @@ Just to be clear, the Express backend is fully configured and ready for addition
 
 When the time comes, be sure to add folders such as `config`, `routes`, `models` & `controllers` to keep your backend code organized.
 
-Additionally, in a SPA, the routes will be API-type routes, i.e., they should be namespaced using `/api` and respond with JSON, not EJS views. Refer to the **Producing an API in Express** lesson in week 5 / day 2 for details.
+Additionally, in a SPA, the routes will be API-type routes, i.e., they should be namespaced using `/api` and respond with JSON, not EJS views. Refer to the **Producing an API in Express** lesson in week 5 / day 3 for details.
 
 You will also want to refer to the Mongoose related lessons to refresh your recollection of how to define schemas and perform CRUD using Mongoose models.  Also, consider using async/await when working with Mongoose models this go around.
 
