@@ -302,14 +302,18 @@ Luckily, the React team has created an easy fix for this dilemma. The React deve
 The fix is to add a `"proxy"` key anywhere in the top-level object of  **package.json**:
 
 ```js
-...
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ],
   "proxy": "http://localhost:3001"
 }
 ```
