@@ -163,7 +163,7 @@ Let's write our server:
 
 2. `$ touch server.js`.
 
-3. At the top of **server.js**, let's do all the familiar stuff: `require` the modules; create the Express app; and mount the `morgan` logging and body parsing middleware:
+3. At the top of **server.js**, let's do all the familiar stuff: `require` the modules; create the Express app; and mount the `morgan` logging middleware and `express.json()` middleware that processes JSON data sent in the AJAX request and adds it to the `req.body`:
 
 	```js
 	const express = require('express');
@@ -177,6 +177,8 @@ Let's write our server:
 	app.use(express.json());
 	```
 
+	**Why don't we need to mount the `express.urlencoded()` middleware also?**
+
 4. Mount and configure the `serve-favicon` & `static` middleware so that they serve from the **build** (production-ready) folder:
 
 	```js
@@ -188,17 +190,7 @@ Let's write our server:
 	app.use(express.static(path.join(__dirname, 'build')));
 	```
 
-5. Mount the `express.json()` middleware that processes JSON data sent in the AJAX request and adds it to the `req.body`:
-
-	```js
-	app.use(favicon(path.join(__dirname, 'build', 'favicon.ico')));
-	app.use(express.static(path.join(__dirname, 'build')));
-	// Add middleware to add JSON data to req.body
-	app.use(express.json());
-	```
-	**Why don't we need to mount the `express.urlencoded()` middleware also?**
-
-6. A single "catch all" route is required for client-side routing to work properly:
+5. A single "catch all" route is required for client-side routing to work properly:
 
 	```js
 	// Put API routes here, before the "catch all" route
@@ -225,7 +217,7 @@ Let's write our server:
 	
 	When **index.html** loads in the browser, and our SPA's router kicks into action, it will see the path of `/sales/dashboard` and route to the correct feature, just as if the link was clicked from within the SPA!
 
-7. Set the port for development to use 3001 so that React's dev server can continue to use 3000 and finally, tell the Express app to listen for incoming requests:
+6. Set the port for development to use 3001 so that React's dev server can continue to use 3000 and finally, tell the Express app to listen for incoming requests:
 
 	```js
 	// Configure to use port 3001 instead of 3000 during
