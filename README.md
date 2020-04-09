@@ -7,6 +7,7 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 ### Contents
 
 - Course Dates and Holidays
+- Link to Global Zoom Room
 - Course Curriculum
 - Instructional Team / Contact Info
 - Links to Sign Up for Global Instructor's Office Hours
@@ -23,6 +24,10 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 - Course duration: Monday, January 27th, 2020 - Monday, April 20th, 2020  (60 days - not including holidays)
 - Holiday:
 	- Feb 17th, 2020 (Presidents Day)
+
+### Link to Global Zoom Room
+
+[Link to join the Global Zoom Room](https://generalassembly.zoom.us/j/267604718?pwd=MlNmYWIzbklRc3dja1BFaHNqZHl0QT09)
 
 ### Course Curriculum
 
