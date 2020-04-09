@@ -602,6 +602,8 @@ First let's add an `onClick` prop to the link:
 
 **Where does the `handleLogout` method needs to go?**
 
+(app.js!) because thats where our state is!
+
 ```js
 handleLogout = () => {
   userService.logout();
