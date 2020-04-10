@@ -28,11 +28,11 @@
 | Brian | DEN |  |  |  |  |
 | Cody | DEN |  |  |  |  |
 | Dagny | DEN |  |  |  |  |
-| Jacob | DEN |  |  |  |  |
+| Jacob | DEN | FORE-card | [link](https://github.com/LaunchPad90/FORE-card) | [link](https://trello.com/b/aQziq4Gr/fore-card) |  |
 | Janson | DEN |  |  |  |  |
 | Jeremy | DEN |  |  |  |  |
 | Will (Robert) | DEN |  |  |  |  |
-| Ryan | DEN |  |  |  |  |
+| Ryan | DEN | My Library | [link](https://github.com/Ryan-Finch/My-Library) | [link](https://trello.com/b/ROb5V7j8/my-library) |  |
 | Amir | LA |  |  |  |  |
 | Brennan | LA |  |  |  |  |
 | Carl "CJ" | LA |  |  |  |  |
@@ -49,5 +49,5 @@
 | Alex | SD |  |  |  |  |
 | Jonathan | SD |  |  |  |  |
 | Rocky | SD |  |  |  |  |
-| Ryan | SD |  |  |  |  |
+| Ryan | SD | SWANK | [link](https://github.com/rockyliwanag/SWANK) | [link](https://trello.com/b/h4vipuzi/swank) |  |
 | Trey | SD |  |  |  |  |
