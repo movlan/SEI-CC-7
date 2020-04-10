@@ -42,7 +42,7 @@
 | Francis | LA |  |  |  |  |
 | Hunter | LA | ? | [link](https://github.com/Hunner4D/GA-SEI-PROJECT-4) | [link](https://trello.com/b/xGy9nZmF/project-4-hunter-h-la) |  |
 | Jose | LA |  |  |  |  |
-| Milad | LA |  |  |  |  |
+| Milad | LA | Plan It | [link](https://github.com/MiladMalakooti/project4-plan-it) | [link](https://trello.com/b/DjqQBDgQ/plan-it) |  |
 | Ruben | LA |  |  |  |  |
 | Sarah | LA |  |  |  |  |
 | Stephanie | LA |  |  |  |  |
