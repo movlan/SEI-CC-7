@@ -30,7 +30,7 @@
 | Dagny | DEN | SingMuse | [link](https://github.com/DagnyJay/SingMuse) | [link](https://trello.com/b/x5quFuzx/capstone-project-singmuse) |  |
 | Jacob | DEN | FORE-card | [link](https://github.com/LaunchPad90/FORE-card) | [link](https://trello.com/b/aQziq4Gr/fore-card) |  |
 | Janson | DEN |  |  |  |  |
-| Jeremy | DEN |  |  |  |  |
+| Jeremy | DEN | What Do You Know? | [link](https://github.com/TheJoo44/what-do-you-know) | [link](https://trello.com/b/YQ9poumC/what-do-you-know) |  |
 | Will (Robert) | DEN |  |  |  |  |
 | Ryan | DEN | My Library | [link](https://github.com/Ryan-Finch/My-Library) | [link](https://trello.com/b/ROb5V7j8/my-library) |  |
 | Amir | LA |  |  |  |  |
