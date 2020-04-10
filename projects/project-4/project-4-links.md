@@ -3,7 +3,7 @@
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Alan | ATX |  |  |  |  |
-| Alanna | ATX |  |  |  |  |
+| Alanna | ATX | Steam Collector | [link](https://github.com/celentanoad/steam-collector) | [link](https://trello.com/b/qPsezBwh/steam-collector) |  |
 | Brandon | ATX |  |  |  |  |
 | Crystal | ATX |  |  |  |  |
 | Daniel | ATX | ? | [link](https://github.com/90dandan/Project4) | [link](https://trello.com/b/zBQaprxH/project-4) |  |
