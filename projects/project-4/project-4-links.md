@@ -5,7 +5,7 @@
 | Alan | ATX | Monster Academy | [link](https://github.com/acmccracken/monster-academy) | [link](https://trello.com/b/ToJAQuaT/monster-academy) |  |
 | Alanna | ATX | Steam Collector | [link](https://github.com/celentanoad/steam-collector) | [link](https://trello.com/b/qPsezBwh/steam-collector) |  |
 | Brandon | ATX |  |  |  |  |
-| Crystal | ATX |  |  |  |  |
+| Crystal | ATX | BookTrack | [link](https://github.com/crystallynnv/booktrack) | [link](https://trello.com/b/PlpP16sB/booktrack) |  |
 | Daniel | ATX | ? | [link](https://github.com/90dandan/Project4) | [link](https://trello.com/b/zBQaprxH/project-4) |  |
 | David | ATX |  |  |  |  |
 | Jan | ATX | LibRo | [link](https://github.com/jlee8020/LibRo) | [link](https://trello.com/b/JBmPqtiZ/mern-stack-project-4) |  |
@@ -13,7 +13,7 @@
 | Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) |  |
 | Michael | ATX | Pincher | [link](https://github.com/mlackey9601/pincher) | [link](https://trello.com/b/g6V7Aji2/pincher) |  |
 | Skylar | ATX |  |  |  |  |
-| Tan | ATX |  |  |  |  |
+| Tan | ATX | Sunday Band Planner | [link](https://github.com/zeroxposur18/sunday-band-planner-MERN) | [link](https://trello.com/b/epkg7Xfx/sunday-band-planner-mern) |  |
 | Vinnie | ATX |  |  |  |  |
 | Adam | DAL | BeerNear | [link](https://github.com/azebolsky/BeerNear) | [link](https://trello.com/b/o1qq4eoE/beernear) |  |
 | Brianna | DAL | Knee Slappers | [link](https://github.com/bnfisher4/kneeslappers) | [link](https://trello.com/b/6K5anC8v/project-4-kneeslappers) |  |
