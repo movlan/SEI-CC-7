@@ -7,7 +7,7 @@
 | Brandon | ATX | RollOut | [link](https://github.com/bcarteratx/RollOut) | [link](https://trello.com/b/PomVEGpQ/project-4-rollout) |  |
 | Crystal | ATX | BookTrack | [link](https://github.com/crystallynnv/booktrack) | [link](https://trello.com/b/PlpP16sB/booktrack) |  |
 | Daniel | ATX | ? | [link](https://github.com/90dandan/Project4) | [link](https://trello.com/b/zBQaprxH/project-4) |  |
-| David | ATX |  |  |  |  |
+| David | ATX | BlogsIt | [link](https://github.com/DavidStinson/davidBlogsIt) | [link](https://trello.com/b/cwVj9rSX/davidblogsit) |  |
 | Jan | ATX | LibRo | [link](https://github.com/jlee8020/LibRo) | [link](https://trello.com/b/JBmPqtiZ/mern-stack-project-4) |  |
 | Lincoln | ATX | Job Search Tracker | [link](https://github.com/lincolnyouree/Job-Search-Tracker) | [link](https://trello.com/b/o0FYqJuq/job-search-tracker-react) |  |
 | Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) |  |
