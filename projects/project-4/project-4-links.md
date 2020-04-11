@@ -38,7 +38,7 @@
 | Carl "CJ" | LA | Turtles Ninja | [link](https://github.com/cjstokes91/turtles-ninja) | [link](https://trello.com/b/4atzQ8nU/project-4-react) |  |
 | Caroline | LA | Gallery Messenger | [link](https://github.com/H-b8/gallery-messanger) | [link](https://www.notion.so/PROJECT-4-200bd976158644b5879e5cd1a1542d51) |  |
 | Cedric | LA | YouTuber | [link](https://github.com/ccrisolo/youtuber) | [link](https://trello.com/b/XTpCyKLy/sei-project-4) |  |
-| Danny | LA |  |  |  |  |
+| Danny | LA | Equipt | [link](https://github.com/chasmad/equipt) | [link](https://trello.com/b/FWdmXH4L/equipt) |  |
 | Francis | LA |  |  |  |  |
 | Hunter | LA | ? | [link](https://github.com/Hunner4D/GA-SEI-PROJECT-4) | [link](https://trello.com/b/xGy9nZmF/project-4-hunter-h-la) |  |
 | Jose | LA |  |  |  |  |
