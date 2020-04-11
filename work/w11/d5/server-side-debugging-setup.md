@@ -74,7 +74,7 @@ Therefore, update `launch.json` as follows:
 
 ### Debugging
 
-To debug your server-side JavaScript, it's best to refer to the [VS Code's excellent debugging documentation](https://code.visualstudio.com/docs/editor/debugging).
+To debug your server-side JavaScript, it's best to refer to [VS Code's excellent debugging documentation](https://code.visualstudio.com/docs/editor/debugging).
 
 > Note that since starting the debugger will start up the server code, it's very important to shut down the server if it's already running in terminal.
 
