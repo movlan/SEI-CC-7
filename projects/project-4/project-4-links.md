@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|:---:|:---:|
 | Alan | ATX | Monster Academy | [link](https://github.com/acmccracken/monster-academy) | [link](https://trello.com/b/ToJAQuaT/monster-academy) |  |
 | Alanna | ATX | Steam Collector | [link](https://github.com/celentanoad/steam-collector) | [link](https://trello.com/b/qPsezBwh/steam-collector) |  |
-| Brandon | ATX |  |  |  |  |
+| Brandon | ATX | RollOut | [link](https://github.com/bcarteratx/RollOut) | [link](https://trello.com/b/PomVEGpQ/project-4-rollout) |  |
 | Crystal | ATX | BookTrack | [link](https://github.com/crystallynnv/booktrack) | [link](https://trello.com/b/PlpP16sB/booktrack) |  |
 | Daniel | ATX | ? | [link](https://github.com/90dandan/Project4) | [link](https://trello.com/b/zBQaprxH/project-4) |  |
 | David | ATX |  |  |  |  |
@@ -12,9 +12,9 @@
 | Lincoln | ATX | Job Search Tracker | [link](https://github.com/lincolnyouree/Job-Search-Tracker) | [link](https://trello.com/b/o0FYqJuq/job-search-tracker-react) |  |
 | Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) |  |
 | Michael | ATX | Pincher | [link](https://github.com/mlackey9601/pincher) | [link](https://trello.com/b/g6V7Aji2/pincher) |  |
-| Skylar | ATX |  |  |  |  |
+| Skylar | ATX | Bookshelf | [link](https://github.com/skylarw19/bookshelf) | [link](https://trello.com/b/UDVb2SI0/bookshelf-react) |  |
 | Tan | ATX | Sunday Band Planner | [link](https://github.com/zeroxposur18/sunday-band-planner-MERN) | [link](https://trello.com/b/epkg7Xfx/sunday-band-planner-mern) |  |
-| Vinnie | ATX |  |  |  |  |
+| Vinnie | ATX | ? | [link](https://github.com/vin23-dev/ga-capstone-project) | [link](https://trello.com/b/c8fqExLw/ga-capstone-project) |  |
 | Adam | DAL | BeerNear | [link](https://github.com/azebolsky/BeerNear) | [link](https://trello.com/b/o1qq4eoE/beernear) |  |
 | Brianna | DAL | Knee Slappers | [link](https://github.com/bnfisher4/kneeslappers) | [link](https://trello.com/b/6K5anC8v/project-4-kneeslappers) |  |
 | David | DAL | OneFiftyOne | [link](https://github.com/fastlane27/onefiftyone) | [link](https://trello.com/b/WvLJlvg5/prjocet-4) |  |
@@ -39,13 +39,13 @@
 | Caroline | LA | Gallery Messenger | [link](https://github.com/H-b8/gallery-messanger) | [link](https://www.notion.so/PROJECT-4-200bd976158644b5879e5cd1a1542d51) |  |
 | Cedric | LA | YouTuber | [link](https://github.com/ccrisolo/youtuber) | [link](https://trello.com/b/XTpCyKLy/sei-project-4) |  |
 | Danny | LA | Equipt | [link](https://github.com/chasmad/equipt) | [link](https://trello.com/b/FWdmXH4L/equipt) |  |
-| Francis | LA |  |  |  |  |
+| Francis | LA | Twitter App | [link](https://github.com/francismel/Final_Project) | [link](https://trello.com/b/dBGOJnwE/twitter-app) |  |
 | Hunter | LA | ? | [link](https://github.com/Hunner4D/GA-SEI-PROJECT-4) | [link](https://trello.com/b/xGy9nZmF/project-4-hunter-h-la) |  |
 | Jose | LA |  |  |  |  |
 | Milad | LA | Plan It | [link](https://github.com/MiladMalakooti/project4-plan-it) | [link](https://trello.com/b/DjqQBDgQ/plan-it) |  |
-| Ruben | LA |  |  |  |  |
+| Ruben | LA | ha-store | [link](https://github.com/R101010/hastore) | [link](https://trello.com/b/PkbaSOmr/ha-store) |  |
 | Sarah | LA |  |  |  |  |
-| Stephanie | LA |  |  |  |  |
+| Stephanie | LA | ? | [link](https://github.com/skimalee/project-four) | [link](https://trello.com/b/CgNPrOMf/project-four) |  |
 | Alex | SD |  |  |  |  |
 | Jonathan | SD |  |  |  |  |
 | Ryan | SD | Auditory | [link](https://github.com/RyanBranco/auditory) | [link](https://trello.com/b/CsPW09KW/project-4-planning) |  |
