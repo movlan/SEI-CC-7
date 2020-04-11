@@ -36,7 +36,7 @@
 | Amir | LA | ? | [link](https://github.com/Amir9499-99/MERN-Stack) | [link](https://trello.com/b/dmdzpdsz/project-4) |  |
 | Brennan | LA | ? | [link](https://github.com/Chariot7/project4) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) |  |
 | Carl "CJ" | LA | Turtles Ninja | [link](https://github.com/cjstokes91/turtles-ninja) | [link](https://trello.com/b/4atzQ8nU/project-4-react) |  |
-| Caroline | LA |  |  |  |  |
+| Caroline | LA | Gallery Messenger | [link](https://github.com/H-b8/gallery-messanger) | [link](https://www.notion.so/PROJECT-4-200bd976158644b5879e5cd1a1542d51) |  |
 | Cedric | LA | YouTuber | [link](https://github.com/ccrisolo/youtuber) | [link](https://trello.com/b/XTpCyKLy/sei-project-4) |  |
 | Danny | LA |  |  |  |  |
 | Francis | LA |  |  |  |  |
