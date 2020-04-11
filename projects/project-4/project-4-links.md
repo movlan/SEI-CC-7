@@ -33,8 +33,8 @@
 | Jeremy | DEN | What Do You Know? | [link](https://github.com/TheJoo44/what-do-you-know) | [link](https://trello.com/b/YQ9poumC/what-do-you-know) |  |
 | Will (Robert) | DEN | CityWiki | [link](https://github.com/rjohnson0707/CityWiki) | [link](https://trello.com/b/6lrR9dYn/citywiki) |  |
 | Ryan | DEN | My Library | [link](https://github.com/Ryan-Finch/My-Library) | [link](https://trello.com/b/ROb5V7j8/my-library) |  |
-| Amir | LA |  |  |  |  |
-| Brennan | LA |  |  |  |  |
+| Amir | LA | ? | [link](https://github.com/Amir9499-99/MERN-Stack) | [link](https://trello.com/b/dmdzpdsz/project-4) |  |
+| Brennan | LA | ? | [link](https://github.com/Chariot7/project4) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) |  |
 | Carl "CJ" | LA | Turtles Ninja | [link](https://github.com/cjstokes91/turtles-ninja) | [link](https://trello.com/b/4atzQ8nU/project-4-react) |  |
 | Caroline | LA |  |  |  |  |
 | Cedric | LA | YouTuber | [link](https://github.com/ccrisolo/youtuber) | [link](https://trello.com/b/XTpCyKLy/sei-project-4) |  |
