@@ -46,7 +46,7 @@
 | Ruben | LA | ha-store | [link](https://github.com/R101010/hastore) | [link](https://trello.com/b/PkbaSOmr/ha-store) |  |
 | Sarah | LA |  |  |  |  |
 | Stephanie | LA | ? | [link](https://github.com/skimalee/project-four) | [link](https://trello.com/b/CgNPrOMf/project-four) |  |
-| Alex | SD |  |  |  |  |
+| Alex | SD | Offset | [link](https://github.com/Codealicious/project_4) | [link](https://trello.com/b/rLxWMnMd/offset) |  |
 | Jonathan | SD |  |  |  |  |
 | Ryan | SD | Auditory | [link](https://github.com/RyanBranco/auditory) | [link](https://trello.com/b/CsPW09KW/project-4-planning) |  |
 | Rocky | SD | SWANK | [link](https://github.com/rockyliwanag/SWANK) | [link](https://trello.com/b/h4vipuzi/swank) |  |
