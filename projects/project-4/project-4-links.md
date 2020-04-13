@@ -29,7 +29,7 @@
 | Cody | DEN | Surdist | [link](https://github.com/CodyLHart/surdist) | [link](https://trello.com/b/OFLgoY3S/surdist-website) |  |
 | Dagny | DEN | SingMuse | [link](https://github.com/DagnyJay/SingMuse) | [link](https://trello.com/b/x5quFuzx/capstone-project-singmuse) |  |
 | Jacob | DEN | FORE-card | [link](https://github.com/LaunchPad90/FORE-card) | [link](https://trello.com/b/aQziq4Gr/fore-card) |  |
-| Janson | DEN |  |  |  |  |
+| Janson | DEN | Blink | [link](https://github.com/jayjaybunce/blink) | [link](https://trello.com/b/tW8zbcGQ/project4) |  |
 | Jeremy | DEN | What Do You Know? | [link](https://github.com/TheJoo44/what-do-you-know) | [link](https://trello.com/b/YQ9poumC/what-do-you-know) |  |
 | Will (Robert) | DEN | CityWiki | [link](https://github.com/rjohnson0707/CityWiki) | [link](https://trello.com/b/6lrR9dYn/citywiki) |  |
 | Ryan | DEN | My Library | [link](https://github.com/Ryan-Finch/My-Library) | [link](https://trello.com/b/ROb5V7j8/my-library) |  |
