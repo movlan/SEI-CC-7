@@ -44,7 +44,7 @@
 | Jose | LA |  |  |  |  |
 | Milad | LA | Plan It | [link](https://github.com/MiladMalakooti/project4-plan-it) | [link](https://trello.com/b/DjqQBDgQ/plan-it) |  |
 | Ruben | LA | ha-store | [link](https://github.com/R101010/hastore) | [link](https://trello.com/b/PkbaSOmr/ha-store) |  |
-| Sarah | LA |  |  |  |  |
+| Sarah | LA | Trivialize | [link](https://github.com/arghmatey/trivialize) | [link](https://trello.com/b/dCfEldWq/trivialize) |  |
 | Stephanie | LA | ? | [link](https://github.com/skimalee/project-four) | [link](https://trello.com/b/CgNPrOMf/project-four) |  |
 | Alex | SD | Offset | [link](https://github.com/Codealicious/project_4) | [link](https://trello.com/b/rLxWMnMd/offset) |  |
 | Jonathan | SD |  |  |  |  |
