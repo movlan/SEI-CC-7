@@ -41,7 +41,7 @@
 | Danny | LA | Equipt | [link](https://github.com/chasmad/equipt) | [link](https://trello.com/b/FWdmXH4L/equipt) |  |
 | Francis | LA | Twitter App | [link](https://github.com/francismel/Final_Project) | [link](https://trello.com/b/dBGOJnwE/twitter-app) |  |
 | Hunter | LA | ? | [link](https://github.com/Hunner4D/GA-SEI-PROJECT-4) | [link](https://trello.com/b/xGy9nZmF/project-4-hunter-h-la) |  |
-| Jose | LA |  |  |  |  |
+| Jose | LA | Fingerprints | [link](https://github.com/codecallogic/fingerPrints) | [link](https://trello.com/b/cO7vgX4T/fingerprints) |  |
 | Milad | LA | Plan It | [link](https://github.com/MiladMalakooti/project4-plan-it) | [link](https://trello.com/b/DjqQBDgQ/plan-it) |  |
 | Ruben | LA | ha-store | [link](https://github.com/R101010/hastore) | [link](https://trello.com/b/PkbaSOmr/ha-store) |  |
 | Sarah | LA | Trivialize | [link](https://github.com/arghmatey/trivialize) | [link](https://trello.com/b/dCfEldWq/trivialize) |  |
