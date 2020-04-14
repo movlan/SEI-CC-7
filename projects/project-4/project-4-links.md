@@ -11,7 +11,7 @@
 | Jan | ATX | LibRo | [link](https://github.com/jlee8020/LibRo) | [link](https://trello.com/b/JBmPqtiZ/mern-stack-project-4) |  |
 | Lincoln | ATX | Job Search Tracker | [link](https://github.com/lincolnyouree/Job-Search-Tracker) | [link](https://trello.com/b/o0FYqJuq/job-search-tracker-react) |  |
 | Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) |  |
-| Michael | ATX | Pincher | [link](https://github.com/mlackey9601/pincher) | [link](https://trello.com/b/g6V7Aji2/pincher) |  |
+| Michael | ATX | Battlebrush | [link](https://github.com/mlackey9601/battlebrush) | [link](https://trello.com/b/g6V7Aji2/battlebrush) |  |
 | Skylar | ATX | Bookshelf | [link](https://github.com/skylarw19/bookshelf) | [link](https://trello.com/b/UDVb2SI0/bookshelf-react) |  |
 | Tan | ATX | Instrument Collector | [link](https://github.com/zeroxposur18/instrument-collector) | [link](https://trello.com/b/mTsGACNj/instrument-collector) |  |
 | Vinnie | ATX | ? | [link](https://github.com/vin23-dev/ga-capstone-project) | [link](https://trello.com/b/c8fqExLw/ga-capstone-project) |  |
