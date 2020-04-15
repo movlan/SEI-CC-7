@@ -18,7 +18,7 @@
 | Adam | DAL | BeerNear | [link](https://github.com/azebolsky/BeerNear) | [link](https://trello.com/b/o1qq4eoE/beernear) |  |
 | Brianna | DAL | Knee Slappers | [link](https://github.com/bnfisher4/kneeslappers) | [link](https://trello.com/b/6K5anC8v/project-4-kneeslappers) |  |
 | David | DAL | OneFiftyOne | [link](https://github.com/fastlane27/onefiftyone) | [link](https://trello.com/b/WvLJlvg5/prjocet-4) |  |
-| Eric | DAL | Growth | [link](https://github.com/ericjames3681/Growth) | [link](https://trello.com/b/sPZ6IyXL/growth) |  |
+| Eric | DAL | Growth | [link](https://github.com/ericjames3681/Growth) | [link](https://trello.com/b/sPZ6IyXL/growth) | [link](https://growth-site.herokuapp.com/) |
 | Fabrizio | DAL | PostGame | [link](https://github.com/fabo22/postgame) | [link](https://trello.com/b/yxjHMj4S/postgame) |  |
 | Gabriel | DAL | Chatterbox | [link](https://github.com/gar0085/chatterbox-frontend) |  [link](https://trello.com/b/44Ms1y0r/project-4-chatterbox) |  |
 | Matthew | DAL | Do You Even Meme | [link](https://github.com/Matthew-Coalson/Do-You-Even-Meme) | [link](https://trello.com/b/yfDxGWE3/do-you-even-meme) |  |
