@@ -12,7 +12,7 @@
 | Lincoln | ATX | Job Search Tracker | [link](https://github.com/lincolnyouree/Job-Search-Tracker) | [link](https://trello.com/b/o0FYqJuq/job-search-tracker-react) |  |
 | Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) |  |
 | Michael | ATX | Battlebrush | [link](https://github.com/mlackey9601/battlebrush) | [link](https://trello.com/b/g6V7Aji2/battlebrush) |  |
-| Skylar | ATX | Bookshelf | [link](https://github.com/skylarw19/bookshelf) | [link](https://trello.com/b/UDVb2SI0/bookshelf-react) |  |
+| Skylar | ATX | Funkopop | [link](https://github.com/skylarw19/funkopop-collector) | [link](https://trello.com/b/4sS3YLW6/funkopop-collector) |  |
 | Tan | ATX | Instrument Collector | [link](https://github.com/zeroxposur18/instrument-collector) | [link](https://trello.com/b/mTsGACNj/instrument-collector) |  |
 | Vinnie | ATX | ? | [link](https://github.com/vin23-dev/ga-capstone-project) | [link](https://trello.com/b/c8fqExLw/ga-capstone-project) |  |
 | Adam | DAL | BeerNear | [link](https://github.com/azebolsky/BeerNear) | [link](https://trello.com/b/o1qq4eoE/beernear) |  |
