@@ -7,8 +7,8 @@
 | Brandon | ATX | RollOut | [link](https://github.com/bcarteratx/RollOut) | [link](https://trello.com/b/PomVEGpQ/project-4-rollout) |  |
 | Crystal | ATX | BookTrack | [link](https://github.com/crystallynnv/booktrack) | [link](https://trello.com/b/PlpP16sB/booktrack) |  |
 | Daniel | ATX | ? | [link](https://github.com/90dandan/Project4) | [link](https://trello.com/b/zBQaprxH/project-4) |  |
-| David | ATX | BlogsIt | [link](https://github.com/DavidStinson/davidBlogsIt) | [link](https://trello.com/b/cwVj9rSX/davidblogsit) |  |
-| Jan | ATX | LibRo | [link](https://github.com/jlee8020/LibRo) | [link](https://trello.com/b/JBmPqtiZ/mern-stack-project-4) |  |
+| David | ATX | BlogsIt | [link](https://github.com/DavidStinson/davidBlogsIt) | [link](https://trello.com/b/cwVj9rSX/davidblogsit) | [link](https://one-fifty-one.herokuapp.com/) |
+| Jan | ATX | LibRo | [link](https://github.com/jlee8020/LibRo) | [link](https://trello.com/b/JBmPqtiZ/mern-stack-project-4) | [link](https://libro100.herokuapp.com/) |
 | Lincoln | ATX | Job Search Tracker | [link](https://github.com/lincolnyouree/Job-Search-Tracker) | [link](https://trello.com/b/o0FYqJuq/job-search-tracker-react) | [link](https://the-search-app.herokuapp.com/) |
 | Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) |  |
 | Michael | ATX | Battlebrush | [link](https://github.com/mlackey9601/battlebrush) | [link](https://trello.com/b/g6V7Aji2/battlebrush) |  |
