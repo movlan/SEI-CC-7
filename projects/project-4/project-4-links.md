@@ -13,7 +13,7 @@
 | Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) |  |
 | Michael | ATX | Battlebrush | [link](https://github.com/mlackey9601/battlebrush) | [link](https://trello.com/b/g6V7Aji2/battlebrush) |  |
 | Skylar | ATX | Funkopop | [link](https://github.com/skylarw19/funkopop-collector) | [link](https://trello.com/b/4sS3YLW6/funkopop-collector) |  |
-| Tan | ATX | Instrument Collector | [link](https://github.com/zeroxposur18/instrument-collector) | [link](https://trello.com/b/mTsGACNj/instrument-collector) |  |
+| Tan | ATX | Instrument Collector | [link](https://github.com/zeroxposur18/instrument-collector) | [link](https://trello.com/b/mTsGACNj/instrument-collector) | [link](https://instrument-collector.herokuapp.com/) |
 | Vinnie | ATX | ? | [link](https://github.com/vin23-dev/ga-capstone-project) | [link](https://trello.com/b/c8fqExLw/ga-capstone-project) |  |
 | Adam | DAL | BeerNear | [link](https://github.com/azebolsky/BeerNear) | [link](https://trello.com/b/o1qq4eoE/beernear) |  |
 | Brianna | DAL | Knee Slappers | [link](https://github.com/bnfisher4/kneeslappers) | [link](https://trello.com/b/6K5anC8v/project-4-kneeslappers) | [link](https://kneeslappers.herokuapp.com/) |
