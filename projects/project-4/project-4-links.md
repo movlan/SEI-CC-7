@@ -16,7 +16,7 @@
 | Tan | ATX | Instrument Collector | [link](https://github.com/zeroxposur18/instrument-collector) | [link](https://trello.com/b/mTsGACNj/instrument-collector) |  |
 | Vinnie | ATX | ? | [link](https://github.com/vin23-dev/ga-capstone-project) | [link](https://trello.com/b/c8fqExLw/ga-capstone-project) |  |
 | Adam | DAL | BeerNear | [link](https://github.com/azebolsky/BeerNear) | [link](https://trello.com/b/o1qq4eoE/beernear) |  |
-| Brianna | DAL | Knee Slappers | [link](https://github.com/bnfisher4/kneeslappers) | [link](https://trello.com/b/6K5anC8v/project-4-kneeslappers) |  |
+| Brianna | DAL | Knee Slappers | [link](https://github.com/bnfisher4/kneeslappers) | [link](https://trello.com/b/6K5anC8v/project-4-kneeslappers) | [link](https://kneeslappers.herokuapp.com/) |
 | David | DAL | OneFiftyOne | [link](https://github.com/fastlane27/onefiftyone) | [link](https://trello.com/b/WvLJlvg5/prjocet-4) |  |
 | Eric | DAL | Growth | [link](https://github.com/ericjames3681/Growth) | [link](https://trello.com/b/sPZ6IyXL/growth) | [link](https://growth-site.herokuapp.com/) |
 | Fabrizio | DAL | PostGame | [link](https://github.com/fabo22/postgame) | [link](https://trello.com/b/yxjHMj4S/postgame) |  |
