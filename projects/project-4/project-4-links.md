@@ -37,7 +37,7 @@
 | Brennan | LA | ? | [link](https://github.com/Chariot7/project4) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) |  |
 | Carl "CJ" | LA | Turtles Ninja | [link](https://github.com/cjstokes91/turtles-ninja) | [link](https://trello.com/b/4atzQ8nU/project-4-react) | [link](https://dry-peak-02837.herokuapp.com/) |
 | Caroline | LA | Gallery Messenger | [link](https://github.com/H-b8/gallery-messanger) | [link](https://www.notion.so/PROJECT-4-200bd976158644b5879e5cd1a1542d51) |  |
-| Cedric | LA | YouTuber | [link](https://github.com/ccrisolo/youtuber) | [link](https://trello.com/b/XTpCyKLy/sei-project-4) |  |
+| Cedric | LA | YouTuber | [link](https://github.com/ccrisolo/youtuber) | [link](https://trello.com/b/XTpCyKLy/sei-project-4) | [link](https://youtuber-clone.herokuapp.com/) |
 | Danny | LA | Equipt | [link](https://github.com/chasmad/equipt) | [link](https://trello.com/b/FWdmXH4L/equipt) |  |
 | Francis | LA | Twitter App | [link](https://github.com/francismel/Final_Project) | [link](https://trello.com/b/dBGOJnwE/twitter-app) |  |
 | Hunter | LA | ? | [link](https://github.com/Hunner4D/GA-SEI-PROJECT-4) | [link](https://trello.com/b/xGy9nZmF/project-4-hunter-h-la) |  |
