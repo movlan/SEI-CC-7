@@ -46,7 +46,7 @@
 | Ruben | LA | ha-store | [link](https://github.com/R101010/hastore) | [link](https://trello.com/b/PkbaSOmr/ha-store) |  |
 | Sarah | LA | Trivialize | [link](https://github.com/arghmatey/trivialize) | [link](https://trello.com/b/dCfEldWq/trivialize) |  |
 | Stephanie | LA | ? | [link](https://github.com/skimalee/project-four) | [link](https://trello.com/b/CgNPrOMf/project-four) | [link](https://the-upbeat.herokuapp.com/) |
-| Alex | SD | Offset | [link](https://github.com/Codealicious/project_4) | [link](https://trello.com/b/rLxWMnMd/offset) |  |
-| Ryan | SD | Auditory | [link](https://github.com/RyanBranco/auditory) | [link](https://trello.com/b/CsPW09KW/project-4-planning) |  |
+| Alex | SD | Offset | [link](https://github.com/Codealicious/project_4) | [link](https://trello.com/b/rLxWMnMd/offset) | [link](https://project-4-hanson.herokuapp.com/) |
+| Ryan | SD | Auditory | [link](https://github.com/RyanBranco/auditory) | [link](https://trello.com/b/CsPW09KW/project-4-planning) | [link](https://auditory-app.herokuapp.com/) |
 | Rocky | SD | SWANK | [link](https://github.com/rockyliwanag/SWANK) | [link](https://trello.com/b/h4vipuzi/swank) | [link](https://swank.herokuapp.com/) |
 | Trey | SD | Coastr | [link](https://github.com/tshuldberg/Coastr) | [link](https://trello.com/b/etiUwGFi/coastr) | [link](https://coastr-app.herokuapp.com/) |
