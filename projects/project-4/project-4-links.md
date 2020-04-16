@@ -3,7 +3,7 @@
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Alan | ATX | Monster Academy | [link](https://github.com/acmccracken/monster-academy) | [link](https://trello.com/b/ToJAQuaT/monster-academy) |  |
-| Alanna | ATX | Steam Collector | [link](https://github.com/celentanoad/steam-collector) | [link](https://trello.com/b/qPsezBwh/steam-collector) |  |
+| Alanna | ATX | Steam Collector | [link](https://github.com/celentanoad/steam-collector) | [link](https://trello.com/b/qPsezBwh/steam-collector) | [link](https://steam-collector.herokuapp.com/) |
 | Brandon | ATX | RollOut | [link](https://github.com/bcarteratx/RollOut) | [link](https://trello.com/b/PomVEGpQ/project-4-rollout) |  |
 | Crystal | ATX | BookTrack | [link](https://github.com/crystallynnv/booktrack) | [link](https://trello.com/b/PlpP16sB/booktrack) |  |
 | Daniel | ATX | ? | [link](https://github.com/90dandan/Project4) | [link](https://trello.com/b/zBQaprxH/project-4) |  |
