@@ -2,20 +2,20 @@
 
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Alan | ATX | Monster Academy | [link](https://github.com/acmccracken/monster-academy) | [link](https://trello.com/b/ToJAQuaT/monster-academy) |  |
+| Alan | ATX | Monster Academy | [link](https://github.com/acmccracken/monster-academy) | [link](https://trello.com/b/ToJAQuaT/monster-academy) | [link](https://monsteracademy.herokuapp.com/login) |
 | Alanna | ATX | Steam Collector | [link](https://github.com/celentanoad/steam-collector) | [link](https://trello.com/b/qPsezBwh/steam-collector) | [link](https://steam-collector.herokuapp.com/) |
 | Brandon | ATX | RollOut | [link](https://github.com/bcarteratx/RollOut) | [link](https://trello.com/b/PomVEGpQ/project-4-rollout) |  |
-| Crystal | ATX | BookTrack | [link](https://github.com/crystallynnv/booktrack) | [link](https://trello.com/b/PlpP16sB/booktrack) |  |
+| Crystal | ATX | BookTrack | [link](https://github.com/crystallynnv/booktrack) | [link](https://trello.com/b/PlpP16sB/booktrack) | [link](https://booktrack1.herokuapp.com/) |
 | Daniel | ATX | ? | [link](https://github.com/90dandan/Project4) | [link](https://trello.com/b/zBQaprxH/project-4) |  |
 | David | ATX | BlogsIt | [link](https://github.com/DavidStinson/davidBlogsIt) | [link](https://trello.com/b/cwVj9rSX/davidblogsit) | [link](https://one-fifty-one.herokuapp.com/) |
 | Jan | ATX | LibRo | [link](https://github.com/jlee8020/LibRo) | [link](https://trello.com/b/JBmPqtiZ/mern-stack-project-4) | [link](https://libro100.herokuapp.com/) |
 | Lincoln | ATX | Job Search Tracker | [link](https://github.com/lincolnyouree/Job-Search-Tracker) | [link](https://trello.com/b/o0FYqJuq/job-search-tracker-react) | [link](https://the-search-app.herokuapp.com/) |
-| Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) |  |
+| Melony | ATX | sweetTooth | [link](https://github.com/msegnit/sweet-tooth) | [link](https://trello.com/b/Z8BmcBIJ/sweettooth) | [link](https://sweet-tooth1.herokuapp.com/) |
 | Michael | ATX | Battlebrush | [link](https://github.com/mlackey9601/battlebrush) | [link](https://trello.com/b/g6V7Aji2/battlebrush) |  |
 | Skylar | ATX | Funkopop | [link](https://github.com/skylarw19/funkopop-collector) | [link](https://trello.com/b/4sS3YLW6/funkopop-collector) |  |
 | Tan | ATX | Instrument Collector | [link](https://github.com/zeroxposur18/instrument-collector) | [link](https://trello.com/b/mTsGACNj/instrument-collector) | [link](https://instrument-collector.herokuapp.com/) |
 | Vinnie | ATX | ? | [link](https://github.com/vin23-dev/ga-capstone-project) | [link](https://trello.com/b/c8fqExLw/ga-capstone-project) |  |
-| Adam | DAL | BeerNear | [link](https://github.com/azebolsky/BeerNear) | [link](https://trello.com/b/o1qq4eoE/beernear) |  |
+| Adam | DAL | BeerNear | [link](https://github.com/azebolsky/BeerNear) | [link](https://trello.com/b/o1qq4eoE/beernear) | [link](https://beer-near.herokuapp.com/) |
 | Brianna | DAL | Knee Slappers | [link](https://github.com/bnfisher4/kneeslappers) | [link](https://trello.com/b/6K5anC8v/project-4-kneeslappers) | [link](https://kneeslappers.herokuapp.com/) |
 | David | DAL | OneFiftyOne | [link](https://github.com/fastlane27/onefiftyone) | [link](https://trello.com/b/WvLJlvg5/prjocet-4) |  |
 | Eric | DAL | Growth | [link](https://github.com/ericjames3681/Growth) | [link](https://trello.com/b/sPZ6IyXL/growth) | [link](https://growth-site.herokuapp.com/) |
