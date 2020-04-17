@@ -34,7 +34,7 @@
 | Will (Robert) | DEN | CityWiki | [link](https://github.com/rjohnson0707/CityWiki) | [link](https://trello.com/b/6lrR9dYn/citywiki) |  |
 | Ryan | DEN | My Library | [link](https://github.com/Ryan-Finch/My-Library) | [link](https://trello.com/b/ROb5V7j8/my-library) | [link](https://rf-my-library.herokuapp.com/) |
 | Amir | LA | ? | [link](https://github.com/Amir9499-99/MERN-Stack) | [link](https://trello.com/b/dmdzpdsz/project-4) | [link](https://thawing-ridge-10120.herokuapp.com/) |
-| Brennan | LA | ? | [link](https://github.com/Chariot7/project4) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) |  |
+| Brennan | LA | ? | [link](https://github.com/Chariot7/project4) | [link](https://www.notion.so/6d238284088f4534a86fccbadc0ab036?v=97c69cdc1c3448db85c2bf5326475c9b) | [link](https://art-db.herokuapp.com/) |
 | Carl "CJ" | LA | Turtles Ninja | [link](https://github.com/cjstokes91/turtles-ninja) | [link](https://trello.com/b/4atzQ8nU/project-4-react) | [link](https://dry-peak-02837.herokuapp.com/) |
 | Caroline | LA | Gallery Messenger | [link](https://github.com/H-b8/gallery-messanger) | [link](https://www.notion.so/PROJECT-4-200bd976158644b5879e5cd1a1542d51) |  |
 | Cedric | LA | YouTuber | [link](https://github.com/ccrisolo/youtuber) | [link](https://trello.com/b/XTpCyKLy/sei-project-4) | [link](https://youtuber-clone.herokuapp.com/) |
